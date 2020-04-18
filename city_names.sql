@@ -1,4 +1,4 @@
-INSERT INTO mytable(id,city_id,name) VALUES
+INSERT INTO city_names(id,city_id,name) VALUES
  (1737,2744458,'Wyns')
 ,(1740,2751493,'Lom')
 ,(1744,2759950,'Aard')
