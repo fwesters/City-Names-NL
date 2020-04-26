@@ -1,4 +1,4 @@
-INSERT INTO city_names(id,city_id,city_name) VALUES
+INSERT INTO city_names(id,city_id,name) VALUES
  (1,1,'Appingedam')
 ,(2,2,'Bierum')
 ,(3,3,'Borgsweer')
