@@ -1,4 +1,4 @@
-INSERT INTO mytable(id,name,province,latitude,longitude,population) VALUES
+INSERT INTO cities(id,name,province,latitude,longitude,population) VALUES
  (1,'Appingedam','Groningen',53.32167,6.85833,12364)
 ,(2,'Bierum','Groningen',53.3825,6.85972,605)
 ,(3,'Borgsweer','Groningen',53.29833,7.0125,125)
