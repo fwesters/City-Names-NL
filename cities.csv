@@ -119,7 +119,7 @@
 119,Woudbloem,Groningen,53.21667,6.7375,0
 120,Zuidbroek,Groningen,53.16333,6.86111,2255
 121,"'t Waar",Groningen,53.22583,6.95139,0
-122,"Bad Nieuweschans",Groningen,53.18083,7.20833,0
+122,"Bad Nieuweschans",Groningen,53.18083,7.20833,1345
 123,Beerta,Groningen,53.175,7.09167,0
 124,Blauwestad,Groningen,53.16648,7.03623,0
 125,Drieborg,Groningen,53.20667,7.18194,0
@@ -624,7 +624,7 @@
 624,Annen,Drenthe,53.0575,6.71944,3405
 625,Annerveenschekanaal,Drenthe,53.0775,6.80139,415
 626,Balloërveld,Drenthe,53.0162,6.6484,0
-627,Balloo,Drenthe,52.99583,6.63056,0
+627,Balloo,Drenthe,52.99583,6.63056,162
 628,Deurze,Drenthe,52.985,6.60972,85
 629,Eext,Drenthe,53.0175,6.73472,1225
 630,Eexterveen,Drenthe,53.05333,6.80278,430
@@ -747,7 +747,7 @@
 747,Nieuweroord,Drenthe,52.72667,6.5625,0
 748,Nieuwlande,Drenthe,52.69583,6.61389,0
 749,Noordscheschut,Drenthe,52.72417,6.53611,0
-750,Pesse,Drenthe,52.7725,6.45417,0
+750,Pesse,Drenthe,52.7725,6.45417,1600
 751,Stuifzand,Drenthe,52.7475,6.5,0
 752,Tiendeveen,Drenthe,52.7475,6.54444,0
 753,Broekhuizen,Drenthe,52.695,6.26667,120
@@ -907,7 +907,7 @@
 907,Daarlerveen,Overijssel,52.4425,6.57639,0
 908,Haarle,Overijssel,52.40417,6.83889,0
 909,Hellendoorn,Overijssel,52.38833,6.45139,660
-910,Nijverdal,Overijssel,52.36,6.46806,0
+910,Nijverdal,Overijssel,52.36,6.46806,24698
 911,Hengelo,Overijssel,52.26583,6.79306,80809
 912,"Ambt Delden",Overijssel,52.27015,6.63969,0
 913,Bentelo,Overijssel,52.22417,6.68333,730
@@ -960,7 +960,7 @@
 960,Rijssen,Overijssel,52.30667,6.51806,0
 961,IJhorst,Overijssel,52.65917,6.29167,780
 962,Punthorst,Overijssel,52.61417,6.2625,0
-963,Rouveen,Overijssel,52.61417,6.18472,0
+963,Rouveen,Overijssel,52.61417,6.18472,4020
 964,Staphorst,Overijssel,52.645,6.21111,15765
 965,Baarlo,Overijssel,52.73833,5.95,0
 966,Baars,Overijssel,52.81333,6.09167,0
@@ -971,7 +971,7 @@
 971,"De Bult",Overijssel,52.81333,6.12917,0
 972,"De Pol",Overijssel,52.82,6.08056,0
 973,Eesveen,Overijssel,52.82417,6.14028,370
-974,Giethoorn,Overijssel,52.72096,6.07827,0
+974,Giethoorn,Overijssel,52.72096,6.07827,2719
 975,IJsselham,Overijssel,52.80833,5.95694,0
 976,Kalenberg,Overijssel,52.77667,5.95417,190
 977,Kallenkote,Overijssel,52.79833,6.17917,290
@@ -1028,7 +1028,7 @@
 1028,Biddinghuizen,Flevoland,52.455,5.69306,5010
 1029,Dronten,Flevoland,52.525,5.71806,28073
 1030,Swifterbant,Flevoland,52.56833,5.64306,0
-1031,Lelystad,Flevoland,52.49833,5.41944,0
+1031,Lelystad,Flevoland,52.49833,5.41944,77893
 1032,Bant,Flevoland,52.76833,5.75,0
 1033,Creil,Flevoland,52.76417,5.65972,0
 1034,Emmeloord,Flevoland,52.71083,5.74861,46409
@@ -1157,7 +1157,7 @@
 1157,Lunteren,Gelderland,52.085,5.62222,12510
 1158,Otterlo,Gelderland,52.1,5.77222,2230
 1159,Wekerom,Gelderland,52.1125,5.71389,2540
-1160,"'t Harde",Gelderland,52.41583,5.87917,0
+1160,"'t Harde",Gelderland,52.41583,5.87917,6790
 1161,Doornspijk,Gelderland,52.41833,5.81806,1555
 1162,Elburg,Gelderland,52.4475,5.84306,21844
 1163,Emst,Gelderland,52.31583,5.97361,1310
@@ -1236,7 +1236,7 @@
 1236,Noordeinde,Gelderland,52.51333,5.875,180
 1237,Oldebroek,Gelderland,52.445,5.90139,3275
 1238,Oosterwolde,Gelderland,52.46583,5.89167,995
-1239,Wezep,Gelderland,52.46167,5.99861,0
+1239,Wezep,Gelderland,52.46167,5.99861,12189
 1240,Groenlo,Gelderland,52.04167,6.61111,0
 1241,Harreveld,Gelderland,51.9775,6.51667,0
 1242,Lichtenvoorde,Gelderland,51.98667,6.56667,19590
