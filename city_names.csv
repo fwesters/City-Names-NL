@@ -11,3580 +11,3702 @@
 11,8,Krewerd
 12,9,Losdorp
 13,10,Meedhuizen
-14,11,"Spijk Gn"
-15,12,Termunten
-16,13,Termunterzijl
-17,14,Wagenborgen
-18,15,Woldendorp
-19,16,Garmerwolde
-20,16,Garnerwolde
-21,17,Glimmen
-22,18,Grins
-23,18,Groningen
-24,19,"Haren Gn"
-25,20,Lellens
-26,21,Meerstad
-27,22,Noordlaren
-28,23,Onnen
-29,24,"Sint Annen"
-30,25,"Ten Boer"
-31,26,"Ten Post"
-32,27,Thesinge
-33,27,Tezinge
-34,27,Thezinge
-35,28,Winneweer
-36,29,Woltersum
-37,30,Adorp
-38,31,Baflo
-39,32,Bedum
-40,33,"Den Andel"
-41,34,Eemshaven
-42,35,Eenrum
-43,36,Eppenhuizen
-44,37,Hornhuizen
-45,38,Houwerzijl
-46,38,Houwerxijl
-47,39,Kantens
-48,41,Lauwersoog
-49,42,Leens
-50,42,Liens
-51,43,Mensingeweer
-52,45,Oldenzijl
-53,45,Oldenxijl
-54,46,Onderdendam
-55,47,Oosternieland
-56,48,Oudeschip
-57,49,Pieterburen
-58,50,Rasquert
-59,50,Raskwerd
-60,51,Roodeschool
-61,51,Roodeschooi
-62,53,Saaxumhuizen
-63,53,Saaksumhuizen
-64,54,Sauwerd
-65,55,Schouwerzijl
-66,56,Stitswerd
-67,56,Stitswert
-68,57,Tinallinge
-69,58,Uithuizen
-70,59,Uithuizermeeden
-71,59,Uithuizermeden
-72,59,Uithuizermeedum
-73,60,Ulrum
-74,61,Usquert
-75,61,Uskwerd
-76,61,Uskwert
-77,62,Vierhuizen
-78,63,Warffum
-79,63,Warfum
-80,64,Warfhuizen
-81,64,Warfhuzen
-82,65,"Wehe-den Hoorn"
-83,65,Wehe
-84,65,Weë
-85,66,Westernieland
-86,67,Wetsinge
-87,69,Zandeweer
-88,70,Zoutkamp
-89,70,Sâltkamp
-90,72,Zuurdijk
-91,73,"'t Zandt"
-92,74,Eenum
-93,74,Enum
-94,75,Garrelsweer
-95,76,Garsthuizen
-96,76,Garshuizen
-97,77,Huizinge
-98,78,Leermens
-99,79,Loppersum
-100,80,Middelstum
-101,81,Oosterwijtwerd
-102,81,Oosterwijdwerd
-103,82,Startenhuizen
-104,83,Stedum
-105,84,Toornwerd
-106,84,Torenwerd
-107,85,Westeremden
-108,85,Westerenden
-109,86,Westerwijtwerd
-110,86,Westerwijdwerd
-111,87,"Wirdum Gn"
-112,89,Zijldijk
-113,90,Foxhol
-114,90,Fokshol
-115,91,Froombosch
-116,92,Harkstede
-117,93,Hellum
-118,94,Hoogezand
-119,94,Hegesân
-120,95,Kiel-Windeweer
-121,95,"Kiel Windeweer"
-122,96,Kolham
-123,97,Kropswolde
-124,98,Lageland
-125,99,Luddeweer
-126,100,Meeden
-127,101,Muntendam
-128,102,Noordbroek
-129,103,Overschild
-130,103,Graauwedijk
-131,104,Sappemeer
-132,105,Scharmer
-133,106,Schildwolde
-134,107,Siddeburen
-135,108,Slochteren
-136,109,Steendam
-137,110,Tjuchem
-138,111,Tripscompagnie
-139,112,Waterhuizen
-140,113,Westerbroek
-141,114,Woudbloem
-142,115,Zuidbroek
-143,115,Zuidbreek
-144,115,Zuidbrock
-145,115,Zuidbruek
-146,116,"'t Waar"
-147,116,"Het Waar"
-148,116,Waar
-149,117,"Bad Nieuweschans"
-150,117,Langakker
-151,117,Nijeskâns
-152,118,Beerta
-153,119,Blauwestad
-154,120,Drieborg
-155,120,Drieburg
-156,121,Finsterwolde
-157,122,Heiligerlee
-158,123,Midwolda
-159,124,"Nieuw Beerta"
-160,125,"Nieuw Scheemda"
-161,126,Nieuwolda
-162,127,Oudezijl
-163,128,Scheemda
-164,129,Westerlee
-165,130,Winschoten
-166,130,Wynskoat
-167,131,"Nieuwe Pekela"
-168,132,"Oude Pekela"
-169,134,Mussel
-170,135,Musselkanaal
-171,136,Onstwedde
-172,137,Afraai
-173,137,Stadskanaal
-174,139,Borgercompagnie
-175,140,Veendam
-176,141,Wildervank
-177,142,Aduard
-178,142,Adeward
-179,142,Adewardervoorwerk
-180,143,Boerakker
-181,144,Briltil
-182,144,"De Bril"
-183,145,"De Wilp"
-184,147,"Den Horn"
-185,148,Doezum
-186,149,Enumatil
-187,150,Ezinge
-188,151,Feerwerd
-189,152,Garnwerd
-190,153,Grijpskerk
-191,153,Gryptsjerk
-192,154,Grootegast
-193,155,Jonkersvaart
-194,156,Kommerzijl
-195,157,Kornhorn
-196,157,Koornhorn
-197,157,Kornhorne
-198,158,Lauwerzijl
-199,159,"De Leek"
-200,159,"De Like"
-201,159,Leek
-202,160,Lettelbert
-203,161,Lucaswolde
-204,162,Lutjegast
-205,163,Marum
-206,164,Midwolde
-207,165,Niebert
-208,165,Nieberd
-209,166,Niehove
-210,167,Niekerk
-211,168,Niezijl
-212,169,Noordhorn
-213,171,Nuis
-214,172,Oldehove
-215,172,Oldenhove
-216,173,Oldekerk
-217,174,Oostwold
-218,174,Oostwolde
-219,175,Opende
-220,175,"De Grinzer Pein"
-221,175,Opende-West
-222,176,Pieterzijl
-223,177,Saaksum
-224,177,Saaxum
-225,178,Sebaldeburen
-226,179,Tolbert
-227,179,Tolberd
-228,180,Visvliet
-229,182,Zuidhorn
-230,183,Bellingwolde
-231,184,Blijham
-232,185,Bourtange
-233,185,Boertang
-234,185,Boertange
-235,186,Oudeschans
-236,187,Sellingen
-237,188,"Ter Apel"
-238,189,"Ter Apelkanaal"
-239,190,Veelerveen
-240,191,Vlachtwedde
-241,191,Vlagtwedde
-242,192,Vriescheloo
-243,192,Friescheloo
-244,193,Wedde
-245,194,Augustinusga
-246,194,Stynsgea
-247,195,Boelenslaan
-248,195,Boelensloane
-249,195,Surhuisterveensterheide
-250,196,Buitenpost
-251,196,Bûtenpost
-252,197,Droegeham
-253,197,Drogeham
-254,197,Droogeham
-255,198,Gerkeskleaster
-256,198,Gerkesklooster
-257,199,"De Harkema"
-258,199,Harkema
-259,199,Harkema-Opeinde
-260,200,Koatstertille
-261,200,Kootstertille
-262,201,Strobos
-263,201,Stroobos
-264,202,Surhuisterveen
-265,202,Surhústerfean
-266,203,Surhuizum
-267,203,Surhuzum
-268,204,Twijzel
-269,204,Twizel
-270,205,Twijzelerheide
-271,205,Twizelerheide
-272,206,Ballum
-273,207,Bueren
-274,208,Hollum
-275,210,Damwoude
-276,210,Damwâld
-277,210,Moarrewâld
-278,210,Murmerwoude
-279,211,"De Falom"
-280,211,"De Valom"
-281,211,Valom
-282,212,"De Westereen"
-283,212,"De Westerein"
-284,213,Driesum
-285,213,Driezum
-286,214,Feanwâlden
-287,214,Veenwouden
-288,215,Readtsjerk
-289,215,Roodkerk
-290,216,Rinsumageast
-291,216,Rinsumageest
-292,217,Sibrandahuis
-293,217,Sibrandahûs
-294,217,Sijbrandahuis
-295,217,Sybrandahuis
-296,218,Wouterswoud
-297,218,Wouterswoude
-298,218,Wâlterswâld
-299,219,Akmarijp
-300,219,Eagmaryp
-301,220,Oudemirdum
-302,220,Aldemardum
-303,221,Bakhuizen
-304,222,Balk
-305,223,Bantega
-306,224,Boarnsweach
-307,224,Boornzwaag
-308,225,Broeksterwoude
-309,225,Broeksterwâld
-310,225,"De Broek"
-311,226,Delfstrahuizen
-312,227,Dijken
-313,227,Diken
-314,228,Doniaga
-315,228,Dunegea
-316,229,Elahuizen
-317,231,Echtenerbrug
-318,231,Echterbrug
-319,232,Eesterga
-320,233,Follega
-321,234,Goaiïngaryp
-322,234,Goengarijp
-323,234,Goingarijp
-324,234,Goëngaryp
-325,234,Goïngarijp
-326,235,Harich
-327,236,Haskerhoarne
-328,236,Haskerhorne
-329,237,Idskenhuizen
-330,237,Jiskenhuzen
-331,237,Taskenhuizen
-332,238,"De Jouwer"
-333,238,Joure
-334,239,Kolderwolde
-335,240,Langwar
-336,240,Langweer
-337,241,Legemar
-338,241,Legemeer
-339,242,"De Lemmer"
-340,242,Lemmer
-341,243,Mirns
-342,244,Nieuwehaske
-343,244,Nijehaske
-344,244,Nijhaske
-345,245,Nijemardum
-346,245,Nijemirdum
-347,246,"Alde Ouwer"
-348,246,Oldeouwer
-349,247,Oosterzee
-350,248,Aldehaske
-351,248,Oldehaske
-352,248,Oudehaske
-353,250,Oosterhaule
-354,250,Ousterhaule
-355,250,Ouwsterhaule
-356,251,Rijs
-357,252,Reahel
-358,252,Rohel
-359,254,Rotsterhaule
-360,255,Rottum
-361,256,Ruigahuizen
-362,257,Scharsterbrug
-363,257,Skarsterbrêge
-364,258,"Sint Nicolaasga"
-365,258,"Sint Nikelsgea"
-366,258,"Sint Nikolaasga"
-367,258,"Sint Nyk"
-368,259,"Sint Johannisga"
-369,259,"Sint Jânsgea"
-370,259,Sintjohannesga
-371,260,Sleat
-372,260,Sloten
-373,261,Sniksweach
-374,261,Snikzwaag
-375,262,Sondel
-376,263,Terherne
-377,263,Terhorne
-378,264,Terkaple
-379,265,Teroele
-380,266,Tjerkgaast
-381,266,Tsjerkgaast
-382,267,Stobbega
-383,267,Stobbegat
-384,267,Stobbegea
-385,267,Vegelinsoard
-386,267,Vegelinsoord
-387,268,Wijckel
-388,268,Wijkel
-389,268,Wikel
-390,269,Harlingen
-391,269,Harns
-392,270,Midlum
-393,271,Wijnaldum
-394,271,Winaam
-395,271,Winaem
-396,271,Winaldum
-397,272,Akkrum
-398,272,Ankrum
-399,273,Aldeboarn
-400,273,Oldeboorn
-401,274,Bontebok
-402,275,"De Knijpe"
-403,275,"De Knipe"
-404,275,"De Knype"
-405,275,"Nieuw Brongerga"
-406,276,Gersloot
-407,276,Gershot
-408,277,Haskerdijken
-409,277,Haskerdiken
-410,278,Heerenveen
-411,278,"It Hearrenfean"
-412,280,Hoarnstersweach
-413,280,Hoornsterzwaag
-414,280,Hornsterzwaag
-415,281,Jubbega
-416,281,Schurega
-417,282,Katlijk
-418,282,Ketlik
-419,283,Luinjeberd
-420,283,Luniabird
-421,283,Luunjeberd
-422,283,Luunjebert
-423,284,Mildam
-424,284,Mildaam
-425,285,Nieuwebrug
-426,286,Nieuwehorne
-427,286,Nijehorne
-428,286,Nijhoarne
-429,287,Nieuweschoot
-430,287,Nijeschoot
-431,287,Nijskoat
-432,288,Oranjewoud
-433,288,"It Oranjewâld"
-434,289,Oudehorne
-435,289,Aldhoarne
-436,289,Oldehorne
-437,290,Oudeschoot
-438,290,Aldskoat
-439,291,Terband
-440,292,Tjalleberd
-441,292,Tjallebert
-442,292,Tjallebird
-443,293,"Alde Leie"
-444,293,"De Leije"
-445,293,Leie
-446,293,Leije
-447,293,"Oude Leie"
-448,293,"Oude Leije"
-449,293,"Oude Leye"
-450,294,Baard
-451,295,Bears
-452,296,Britsum
-453,297,Aegum
-454,297,Eagum
-455,297,Egum
-456,298,Easterlittens
-457,299,Feinsum
-458,299,Finkum
-459,300,Friens
-460,301,Goutum
-461,302,Grou
-462,302,Grouw
-463,303,Hempens
-464,304,Hijum
-465,305,Hilaard
-466,305,Hijlaard
-467,306,Húns
-468,306,Huins
-469,307,Idaard
-470,307,Idaerd
-471,308,Jellum
-472,309,Jelsum
-473,310,Irnsum
-474,310,Jirnsum
-475,311,Jorwert
-476,312,Cornjum
-477,312,Koarnjum
-478,313,Leeuwarden
-479,313,Leewarden
-480,313,Lieuwarden
-481,313,Ljouwert
-482,314,Lekkum
-483,315,Leons
-484,316,Mantgum
-485,317,Miedum
-486,318,Reduzum
-487,318,Roardahuzum
-488,318,Roordahuizum
-489,319,Snakkerburen
-490,319,Snakkeburen
-491,320,Stiens
-492,321,Swichum
-493,321,Zwichem
-494,321,Zwichum
-495,322,Teerns
-496,323,Warstiens
-497,324,Warten
-498,324,Wartena
-499,325,Weidum
-500,326,Warga
-501,326,Wergea
-502,327,Wirdum
-503,328,Witgaard
-504,328,Wytgaard
-505,329,Aalsum
-506,329,Aalzum
-507,329,Ealsum
-508,330,Anjum
-509,330,Eanjum
-510,331,Augsbuur
-511,331,Augsbuurt
-512,331,Augsbuurt-Lutjewoude
-513,331,Augstbuurt
-514,331,Lutjewoude
-515,331,Lytsewâld
-516,332,Blije
-517,332,Blija
-518,333,Boarnwert
-519,333,Bornwerd
-520,333,Bornwird
-521,334,Brantgum
-522,335,Birdaard
-523,335,Burdaard
-524,336,Burum
-525,337,Dokkum
-526,338,Ee
-527,338,Ie
-528,339,Engwierum
-529,339,Ingwierrum
-530,340,Ferwert
-531,340,Ferwerd
-532,341,Foudgum
-533,342,Genum
-534,342,Ginnum
-535,343,Hallum
-536,344,Hantum
-537,345,Hantumeruitburen
-538,345,Hantumerútbuorren
-539,346,Hantumhuizen
-540,346,Hantumhuzen
-541,347,Hegebeintum
-542,347,Hogebeintum
-543,348,"De Lytse Jouwer"
-544,348,Hiaure
-545,349,Holwerd
-546,349,Holwert
-547,350,Jannum
-548,350,Janum
-549,351,Jeslum
-550,351,Jislum
-551,352,Jouswier
-552,352,Jouwswier
-553,353,Kollum
-554,354,Kollumerpomp
-555,355,Kollumerland
-556,355,Kollumerlân
-557,355,Kollumersweach
-558,355,Kollumerzwaag
-559,356,Lichtaard
-560,357,Lioesens
-561,357,Lioessens
-562,357,Ljussens
-563,358,Marrum
-564,359,Metslawier
-565,359,Mitselwier
-566,360,Moddergat
-567,361,Moarre
-568,361,Morra
-569,362,Munnekezijl
-570,362,Munnikenzijl
-571,363,Nes
-572,364,Niawier
-573,364,Nijewier
-574,364,Nyawier
-575,365,Easternijtsjerk
-576,365,Oosternijkerk
-577,366,Eastrum
-578,367,Oudwoude
-579,368,Paesens
-580,368,Paezens
-581,368,Peasens
-582,368,Peazens
-583,368,Pezens
-584,369,Raard
-585,370,Reitsum
-586,371,Ternaard
-587,372,Triemen
-588,372,Trimen
-589,373,Veenklooster
-590,373,Veenkloster
-591,375,Wanswerd
-592,375,Wânswert
-593,376,Warfstermolen
-594,377,Westergeest
-595,378,Wetsens
-596,378,Wetzens
-597,379,Wierum
-598,380,Zwagerbosch
-599,381,Appelscha
-600,381,Appelsga
-601,381,Appelskea
-602,381,"Nieuw Appelsga"
-603,382,Donkerbroek
-604,384,"De Fochtel"
-605,384,Fochtelo
-606,384,Fochteloo
-607,385,"De Haule"
-608,385,Haule
-609,386,Haulerwijk
-610,386,Haulerwyk
-611,387,Langedijk
-612,387,Langedijke
-613,387,Langedike
-614,388,Makkinga
-615,388,Makkingea
-616,389,Nijeberkeap
-617,389,Nijeberkoop
-618,390,Aldeberkeap
-619,390,Berkeap
-620,390,Oldeberkoop
-621,391,Easterwâlde
-622,392,Ravenswoud
-623,392,Ravenswâld
-624,393,Waskemar
-625,393,Waskemeer
-626,394,Bakkefean
-627,394,Bakkeveen
-628,395,Beetstersweach
-629,395,Beetsterzwaag
-630,396,Drachten-Azeven
-631,397,Frieschepalen
-632,397,"Fryske Peallen"
-633,398,"De Gordyk"
-634,398,Gordyk
-635,398,Gorredijk
-636,399,"De Himrik"
-637,399,Hemrik
-638,400,Jonkersland
-639,400,Jonkerslân
-640,401,Langezwaag
-641,401,Langsweagen
-642,402,Lippenhuizen
-643,402,Lippenhuzen
-644,403,Lukswolde
-645,403,Lukswoude
-646,403,Luxwolde
-647,403,Luxwoude
-648,403,Lúkswâld
-649,403,Lúkswâlde
-650,404,"Nieuw Beets"
-651,404,"Nij Beets"
-652,405,Olterterp
-653,406,Kleasterbuorren
-654,406,Kloosterburen
-655,406,Siegerswolde
-656,406,Siegerswoude
-657,406,Sigerswoude
-658,406,Sigerswâld
-659,407,Terwispel
-660,408,"De Tynje"
-661,408,Tijnje
-662,408,Tynje
-663,409,Oerterp
-664,409,Ureterp
-665,410,Duurswoude
-666,410,Wijnjeterp
-667,410,Wijnjeterp-Duurswoude
-668,410,Wijnjewoude
-669,410,Wynjeterp
-670,410,Wynjewâld
-671,411,Oosterburen
-672,411,Schiermonnikoog
-673,411,Skiermûntseach
-674,412,Boarnburgum
-675,412,Boornbergum
-676,413,"De Tike"
-677,413,Tike
-678,414,"De Feanhoop"
-679,414,"De Veenhoop"
-680,415,"De Wilgen"
-681,415,"De Wylgen"
-682,415,Wilgen
-683,416,Drachten
-684,417,"De Compagnie"
-685,417,"Drachster Compaghnie"
-686,417,"Drachtster Kompenije"
-687,417,Drachtstercompagnie
-688,418,Goëngahuizen
-689,418,Goaiïngahuzen
-690,418,Goingahuizen
-691,419,"De Houtigehage"
-692,419,Houtigehage
-693,420,Koartehimmen
-694,420,Kortehemmen
-695,421,Nijega
-696,421,Ooster-Nijega
-697,421,Ousternijega
-698,421,Ousternijegea
-699,421,Ouwster-Nijega
-700,422,"De Pein"
-701,422,Opeinde
-702,423,Rottefalle
-703,423,Rottevalle
-704,424,"Smalle Ee"
-705,424,"Smelle Ie"
-706,425,Abbega
-707,426,Aldegea
-708,426,Oudega
-709,427,Allingawier
-710,427,Allingaweer
-711,428,Arum
-712,429,Blauwhuis
-713,430,Boazum
-714,430,Bozum
-715,431,Boalsert
-716,431,Bolsward
-717,432,Breezanddijk
-718,433,Britswert
-719,434,Burgwerd
-720,435,Cornwerd
-721,435,Koarnwert
-722,436,"De Hommerts"
-723,436,Hommerts
-724,437,Dearsum
-725,437,Deersum
-726,438,Dedgum
-727,438,Dedgom
-728,439,Drylts
-729,439,IJlst
-730,440,Easterein
-731,441,Easterwierrum
-732,442,Exmorra
-733,442,Eksmoarre
-734,442,Eksmorra
-735,443,Ferwoude
-736,444,Folsgare
-737,444,Folsgara
-738,445,Gaast
-739,445,Rotstergaast
-740,446,Gaastmeer
-741,447,Gauw
-742,448,Goënga
-743,448,Goinga
-744,449,Greonterp
-745,450,Hartwerd
-746,451,Heeg
-747,452,Hichtum
-748,453,Hidaard
-749,453,Hydaard
-750,454,Hieslum
-751,455,Hemelum
-752,455,Himmelum
-753,456,Hennaard
-754,456,Hinnaard
-755,457,Hindeloopen
-756,457,Hylpen
-757,457,"Hylpen / Hynljippen"
-758,458,Idsegahuizum
-759,458,Idsegahuizen
-760,459,Idzega
-761,459,Idsega
-762,460,Iens
-763,461,"It Heidenskip"
-764,461,Heidenschap
-765,462,Itens
-766,463,Jutrijp
-767,464,Kimswerd
-768,465,Kornwerderzand
-769,465,"Kornwerderzand Sluizen"
-770,466,Koudum
-771,467,Koufurderrige
-772,467,Kûfurderrige
-773,468,Kubaard
-774,468,Kûbaard
-775,469,Loënga
-776,470,Lollum
-777,470,Ruigelollum
-778,471,Longerhouw
-779,471,Longerhou
-780,472,Lytsewierrum
-781,473,Makkum
-782,474,Molkwar
-783,474,Molkwerum
-784,475,Nijhuixum
-785,475,Nijhuizum
-786,476,Nijland
-787,477,Offingawier
-788,478,Oosthem
-789,479,Parrega
-790,480,Piaam
-791,481,Pingjum
-792,482,Poppenwier
-793,482,Poppingawier
-794,483,Raerd
-795,484,Reahûs
-796,484,Roodhuis
-797,485,Rien
-798,486,Sandfird
-799,486,Sandfirden
-800,486,Sânfirde
-801,486,Sânfurd
-802,487,Schettens
-803,488,Schraard
-804,489,Sibrandabuorren
-805,489,Sibrandaburen
-806,489,Sijbrandaburen
-807,489,Sybrandaburen
-808,490,Scharnegoutum
-809,491,Smallebragge
-810,491,Smallebrugge
-811,492,Sneek
-812,492,Snits
-813,493,Starum
-814,493,Staveren
-815,493,Stavoren
-816,494,Tersoal
-817,494,Terzool
-818,495,Tjerkwerd
-819,496,Oppenhuizen
-820,497,Tjalhuizum
-821,498,Tirns
-822,499,Uitwellingerga
-823,500,Waaksens
-824,500,Waaxens
-825,501,Woudsend
-826,501,Wâldsein
-827,502,Warkum
-828,502,Workum
-829,503,Warns
-830,504,Westhem
-831,505,Witmarsum
-832,505,Wytmarsum
-833,506,Wiewerd
-834,506,Wiuwert
-835,507,Wolsum
-836,508,Wommels
-837,509,Wons
-838,509,Wûns
-839,510,Indijk
-840,510,Yndyk
-841,511,IJpecolsga
-842,511,Ypecolsga
-843,511,Ypekolsgea
-844,512,IJsbrechtum
-845,512,Ysbrechtum
-846,513,Zurich
-847,513,Surig
-848,514,Baaiduinen
-849,514,Baaidunen
-850,515,Formerum
-851,515,Formearum
-852,516,Hee
-853,516,"De Hee"
-854,518,Kaard
-855,519,Kinnum
-856,520,Landerum
-857,521,Lies
-858,522,Midsland
-859,522,Midslân
-860,523,Aasterein
-861,524,Seerijp
-862,524,Seeryp
-863,524,Striep
-864,524,Stryp
-865,524,Zeerijp
-866,525,West-Terschelling
-867,525,West-Skylge
-868,525,Westerschelling
-869,526,Aldtsjerk
-870,526,Oudkerk
-871,527,Bergum
-872,527,Burgum
-873,528,Earnewâld
-874,528,Eernewoude
-875,529,Eastermar
-876,529,Oostermeer
-877,530,Garijp
-878,530,Garyp
-879,531,Giekerk
-880,531,Gytsjerk
-881,532,Hardegarijp
-882,532,Hurdegaryp
-883,533,Eestrum
-884,533,Jistrum
-885,534,Moleneind
-886,534,Molenend
-887,534,Mûnein
-888,535,Noardburgum
-889,535,Noordbergum
-890,536,Oenkerk
-891,536,Oentsjerk
-892,537,Rijperkerk
-893,537,Riperkerk
-894,537,Ryptsjerk
-895,538,Suameer
-896,538,Sumar
-897,539,Suawoude
-898,539,Suwâld
-899,540,Tietjerk
-900,540,Tytsjerk
-901,541,Wijns
-902,541,Wyns
-903,542,Vlieland
-904,542,"East Flylân"
-905,543,Achlum
-906,544,Baaijum
-907,544,Baaium
-908,544,Baium
-909,544,Bajum
-910,545,Berltsum
-911,546,Beetgum
-912,546,Bitgum
-913,547,Beetgumermolden
-914,547,Beetgumermolen
-915,547,Bitgummole
-916,548,Blessum
-917,549,Boer
-918,550,Boksum
-919,551,Deinum
-920,552,Doanjum
-921,552,Dongjum
-922,553,Dronrijp
-923,553,Dronryp
-924,554,Firdgum
-925,554,Furdgum
-926,555,Franeker
-927,555,Frjentsjer
-928,556,Herbaijum
-929,556,Hjerbeam
-930,557,Hitsum
-931,557,Hitzum
-932,558,Engelum
-933,558,Ingelum
-934,559,"Klooster Lidlum"
-935,559,Kleaster-Lidlum
-936,559,Klooster-Lidlum
-937,559,Lidlum
-938,560,Marssum
-939,560,Marsum
-940,561,Menaam
-941,561,Menaldum
-942,562,Minnertsga
-943,562,Minnertsgea
-944,563,"Nij Altoenae"
-945,564,Easterbierrum
-946,564,Oosterbierum
-947,565,Oudebildtzijl
-948,565,"Alde Biltsyl"
-949,565,"Oude Bildtzijl"
-950,565,"Oude Biltzijl"
-951,566,Peins
-952,567,Pietersbierum
-953,567,Pitersbierrum
-954,568,Rie
-955,568,Ried
-956,569,Schaalsum
-957,569,Schalsum
-958,569,Skalsum
-959,570,Seisbierrum
-960,570,Sexbierum
-961,570,Sixbierum
-962,571,Schingen
-963,571,Skingen
-964,572,Slappeterp
-965,573,Spannum
-966,574,St.-Annaparochie
-967,574,Annaparochie
-968,574,"Sint Annaparochie"
-969,574,"Sint Anne"
-970,574,"St. Annaparochie"
-971,575,St.-Jacobiparochie
-972,576,Tjum
-973,576,Tsjom
-974,576,Tzum
-975,577,Tjummarum
-976,577,Tsjummearum
-977,577,Tzummarum
-978,578,Froubuorren
-979,578,"Lieve Vrouwe Parochie"
-980,578,"Lieve Vrouwenparochie"
-981,578,Vrouwenparochie
-982,579,Westhoek
-983,580,Wier
-984,581,Winseem
-985,581,Winsum
-986,582,Wjelsryp
-987,582,Welsrijp
-988,583,Swyns
-989,583,Zweins
-990,584,Blesdijke
-991,584,Blesdijk
-992,585,Beuil
-993,585,Beul
-994,585,Boijl
-995,585,Boil
-996,585,Boyl
-997,585,Boyle
-998,586,"De Blesse"
-999,586,Blesse
-1000,587,"De Hoeve"
-1001,588,Langelille
-1002,589,Monnikeburen
-1003,589,Monnikenburen
-1004,589,Munnekeburen
-1005,589,Munnikeburen
-1006,590,Nijeholtpade
-1007,591,Nijeholtwolde
-1008,591,Nijeholtwoude
-1009,592,Nijelamer
-1010,592,Nijelemmer
-1011,593,Nijetrijne
-1012,593,Nijetrine
-1013,594,Noardwâlde
-1014,594,Noordwolde
-1015,595,Oldeholtpade
-1016,596,Oldeholtwolde
-1017,596,Oldeholtwoude
-1018,597,Oldelamer
-1019,597,Oldelemmer
-1020,598,Oldetrijne
-1021,598,Oldetrine
-1022,599,Oosterstreek
-1023,600,Peperga
-1024,602,Slijkenburg
-1025,603,Sonnega
-1026,604,Spanga
-1027,605,Steggerda
-1028,605,Steggerden
-1029,606,"Ter Idzard"
-1030,606,"Ter Idzardt"
-1031,606,"Ter Idzart"
-1032,606,"Ter Idzerd"
-1033,607,Vinkega
-1034,607,Finkega
-1035,608,Wolvega
-1036,608,Wolvegea
-1037,609,Zandhuizen
-1038,610,Amen
-1039,611,Anderen
-1040,612,Anloo
-1041,612,Anlo
-1042,613,Annen
-1043,614,Annerveenschekanaal
-1044,614,"Annerveensch Kanaal"
-1045,615,Balloërveld
-1046,616,Balloo
-1047,616,Ballo
-1048,617,Deurze
-1049,617,Duurse
-1050,618,Eext
-1051,618,Eekst
-1052,619,Eexterveen
-1053,619,Eeksterveen
-1054,619,"Noord Eexterveen"
-1055,620,Eexterveenschekanaal
-1056,621,Eexterzandvoort
-1057,622,Ekehaar
-1058,623,Eldersloo
-1059,624,Eleveld
-1060,625,Gasselte
-1061,626,Gasselternijveen
-1062,626,Gasselternijeveen
-1063,627,Gasselternijveenschemond
-1064,627,Gasselternijeveenschemond
-1065,628,Gasteren
-1066,629,Geelbroek
-1067,630,Gieten
-1068,631,Gieterveen
-1069,632,Grolloo
-1070,632,Grollo
-1071,633,Marwijksoord
-1072,634,"Nieuw Annerveen"
-1073,634,Annerveen
-1074,635,Nieuwediep
-1075,636,Nijlande
-1076,637,Nooitgedacht
-1077,638,"Oud Annerveen"
-1078,638,Oud-Annerveen
-1079,639,Papenvoort
-1080,640,Rolde
-1081,641,Schipborg
-1082,641,Schipbork
-1083,642,Schoonloo
-1084,644,Vredenheim
-1085,645,Assen
-1086,646,Loon
-1087,647,Rhee
-1088,648,"Ter Aard"
-1089,648,Ter-Aart
-1090,649,Ubbena
-1091,650,Zeijerveen
-1092,651,Zeijerveld
-1093,652,"1e Exloërmond"
-1094,652,"Eerste Ekslooërmond"
-1095,652,"Eerste Exsloërmond"
-1096,653,"2e Exloërmond"
-1097,653,"Tweede Ekslooërmond"
-1098,654,"2e Valthermond"
-1099,654,Valterveen
-1100,655,Borger
-1101,656,Bronneger
-1102,657,Bronnegerveen
-1103,658,Buinen
-1104,659,Buinerveen
-1105,660,Drouwen
-1106,661,Drouwenermond
-1107,662,Drouwenerveen
-1108,663,Ees
-1109,664,Eesergroen
-1110,665,Eeserveen
-1111,666,Ellertshaar
-1112,667,Exloërveen
-1113,667,Ekslooërveen
-1114,668,Exloo
-1115,668,Eksloo
-1116,668,Exlo
-1117,669,Klijndijk
-1118,670,Nieuw-Buinen
-1119,671,Odoorn
-1120,672,Odoornerveen
-1121,673,Valthe
-1122,673,Valte
-1123,674,Valthermond
-1124,674,"Eerste Valthermond"
-1125,674,Eerste-Valtermond
-1126,675,Westdorp
-1127,676,Zandberg
-1128,677,"'t Haantje"
-1129,678,Aalden
-1130,679,Benneveld
-1131,680,Coevorden
-1132,680,Koevorden
-1133,681,Dalen
-1134,682,Dalerpeel
-1135,683,Dalerveen
-1136,684,"De Kiel"
-1137,685,Diphoorn
-1138,686,Erm
-1139,687,Gees
-1140,688,Geesbrug
-1141,689,Holsloot
-1142,690,Meppen
-1143,691,"Nieuwlande Coevorden"
-1144,692,Noord-Sleen
-1145,693,Oosterhesselen
-1146,694,Schoonoord
-1147,695,Sleen
-1148,696,Stieltjeskanaal
-1149,697,Wachtum
-1150,698,Wezup
-1151,698,Wesup
-1152,699,Wezuperbrug
-1153,700,Zweeloo
-1154,700,Zweelo
-1155,701,Zwinderen
-1156,702,"de Wijk"
-1157,702,"De Wyk"
-1158,702,Wijk
-1159,703,Drogteropslagen
-1160,703,Drochteropslagen
-1161,704,Echten
-1162,705,Kerkenveld
-1163,706,Koekange
-1164,707,Linde
-1165,708,Ruinerwold
-1166,709,Veeningen
-1167,709,Veeninger
-1168,709,Veningen
-1169,710,Zuidwolde
-1170,711,Barger-Compascuum
-1171,712,Emmen
-1172,713,Emmer-Compascuum
-1173,714,Erica
-1174,715,Klazienaveen
-1175,716,Klazienaveen-Noord
-1176,717,Nieuw-Amsterdam
-1177,718,Nieuw-Dordrecht
-1178,719,Nieuw-Schoonebeek
-1179,719,Nieuw-Schoonebekerveld
-1180,720,Nieuw-Weerdinge
-1181,721,Roswinkel
-1182,722,Schoonebeek
-1183,722,"Oud Schoonebeek"
-1184,723,Veenoord
-1185,724,Weiteveen
-1186,725,Zandpol
-1187,726,Zwartemeer
-1188,727,"Alteveer gem Hoogeveen"
-1189,728,Elim
-1190,729,Fluitenberg
-1191,730,Hollandscheveld
-1192,730,"Het Hollandsche Veld"
-1193,731,Hoogeveen
-1194,732,Nieuwlande
-1195,733,Noordscheschut
-1196,735,"De Schiphorst"
-1197,736,Meppel
-1198,737,Nijeveen
-1199,738,Rogat
-1200,739,Balinge
-1201,740,Beilen
-1202,741,Bovensmilde
-1203,742,Bruntinge
-1204,743,Drijber
-1205,744,Elp
-1206,745,Eursinge
-1207,746,Garminge
-1208,747,Hijken
-1209,748,Hooghalen
-1210,749,Mantinge
-1211,750,Nieuw-Balinge
-1212,751,Nieuweroord
-1213,752,Oranje
-1214,753,Orvelte
-1215,754,Smilde
-1216,754,Hilde
-1217,754,Schilde
-1218,755,Stuifzand
-1219,756,Tiendeveen
-1220,757,Westerbork
-1221,758,Wijster
-1222,759,Witteveen
-1223,760,Zuidveld
-1224,761,Zwiggelte
-1225,762,Alteveer
-1226,763,Een
-1227,764,Een-West
-1228,765,Foxwolde
-1229,765,Fokswolde
-1230,765,Wolde
-1231,767,Langelo
-1232,767,Langeloo
-1233,768,Leutingewolde
-1234,769,Lieveren
-1235,770,Matsloot
-1236,770,Westpoort
-1237,771,Nietap
-1238,772,Nieuw-Roden
-1239,773,Norg
-1240,774,Peest
-1241,775,Peize
-1242,776,Roden
-1243,776,Roan
-1244,777,Roderesch
-1245,778,Roderwolde
-1246,778,Roderol
-1247,780,Veenhuizen
-1248,780,Feanhuzen
-1249,781,Westervelde
-1250,782,Zuidvelde
-1251,783,Bunne
-1252,784,"De Groeve"
-1253,784,"De Groeze"
-1254,784,Groeve
-1255,785,"De Punt"
-1256,785,Punt
-1257,786,Donderen
-1258,787,Eelde
-1259,788,Eelderwolde
-1260,788,Eeldenerwolde
-1261,789,Midlaren
-1262,791,Paterswolde
-1263,792,Taarlo
-1264,792,Taarloo
-1265,793,Tinaarlo
-1266,793,Tinaarloo
-1267,793,Tynaarlo
-1268,794,Vries
-1269,795,Winde
-1270,796,Yde
-1271,796,Ide
-1272,797,Zeegse
-1273,798,Zeien
-1274,798,Zeijen
-1275,798,Zeyen
-1276,799,Zuidlaarderveen
-1277,800,Súdlaren
-1278,800,Zuidlaren
-1279,801,Ansen
-1280,802,Boschoord
-1281,803,Darp
-1282,803,Derp
-1283,804,Diever
-1284,805,Dieverbrug
-1285,806,Doldersum
-1286,807,Dwingeloo
-1287,807,Dwingelo
-1288,808,Frederiksoord
-1289,809,Geeuwenbrug
-1290,810,Havelte
-1291,811,Havelterberg
-1292,812,Hoogersmilde
-1293,813,Nijensleek
-1294,814,"Oude Willem"
-1295,815,Pesse
-1296,816,Ruinen
-1297,817,Spier
-1298,818,Uffelte
-1299,819,Vledder
-1300,820,Vledderveen
-1301,821,Wapse
-1302,822,Wapserveen
-1303,823,Wateren
-1304,824,Wilhelminaoord
-1305,824,"Wilhelmina Soord"
-1306,825,Wittelte
-1307,826,Zorgvlied
-1308,826,Zorgvliet
-1309,827,Aadorp
-1310,828,Almelo
-1311,828,Almeloo
-1312,829,Bornerbroek
-1313,829,Bornebroek
-1314,830,Borne
-1315,831,Hertme
-1316,831,Hertmen
-1317,832,Zenderen
-1318,833,Dalfsen
-1319,834,Lemelerveld
-1320,835,Nieuwleusen
-1321,836,Bathmen
-1322,836,Batmen
-1323,837,Colmschate
-1324,837,Kolmschate
-1325,838,Deventer
-1326,838,Dimter
-1327,839,Diepenveen
-1328,840,Lettele
-1329,841,Okkenbroek
-1330,842,Schalkhaar
-1331,842,Schalkhaap
-1332,843,Agelo
-1333,843,Groot-Ageloo
-1334,844,Denekamp
-1335,845,Lattrop-Breklenkamp
-1336,846,Nutter
-1337,847,Ootmarsum
-1338,848,"Oud Ootmarsum"
-1339,850,Saasveld
-1340,851,Tilligte
-1341,851,Tilhgte
-1342,852,Weerselo
-1343,852,Weerseloo
-1344,853,Enschede
-1345,853,Enskede
-1346,853,Ynskedee
-1347,854,Haaksbergen
-1348,855,Ane
-1349,856,Anerveen
-1350,857,Anevelde
-1351,858,Balkbrug
-1352,859,Bergentheim
-1353,860,Brucht
-1354,861,Bruchterveld
-1355,862,Collendoorn
-1356,862,Kollendoorn
-1357,863,"De Krim"
-1358,863,"De Kruin"
-1359,863,Krim
-1360,864,Dedemsvaart
-1361,864,Dedemsfeart
-1362,865,"Den Velde"
-1363,865,Velde
-1364,866,Diffelen
-1365,867,Gramsbergen
-1366,868,Hardenberg
-1367,868,Stad-Hardenberg
-1368,869,Heemserveen
-1369,870,Holtheme
-1370,871,Holthone
-1371,872,Hoogenweg
-1372,873,Loozen
-1373,874,Lutten
-1374,874,"Lutten aan de Dedemsvaart"
-1375,875,Mariënberg
-1376,876,Radewijk
-1377,876,Baalde-Radewijk
-1378,877,Rheeze
-1379,878,Rheezerveen
-1380,878,Reezerveen
-1381,879,Schuinesloot
-1382,880,Slagharen
-1383,881,Venebrugge
-1384,881,Veenebrugge
-1385,882,Daarle
-1386,883,Daarlerveen
-1387,884,Hellendoorn
-1388,885,Nijverdal
-1389,886,Hemgelo
-1390,886,Hengelo
-1391,887,"Ambt Delden"
-1392,888,Bentelo
-1393,888,Benteloo
-1394,889,Delden
-1395,890,Diepenheim
-1396,891,Goor
-1397,892,Hengevelde
-1398,892,Hengeveld
-1399,893,Markelo
-1400,893,Markeloo
-1401,894,'s-Heerenbroek
-1402,894,"'s Heerenbroek"
-1403,895,Grafhorst
-1404,896,IJsselmuiden
-1405,896,IJselmuiden
-1406,897,Kampen
-1407,898,Kamperveen
-1408,898,"De Roskam"
-1409,899,Wilsum
-1410,900,Zalk
-1411,902,"de Lutte"
-1412,902,Lutte
-1413,903,Glane
-1414,904,Losser
-1415,905,Overdinkel
-1416,906,Deurningen
-1417,906,Deuringen
-1418,906,Deurninge
-1419,907,Oldenzaal
-1420,908,Marle
-1421,909,Olst
-1422,910,Welsum
-1423,911,Wesepe
-1424,911,Wezepe
-1425,912,Wijhe
-1426,912,Wije
-1427,913,Arriën
-1428,913,Ariën
-1429,914,Beerze
-1430,914,Beerse
-1431,915,Beerzerveld
-1432,915,Beerserveen
-1433,916,Dalmsholte
-1434,916,Dalmsholt
-1435,917,Giethmen
-1436,917,Gietmen
-1437,918,Lemele
-1438,919,Ommen
-1439,920,Stegeren
-1440,921,Vilsteren
-1441,922,Vinkenbuurt
-1442,923,Witharen
-1443,924,Broekland
-1444,925,Heeten
-1445,925,Heten
-1446,926,Heino
-1447,927,"Laag Zuthem"
-1448,927,Laag-Zutem
-1449,927,Zutem
-1450,927,Zuthem
-1451,928,Lierderholthuis
-1452,929,Luttenberg
-1453,930,Mariënheem
-1454,931,Nieuw-Heeten
-1455,931,"Nieuw Heeten"
-1456,932,Raalte
-1457,933,Holten
-1458,934,Rijssen
-1459,935,IJhorst
-1460,936,Punthorst
-1461,937,Rouveen
-1462,938,Staphorst
-1463,939,"Kuinderdijk en Baarlo"
-1464,939,"Kuinderdijk en Baarloo"
-1465,940,Baars
-1466,941,Basse
-1467,942,Belt-Schutsloot
-1468,943,Blankenham
-1469,944,Blokzijl
-1470,945,"De Bult"
-1471,946,"De Pol"
-1472,946,"De Polle"
-1473,946,Pol
-1474,947,Eesveen
-1475,948,Giethoorn
-1476,948,Zuid
-1477,948,Zuideinde
-1478,949,IJsselham
-1479,949,IJselham
-1480,950,Kalenberg
-1481,951,Kallenkote
-1482,952,Kuinre
-1483,952,"De Kúnder"
-1484,953,Marijenkampen
-1485,954,Nederland
-1486,955,Oldemarkt
-1487,956,Onna
-1488,957,Ossenzijl
-1489,958,Paasloo
-1490,958,Paaslo
-1491,959,Scheerwolde
-1492,959,Scherwold
-1493,959,Scherwolde
-1494,960,"Sint Jansklooster"
-1495,961,Steenwijk
-1496,961,Stienwyk
-1497,962,Steenwijkerwold
-1498,962,Kerkbuurt
-1499,963,Tuk
-1500,964,Vollenhove
-1501,965,Wanneperveen
-1502,965,Wenneperveen
-1503,966,Wetering
-1504,966,"De Wetering"
-1505,967,Willemsoord
-1506,968,"Witte Paarden"
-1507,969,Zuidveen
-1508,970,Albergen
-1509,971,Fleringen
-1510,973,Haarle
-1511,974,Harbrinkhoek
-1512,974,Harbrinkhoef
-1513,975,Hezingen
-1514,975,Hesingen
-1515,975,Hezinge
-1516,976,Langeveen
-1517,976,Landeveen
-1518,977,Mander
-1519,977,Mande
-1520,978,Manderveen
-1521,979,Mariaparochie
-1522,980,Reutum
-1523,981,Tubbergen
-1524,982,Vasse
-1525,983,Bruinehaar
-1526,984,"Den Ham"
-1527,984,Ham
-1528,985,Geerdijk
-1529,986,Kloosterhaar
-1530,987,Sibculo
-1531,987,Sibenlo
-1532,988,Vriezenveen
-1533,988,Uriezenveen
-1534,989,Vroomshoop
-1535,990,Westerhaar-Vriezenveensewijk
-1536,990,Westerhaar
-1537,991,Enter
-1538,992,"Hoge Hexel"
-1539,992,"'t Hooge Heksel"
-1540,992,"Hooge Heksel"
-1541,993,Notter
-1542,994,Wierden
-1543,995,Zuna
-1544,996,Genemuiden
-1545,997,Hasselt
-1546,998,Mastenbroek
-1547,999,Zwartsluis
-1548,1000,Swol
-1549,1000,Zwolle
-1550,1001,Almere
-1551,1002,Biddinghuizen
-1552,1003,Dronten
-1553,1004,Swifterbant
-1554,1005,"Haven van Lelystad"
-1555,1005,Lelystad
-1556,1006,Bant
-1557,1007,Creil
-1558,1008,Emmeloord
-1559,1008,Emmeloard
-1560,1009,Ens
-1561,1010,Espel
-1562,1010,Espele
-1563,1011,Kraggenburg
-1564,1012,Luttelgeest
-1565,1013,Marknesse
-1566,1014,Nagele
-1567,1015,Rutten
-1568,1016,Schokland
-1569,1017,Tollebeek
-1570,1018,Urk
-1571,1019,Zeewolde
-1572,1020,Aalten
-1573,1021,Bredevoort
-1574,1022,"De Heurne"
-1575,1023,Dinxperlo
-1576,1023,Dingsperloo
-1577,1024,Apeldoarn
-1578,1024,Apeldoorn
-1579,1025,Beekbergen
-1580,1026,"Beemte Broekland"
-1581,1027,"Hoog Soeren"
-1582,1028,Lieren
-1583,1030,"Radio Kootwijk"
-1584,1031,Uddel
-1585,1032,Uchelen
-1586,1032,Ugchelen
-1587,1033,"Wenum Wiesel"
-1588,1033,Wenum-Wiesel
-1589,1034,Arnheim
-1590,1034,Arnhem
-1591,1034,Arnhim
-1592,1036,Barneveld
-1593,1037,"De Glind"
-1594,1037,Glind
-1595,1037,Glinde
-1596,1037,Glinder
-1597,1038,Garderen
-1598,1039,Kootwijk
-1599,1040,Kootwijkerbroek
-1600,1041,Stroe
-1601,1042,Terschuur
-1602,1043,Voorthuizen
-1603,1044,Zwartebroek
-1604,1045,"Berg en Dal"
-1605,1046,Erlecom
-1606,1046,Erlekom
-1607,1047,Groesbeek
-1608,1048,"Heilig Landstichting"
-1609,1048,"Heilige Land"
-1610,1048,Heiligland
-1611,1049,Kekerdom
-1612,1050,Leuth
-1613,1050,Leut
-1614,1051,"Millingen aan de Rijn"
-1615,1051,Millingen
-1616,1052,Ooij
-1617,1052,Ooi
-1618,1052,Ooy
-1619,1053,Persingen
-1620,1054,Ubbergen
-1621,1055,Beltrum
-1622,1056,Borculo
-1623,1056,Borkulo
-1624,1057,Eibergen
-1625,1058,Geesteren
-1626,1059,Gelselaar
-1627,1060,Haarlo
-1628,1061,Neede
-1629,1061,Nede
-1630,1062,Rekken
-1631,1063,Rietmolen
-1632,1063,Rietmole
-1633,1064,Ruurlo
-1634,1065,Beuningen
-1635,1065,"Beuningen Gld"
-1636,1066,Ewijk
-1637,1067,Weurt
-1638,1067,Weurd
-1639,1068,Winssen
-1640,1068,Winsen
-1641,1069,Baak
-1642,1070,Bronkhorst
-1643,1071,Drempt
-1644,1071,Dremt
-1645,1072,Halle
-1646,1073,"Hengelo (Gld)"
-1647,1073,Hengeloo
-1648,1074,Hoog-Keppel
-1649,1075,Hummelo
-1650,1075,"Hummelo en Keppel"
-1651,1076,Keijenborg
-1652,1076,Keienborg
-1653,1076,Keienburg
-1654,1076,Keyenborg
-1655,1077,Laag-Keppel
-1656,1078,Olburgen
-1657,1078,Olbergen
-1658,1079,Rha
-1659,1080,Steenderen
-1660,1081,Toldijk
-1661,1082,Vierakker
-1662,1083,Vorden
-1663,1084,Wichmond
-1664,1085,Zelhem
-1665,1086,Brummen
-1666,1087,Eerbeek
-1667,1087,Erbeke
-1668,1088,Empe
-1669,1089,Hall
-1670,1089,Hal
-1671,1090,Leuvenheim
-1672,1091,Tonden
-1673,1092,Asch
-1674,1093,Beusichem
-1675,1094,Buren
-1676,1095,"Eck en Wiel"
-1677,1095,Eck
-1678,1095,"Ek en Wiel"
-1679,1095,Wiel
-1680,1096,Erichem
-1681,1097,Ingen
-1682,1098,Kapel-Avezaath
-1683,1099,Kerk-Avezaath
-1684,1100,Lienden
-1685,1101,Maurik
-1686,1102,Ommeren
-1687,1103,Ravenswaaij
-1688,1103,Ravenswaai
-1689,1103,Ravenswaay
-1690,1104,"Rijswijk (GLD)"
-1691,1105,Zoelen
-1692,1106,Zoelmond
-1693,1107,Culemborg
-1694,1108,Doesburg
-1695,1109,Doetinchem
-1696,1110,Gaanderen
-1697,1111,Wehl
-1698,1113,Deest
-1699,1114,Druten
-1700,1115,Horssen
-1701,1115,Horsen
-1702,1116,Puiflijk
-1703,1117,Duiven
-1704,1118,Groessen
-1705,1118,Groesen
-1706,1119,Bennekom
-1707,1120,"De Klomp"
-1708,1121,Deelen
-1709,1122,Ede
-1710,1123,Ederveen
-1711,1124,Harskamp
-1712,1124,Hartenkamp
-1713,1124,Hartskamp
-1714,1125,Hoenderloo
-1715,1125,Hoenderlo
-1716,1126,Lunteren
-1717,1127,Otterlo
-1718,1127,Otterloo
-1719,1128,Wekerom
-1720,1129,"'t Harde"
-1721,1129,Harde
-1722,1129,"Het Harde"
-1723,1130,Doornspijk
-1724,1130,Doornspyk
-1725,1131,Elburg
-1726,1132,Emst
-1727,1133,Epe
-1728,1134,Oene
-1729,1135,Vaassen
-1730,1135,Vasen
-1731,1136,Ermelo
-1732,1137,Harderwijk
-1733,1138,Hierden
-1734,1139,Hattem
-1735,1140,Heerde
-1736,1141,Veessen
-1737,1141,Vesen
-1738,1142,Vorchten
-1739,1143,Wapenveld
-1740,1143,Wapenvelde
-1741,1144,Heumen
-1742,1145,Malden
-1743,1146,Nederasselt
-1744,1147,Overasselt
-1745,1148,Angeren
-1746,1149,Bemmel
-1747,1150,Doornenburg
-1748,1151,Gendt
-1749,1151,Gent
-1750,1152,Haalderen
-1751,1153,Huissen
-1752,1153,Huisen
-1753,1155,Ressen
-1754,1156,Almen
-1755,1157,Barchem
-1756,1158,Eefde
-1757,1159,Epse
-1758,1160,Gorssel
-1759,1160,Gorsel
-1760,1161,Harfsen
-1761,1162,Joppe
-1762,1163,"Kring van Dorth"
-1763,1165,Lochem
-1764,1166,Alem
-1765,1167,Ammerzoden
-1766,1168,Hedel
-1767,1169,Heerewaarden
-1768,1169,Heriwarda
-1769,1170,Hoenzadriel
-1770,1171,Hurwenen
-1771,1172,Kerkdriel
-1772,1173,Rossum
-1773,1174,Velddriel
-1774,1176,'s-Heerenberg
-1775,1177,Azewijn
-1776,1177,"Groot Azewijn"
-1777,1179,Braamt
-1778,1180,Didam
-1779,1181,Kilder
-1780,1182,Lengel
-1781,1183,Loerbeek
-1782,1184,Stokkum
-1783,1185,Vethuizen
-1784,1186,Wijnbergen
-1785,1187,Zeddam
-1786,1188,Dodewaard
-1787,1188,Doodeward
-1788,1189,Echteld
-1789,1190,IJzendoorn
-1790,1191,Kesteren
-1791,1192,Ochten
-1792,1193,Opheusden
-1793,1194,Hoevelaken
-1794,1195,Nijkerk
-1795,1196,Nijkerkerveen
-1796,1197,Lent
-1797,1197,Tent
-1798,1198,Nijmegen
-1799,1198,Nijmeyen
-1800,1198,Nimwegen
-1801,1198,Nimègue
-1802,1198,Nymegen
-1803,1198,Nymwegen
-1804,1199,Elspeet
-1805,1200,Hulshorst
-1806,1201,Nunspeet
-1807,1202,Vierhouten
-1808,1203,"'t Loo"
-1809,1203,"'t Loo Oldebroek"
-1810,1203,"Het Loo"
-1811,1203,Loo
-1812,1204,Hattemerbroek
-1813,1205,"Noordeinde Gld"
-1814,1206,Oldebroek
-1815,1206,Olderbroek
-1816,1207,Oosterwolde
-1817,1207,"Oosterwolde Gld"
-1818,1208,Wezep
-1819,1209,Grenlo
-1820,1209,Groenlo
-1821,1210,Harreveld
-1822,1211,Lichtenvoorde
-1823,1212,Lievelde
-1824,1213,Mariënvelde
-1825,1214,Vragender
-1826,1215,Zieuwent
-1827,1216,Breedenbroek
-1828,1217,Etten
-1829,1218,Gendringen
-1830,1219,Heelweg
-1831,1220,Megchelen
-1832,1221,Netterden
-1833,1222,Silven
-1834,1222,Silvolde
-1835,1223,Sinderen
-1836,1224,Terborg
-1837,1224,Terborch
-1838,1225,Ulft
-1839,1226,Varsselder
-1840,1226,Varselder
-1841,1227,Varsseveld
-1842,1227,Varseveld
-1843,1228,Westendorp
-1844,1229,Andelst
-1845,1230,Driel
-1846,1232,Hemmen
-1847,1233,Herveld
-1848,1234,Heteren
-1849,1235,Homoet
-1850,1237,Randwijk
-1851,1238,Slijk-Ewijk
-1852,1238,"Slijk Ewijki"
-1853,1238,Slikewijk
-1854,1238,"Sliuk Ewijk"
-1855,1239,Valburg
-1856,1240,Zetten
-1857,1242,Doorwerth
-1858,1243,Heelsum
-1859,1244,Heveadorp
-1860,1245,Oosterbeek
-1861,1246,Renkum
-1862,1247,Wolfheze
-1863,1247,Wolfheeze
-1864,1248,"De Steeg"
-1865,1248,Steeg
-1866,1249,Dieren
-1867,1250,Ellecom
-1868,1250,Ellekom
-1869,1251,Laag-Soeren
-1870,1252,Rheden
-1871,1253,Spankeren
-1872,1254,Felp
-1873,1255,Rozendaal
-1874,1255,Rosendaal
-1875,1256,Scherpenzeel
-1876,1256,Skerpenseel
-1877,1257,Avezaath
-1878,1257,"Kapel Avezaath"
-1879,1258,"Kerk Avezaath"
-1880,1259,Tiel
-1881,1260,Wadenoijen
-1882,1260,Wadenooien
-1883,1260,Wadenooijen
-1884,1260,Wadenoyen
-1885,1261,Klarenbeek
-1886,1262,Nijbroek
-1887,1263,Steenenkamer
-1888,1264,Terwolde
-1889,1264,Terwolte
-1890,1265,Teuge
-1891,1265,"De Teuge"
-1892,1266,Twello
-1893,1267,Voorst
-1894,1268,Wilp
-1895,1268,Welp
-1896,1269,Wageningen
-1897,1270,Acquoy
-1898,1270,Ackooi
-1899,1270,Ackooy
-1900,1270,Acquoij
-1901,1270,Akkooi
-1902,1271,Asperen
-1903,1272,Beesd
-1904,1272,Beest
-1905,1273,Buurmalsen
-1906,1274,Deil
-1907,1275,Enspijk
-1908,1275,Enspik
-1909,1276,Est
-1910,1277,Geldermalsen
-1911,1278,Gellicum
-1912,1278,Gellekom
-1913,1278,Gellekum
-1914,1278,Gellikum
-1915,1279,Haaften
-1916,1280,Heesselt
-1917,1280,Heeselt
-1918,1281,Hellouw
-1919,1282,Herwijnen
-1920,1284,Meteren
-1921,1285,Neerijnen
-1922,1286,Ophemert
-1923,1287,Opijnen
-1924,1287,Opitnen
-1925,1288,Rhenoy
-1926,1288,Renooi
-1927,1288,Rhenoij
-1928,1288,Rhenooi
-1929,1289,Rumpt
-1930,1289,Remt
-1931,1289,Rumt
-1932,1290,Tricht
-1933,1291,Tuil
-1934,1292,Varik
-1935,1293,Vuren
-1936,1294,Waardenburg
-1937,1295,Zennewijnen
-1938,1296,"Alphen aan de Maas"
-1939,1297,Altforst
-1940,1298,Appeltern
-1941,1299,Beneden-Leeuwen
-1942,1299,Leeuwenbeneden
-1943,1300,Boven-Leeuwen
-1944,1300,Leeuwen
-1945,1301,Dreumel
-1946,1302,Maasbommel
-1947,1303,Wamel
-1948,1304,Westervoort
-1949,1305,Balgoij
-1950,1305,Balgoy
-1951,1306,Batenburg
-1952,1307,Bergharen
-1953,1308,Hernen
-1954,1309,Leur
-1955,1310,Niftrik
-1956,1311,Wijchen
-1957,1312,Winterswijk
-1958,1313,"Winterswijk Brinkheurne"
-1959,1314,"Winterswijk Corle"
-1960,1315,"Winterswijk Henxel"
-1961,1315,Hengsel
-1962,1315,Henzel
-1963,1316,"Winterswijk Huppel"
-1964,1317,"Winterswijk Kotten"
-1965,1318,Meddeho
-1966,1318,Meddeo
-1967,1318,Meddoo
-1968,1318,"Winterswijk Meddo"
-1969,1319,"Winterswijk Miste"
-1970,1320,Batum
-1971,1320,"Winterswijk Ratum"
-1972,1321,"Het Woold"
-1973,1321,"Winterswijk Woold"
-1974,1322,Aalst
-1975,1323,Bern
-1976,1324,Brakel
-1977,1325,Bruchem
-1978,1326,Delwijnen
-1979,1326,"Beneden Delwijnen"
-1980,1327,Gameren
-1981,1328,Kerkwijk
-1982,1329,Nederhemert
-1983,1330,Nieuwaal
-1984,1331,Poederoijen
-1985,1331,Poederoien
-1986,1331,Poederooien
-1987,1331,Poederoyen
-1988,1332,Zaltbommel
-1989,1333,Zuilichem
-1990,1333,Zuelichem
-1991,1334,Aerdt
-1992,1334,Aard
-1993,1334,Aardt
-1994,1335,Angerlo
-1995,1336,Babberich
-1996,1337,Giesbeek
-1997,1338,Herwen
-1998,1339,Lathum
-1999,1339,Latum
-2000,1340,Lobith
-2001,1340,Lebith
-2002,1340,Lobit
-2003,1341,Pannerden
-2004,1341,Rannereen
-2005,1342,Spijk
-2006,1343,Tolkamer
-2007,1343,Tokalmar
-2008,1343,Tolkmar
-2009,1344,Zevenaar
-2010,1345,Warnsveld
-2011,1346,Zutfen
-2012,1346,Zutphen
-2013,1347,Amersfoort
-2014,1348,Hoogland
-2015,1349,Hooglanderveen
-2016,1350,"Stoutenburg Noord"
-2017,1351,Baarn
-2018,1352,"Lage Vuursche"
-2019,1352,"De Lage Vuursche"
-2020,1352,"De Vuursche"
-2021,1353,Bunnik
-2022,1354,Odijk
-2023,1355,Werkhoven
-2024,1356,Bunschoten-Spakenburg
-2025,1356,Spakenburch
-2026,1356,Spakenburg
-2027,1357,Eemdijk
-2028,1358,Bilthoven
-2029,1359,"De Bilt"
-2030,1360,Groenekan
-2031,1361,"Hollandsche Rading"
-2032,1362,Maartensdijk
-2033,1362,Maartensdyk
-2034,1363,Westbroek
-2035,1364,Abcoude
-2036,1364,Abkoude
-2037,1365,Amstelhoek
-2038,1366,Baambrugge
-2039,1367,"de Hoef"
-2040,1367,"Den Hoef"
-2041,1367,Hoef
-2042,1368,Mijdrecht
-2043,1368,Müdrecht
-2044,1369,Vinkeveen
-2045,1370,Waverveen
-2046,1371,Wilnis
-2047,1372,Eemnes
-2048,1372,Iemnes
-2049,1373,"'t Gooi"
-2050,1373,"'t Goy"
-2051,1373,Gooi
-2052,1373,"Gooi en vechtstreek"
-2053,1374,Houten
-2054,1375,Schalkwijk
-2055,1376,"Tull en 't Waal"
-2056,1377,IJselstein
-2057,1378,Achterveld
-2058,1379,Leusbroek
-2059,1379,Leusden
-2060,1379,"Nieuw Leusden"
-2061,1380,Stoutenburg
-2062,1381,Benschop
-2063,1382,Jaarsveld
-2064,1383,Lopik
-2065,1384,Lopikerkapel
-2066,1385,Polsbroek
-2067,1386,Linschoten
-2068,1387,Montfoort
-2069,1388,Nieuwegein
-2070,1388,Nieuwegen
-2071,1389,Hekendorp
-2072,1390,Oudewater
-2073,1391,Papekop
-2074,1392,Snelrewaard
-2075,1393,Renswoude
-2076,1394,Elst
-2077,1394,"Elst Ut"
-2078,1395,Renen
-2079,1395,Rhenen
-2080,1396,Soest
-2081,1397,Soesterberg
-2082,1398,Breukelen
-2083,1399,Kockengen
-2084,1400,"Loenen aan de Vecht"
-2085,1400,Loenen
-2086,1401,Loenersloot
-2087,1402,Maarssen
-2088,1402,Maarsen
-2089,1403,"Nieuwer Ter Aa"
-2090,1403,Nieuwertera
-2091,1403,"Ter Aa"
-2092,1404,Nieuwersluis
-2093,1405,Nigtevecht
-2094,1405,Nichtevecht
-2095,1406,"Oud Zuilen"
-2096,1406,Zuilen
-2097,1407,Tienhoven
-2098,1408,"Tienhoven (Everdingen)"
-2099,1409,Vreeland
-2100,1410,"De Meern"
-2101,1410,Meern
-2102,1411,Haarzuilens
-2103,1411,Haarxuilens
-2104,1411,Haarzuilen
-2105,1412,Utert
-2106,1412,Utrecht
-2107,1413,Vleuten
-2108,1414,Amerongen
-2109,1415,Doorn
-2110,1416,Driebergen-Rijsenburg
-2111,1417,Leersum
-2112,1418,Maarn
-2113,1419,Maarsbergen
-2114,1420,Overberg
-2115,1421,Veenendaal
-2116,1421,Venendaal
-2117,1422,Ameide
-2118,1423,Everdingen
-2119,1424,Hagestein
-2120,1425,"Hei- en Boeicop"
-2121,1426,"Hoef en Haag"
-2122,1427,Kedichem
-2123,1428,Leerbroek
-2124,1429,Leerdam
-2125,1430,Lexmond
-2126,1430,Leksmond
-2127,1431,Meerkerk
-2128,1432,Nieuwland
-2129,1434,Ossenwaard
-2130,1435,Schoonrewoerd
-2131,1435,Schoonerwoerd
-2132,1436,"Tienhoven aan de Lek"
-2133,1438,Zijderveld
-2134,1439,Cothen
-2135,1439,Koten
-2136,1440,Langbroek
-2137,1440,Neerlangbroek
-2138,1441,"Wijk bij Duurstede"
-2139,1441,"Wyk by Duerstede"
-2140,1442,Harmelen
-2141,1443,Kamerik
-2142,1444,Woerden
-2143,1445,Zegveld
-2144,1446,Woudenberg
-2145,1447,Austerlitz
-2146,1448,"Bosch en Duin"
-2147,1449,"Den Dolder"
-2148,1449,Dolder
-2149,1450,"Huis ter Heide"
-2150,1451,Seist
-2151,1451,Zeist
-2152,1452,Aalsmeer
-2153,1453,Kudelstaart
-2154,1454,Alkmaar
-2155,1454,Alkmar
-2156,1455,"De Rijp"
-2157,1455,Rijp
-2158,1456,Driehuizen
-2159,1457,Graft
-2160,1458,Grootschermer
-2161,1459,Markenbinnen
-2162,1460,Noordeinde
-2163,1461,Oost-Graftdijk
-2164,1461,Graftdijk
-2165,1462,Oterleek
-2166,1463,Oudorp
-2167,1464,Schermerhorn
-2168,1465,Starnmeer
-2169,1466,Stompetoren
-2170,1467,"Ursem gem. S"
-2171,1468,West-Graftdijk
-2172,1468,"West Grastdijk"
-2173,1469,Zuidschermer
-2174,1470,Amstelveen
-2175,1470,"Nieuwer Amstel"
-2176,1471,Amsterdam
-2177,1472,Middenbeemster
-2178,1473,Noordbeemster
-2179,1474,Westbeemster
-2180,1475,Zuidoostbeemster
-2181,1476,"Bergen (NH)"
-2182,1476,Bergen-Binnen
-2183,1477,"Bergen aan Zee"
-2184,1478,"Egmond aan den Hoef"
-2185,1478,"Egmond a/d Hoef"
-2186,1478,"Egmond aan de Hoef"
-2187,1478,"Egmond op den Hoef"
-2188,1479,"Egmond aan Zee"
-2189,1480,Egmond-Binnen
-2190,1481,Groet
-2191,1482,Schoorl
-2192,1483,Berverwyk
-2193,1483,Beverwijk
-2194,1483,Beverwyk
-2195,1484,"Wijk aan Zee"
-2196,1485,Blaricum
-2197,1485,Blarikum
-2198,1486,Aerdenhout
-2199,1486,Aardenhout
-2200,1487,Bennebroek
-2201,1488,Bloemendaal
-2202,1489,Overveen
-2203,1490,Vogelenzang
-2204,1491,Akersloot
-2205,1492,Castricum
-2206,1492,Kastrikum
-2207,1493,"de Woude"
-2208,1494,Limmen
-2209,1495,"De Helder"
-2210,1495,"Den Helder"
-2211,1495,"Der Helder"
-2212,1495,Helder
-2213,1496,Huisduinen
-2214,1497,Julianadorp
-2215,1498,Diemen
-2216,1498,Diemerbrug
-2217,1499,Hem
-2218,1500,Hoogkarspel
-2219,1501,Oosterblokker
-2220,1502,Oosterleek
-2221,1503,Schellinkhout
-2222,1504,Venhuizen
-2223,1505,Westwoud
-2224,1506,Wijdenes
-2225,1507,Beets
-2226,1508,Edam
-2227,1509,Hobrede
-2228,1509,Hobreede
-2229,1510,Kwadijk
-2230,1511,Middelie
-2231,1512,Oosthuizen
-2232,1513,Schardam
-2233,1514,Volendam
-2234,1515,Warder
-2235,1515,Warden
-2236,1516,Enkhuizen
-2237,1516,Inkhuzen
-2238,1517,Bussum
-2239,1518,Muiden
-2240,1519,Muiderberg
-2241,1520,Naarden
-2242,1521,Haarlem
-2243,1521,Haarlim
-2244,1522,"Spaarndam gem. Haarlem"
-2245,1523,Aalsmeerderbrug
-2246,1524,Abbenes
-2247,1525,Badhoevedorp
-2248,1526,Beinsdorp
-2249,1527,Boesingheliede
-2250,1528,Buitenkaag
-2251,1529,Burgerveen
-2252,1530,Cruquius
-2253,1531,Haarlemmerliede
-2254,1532,Halfweg
-2255,1533,Hoofddorp
-2256,1534,Leimuiderbrug
-2257,1535,Lijnden
-2258,1536,Lisserbroek
-2259,1537,Nieuw-Vennep
-2260,1538,"Oude Meer"
-2261,1539,Rijsenhout
-2262,1541,Schiphol
-2263,1542,Schiphol-Rijk
-2264,1543,Spaarndam
-2265,1544,Vijfhuizen
-2266,1545,Weteringbrug
-2267,1546,Zwaanshoek
-2268,1547,Zwanenburg
-2269,1548,Heemskerk
-2270,1549,Heemstede
-2271,1549,Hiemstee
-2272,1550,Heerhugowaard
-2273,1551,Heilo
-2274,1551,Heiloo
-2275,1552,Hilfertsom
-2276,1552,Hilversum
-2277,1552,Hilvertsheim
-2278,1553,"'t Veld"
-2279,1553,Veld
-2280,1554,"Anna Paulowna"
-2281,1554,"Anna Paulowne"
-2282,1555,Barsingerhorn
-2283,1556,Breezand
-2284,1557,"Den Oever"
-2285,1557,"De Oever"
-2286,1557,Oever
-2287,1558,Haringhuizen
-2288,1559,Hippolytushoef
-2289,1559,Hypolitushoef
-2290,1560,Kolhorn
-2291,1561,Kreileroord
-2292,1562,Lutjewinkel
-2293,1563,Middenmeer
-2294,1564,"Nieuwe Niedorp"
-2295,1565,"Oude Niedorp"
-2296,1566,Slootdorp
-2297,1567,Westerland
-2298,1568,Wieringerwaard
-2299,1569,Wieringerwerf
-2300,1569,Wieringerdorf
-2301,1570,Winkel
-2302,1571,Zijdewind
-2303,1571,Zijdewinne
-2304,1572,Blokker
-2305,1573,Hoarn
-2306,1574,Zwaag
-2307,1575,Huizen
-2308,1576,Avenhorn
-2309,1577,Berkhout
-2310,1578,"De Goorn"
-2311,1578,Goorn
-2312,1579,Hensbroek
-2313,1580,Obdam
-2314,1581,Oudendijk
-2315,1582,Scharwoude
-2316,1583,Spierdijk
-2317,1584,Ursem
-2318,1585,Zuidermeer
-2319,1586,"Den Ilp"
-2320,1586,Ilp
-2321,1587,Landsmeer
-2322,1587,Lânsmar
-2323,1588,Purmerland
-2324,1589,"Broek op Langedijk"
-2325,1589,"Broek op Langendijk"
-2326,1590,Koedijk
-2327,1591,Noord-Scharwoude
-2328,1592,"Sint Pancras"
-2329,1592,Pankras
-2330,1592,"Sint Pankras"
-2331,1593,Zuid-Scharwoude
-2332,1594,Laren
-2333,1595,Abbekerk
-2334,1596,Andijk
-2335,1596,"Andijk Oost"
-2336,1597,Benningbroek
-2337,1598,Hauwert
-2338,1599,Lambertschaag
-2339,1600,Medemblik
-2340,1601,Midwoud
-2341,1602,Nibbixwoud
-2342,1602,Nibbikswoud
-2343,1603,Oostwoud
-2344,1604,Opperdoes
-2345,1605,Sijbekarspel
-2346,1606,Twisk
-2347,1606,Twist
-2348,1607,Wervershoof
-2349,1608,Wognum
-2350,1609,Zwaagdijk-Oost
-2351,1609,Zwaagdijk
-2352,1610,Zwaagdijk-West
-2353,1611,Eastsaan
-2354,1611,Oostzaan
-2355,1612,Aartswoud
-2356,1612,Aardswoud
-2357,1612,Aartwoud
-2358,1613,"De Weere"
-2359,1613,Weere
-2360,1614,Hoogwoud
-2361,1615,Opmar
-2362,1615,Opmeer
-2363,1616,Spanbroek
-2364,1618,Duivendrecht
-2365,1618,Amsterdam-Duivendrecht
-2366,1619,"Ouder Amstel"
-2367,1619,"Ouderkerk Aan Den Amstel"
-2368,1619,"Ouderkerk a/d Amstel"
-2369,1619,"Ouderkerk aan de Amstel"
-2370,1620,Purmerein
-2371,1620,Purmerend
-2372,1621,"'t Zand"
-2373,1621,Zand
-2374,1622,Burgerbrug
-2375,1623,Callantsoog
-2376,1623,Kallensoog
-2377,1624,Dirkshorn
-2378,1624,Dirckshorn
-2379,1625,Oudesluis
-2380,1626,Oudkarspel
-2381,1627,Petten
-2382,1628,Schagen
-2383,1628,Skagen
-2384,1629,Schagerbrug
-2385,1630,"Sint Maarten"
-2386,1631,"Sint Maartensbrug"
-2387,1632,"Sint Maartensvlotbrug"
-2388,1633,Tuitjenhorn
-2389,1633,Tuitjehorn
-2390,1634,Waarland
-2391,1635,Warmenhuizen
-2392,1636,Bovenkarspel
-2393,1637,Grootebroek
-2394,1638,Lutjebroek
-2395,1639,"De Cocksdorp"
-2396,1639,Cocksdorp
-2397,1640,"De Koog"
-2398,1641,"De Waal"
-2399,1642,"Den Burg"
-2400,1642,Burg
-2401,1642,"De Burg"
-2402,1643,"De Hoorn"
-2403,1644,Oosterend
-2404,1644,Oostereind
-2405,1645,Oudeschild
-2406,1646,Uitgeest
-2407,1646,Utgeast
-2408,1647,"De Kwakel"
-2409,1647,Kwake
-2410,1647,Kwakel
-2411,1648,Uithoorn
-2412,1648,Uthoarn
-2413,1649,Driehuis
-2414,1649,"Driehuis NH"
-2415,1650,IJmuiden
-2416,1650,IJmond
-2417,1650,Ymuiden
-2418,1651,Santpoort-Noord
-2419,1651,Santpoort
-2420,1652,Santpoort-Zuid
-2421,1653,Velsen-Noord
-2422,1653,Velseroord
-2423,1653,Velzeroord
-2424,1654,Velsen-Zuid
-2425,1654,Velsen
-2426,1654,Velzen
-2427,1655,Velserbroek
-2428,1656,"Broek in Waterland"
-2429,1656,Broek
-2430,1657,Ilpendam
-2431,1658,Katwoude
-2432,1659,Marken
-2433,1660,Monnickendam
-2434,1660,Monnikendam
-2435,1661,"De Purmer"
-2436,1661,Purmer
-2437,1662,Uitdam
-2438,1663,Watergang
-2439,1664,Zuiderwoude
-2440,1665,Weesp
-2441,1666,"'s Gravenland"
-2442,1666,'s-Graveland
-2443,1666,"'s Graveland"
-2444,1666,s-Gravelân
-2445,1667,Ankeveen
-2446,1668,Breukeleveen
-2447,1668,Breukelerveen
-2448,1669,Kortenhoef
-2449,1670,Loosdrecht
-2450,1670,Oud-Over
-2451,1670,Oudover
-2452,1671,"Nederhorst den Berg"
-2453,1672,Jisp
-2454,1673,Oostknollendam
-2455,1674,Spijkerboor
-2456,1675,Wijdewormer
-2457,1676,Wormer
-2458,1677,Assendelft
-2459,1678,"Koog aan de Zaan"
-2460,1678,Koog
-2461,1679,Krommenie
-2462,1680,Knollendam
-2463,1680,Westknollendam
-2464,1681,Westzaan
-2465,1682,Wormerveer
-2466,1682,Wormereer
-2467,1683,Zaandam
-2468,1684,Zaandijk
-2469,1685,Bentveld
-2470,1686,Landvoort
-2471,1686,Zandvoort
-2472,1687,Alblasserdam
-2473,1688,Poortugaal
-2474,1689,Rhoon
-2475,1689,Roon
-2476,1690,Rotterdam-Albrandswaard
-2477,1691,Aarlanderveen
-2478,1692,"Alphen a/d Rijn"
-2479,1692,"Alphen aan de Rijn"
-2480,1692,"Alphen aan den Rijn"
-2481,1692,"Alphen aan der Rijn"
-2482,1693,Benthuizen
-2483,1694,Boskoop
-2484,1695,Hazerswoude-Dorp
-2485,1695,Hazerswoude
-2486,1696,Hazerswoude-Rijndijk
-2487,1696,Hazerswoude-Rijndijke
-2488,1697,"Koudekerk aan den Rijn"
-2489,1697,Koudekerk
-2490,1697,"Koudekerk a/d Rijn"
-2491,1697,"Koudekerk aan de Rijn"
-2492,1697,"Koudekerk an der Rijn"
-2493,1698,Zwammerdam
-2494,1699,Barendrecht
-2495,1700,Bodegraven
-2496,1701,Driebruggen
-2497,1702,"Nieuwerbrug aan den Rijn"
-2498,1703,Reeuwijk
-2499,1704,Waarder
-2500,1705,Brielle
-2501,1705,"Den Briel"
-2502,1706,Vierpolders
-2503,1707,Zwartewaal
-2504,1708,"Capelle a/d IJssel"
-2505,1708,"Capelle a/d Yssel"
-2506,1708,"Capelle aan de IJssel"
-2507,1708,"Capelle aan de Yssel"
-2508,1708,"Capelle aan den IJssel"
-2509,1708,"Capelle aan den Yssel"
-2510,1709,Delft
-2511,1710,'s-Gravenhage
-2512,1711,"De Haach"
-2513,1711,"Den Haag"
-2514,1711,Haag
-2515,1712,Doardt
-2516,1712,Dordrecht
-2517,1712,Dordt
-2518,1712,Dort
-2519,1713,Achthuizen
-2520,1714,"Den Bommel"
-2521,1714,Bommel
-2522,1715,Dirksland
-2523,1716,Goedereede
-2524,1716,Goederee
-2525,1716,Goeree
-2526,1717,Herkingen
-2527,1718,Melissant
-2528,1718,Melissand
-2529,1719,Middelharnis
-2530,1720,Nieuwe-Tonge
-2531,1721,Ooltgensplaat
-2532,1722,Ouddorp
-2533,1722,Alddoarp
-2534,1723,Oude-Tonge
-2535,1724,Sommelsdijk
-2536,1725,"Stad aan 't Haringvliet"
-2537,1725,"Stad aan het Haringvliet"
-2538,1726,Stellendam
-2539,1727,Dalem
-2540,1728,Gorinchem
-2541,1728,Garkum
-2542,1729,Gouda
-2543,1729,Guda
-2544,1730,Hardinxveld-Giessendam
-2545,1731,Hellevoetsluis
-2546,1732,Oudenhoorn
-2547,1733,Hendrik-Ido-Ambacht
-2548,1734,Hillegom
-2549,1735,'s-Gravendeel
-2550,1735,"'s Gravendeel"
-2551,1736,Goudswaard
-2552,1736,Korendijk
-2553,1737,Heinenoord
-2554,1738,Klaaswaal
-2555,1739,Maasdam
-2556,1740,Mijnsheerenland
-2557,1741,Mookhoek
-2558,1742,Nieuw-Beijerland
-2559,1742,Nieuw-Beierland
-2560,1743,Numansdorp
-2561,1743,Buitensluis
-2562,1743,Niemansdorp
-2563,1744,Oud-Beijerland
-2564,1744,"Oud Beierland"
-2565,1745,Piershil
-2566,1746,Puttershoek
-2567,1747,Strijen
-2568,1748,Strijensas
-2569,1748,"Strijensche Sas"
-2570,1749,Westmaas
-2571,1750,Zuid-Beijerland
-2572,1750,Zuidbeierland
-2573,1751,Hoogmade
-2574,1751,Hoogmaden
-2575,1752,Kaag
-2576,1752,"De Kaag"
-2577,1753,Leimuiden
-2578,1753,Leymuiden
-2579,1754,"Nieuwe Wetering"
-2580,1755,"Oud Ade"
-2581,1756,"Oude Wetering"
-2582,1757,Rijnsaterwoude
-2583,1757,Rijnxaterwoude
-2584,1758,Rijpwetering
-2585,1759,Roelofarendsveen
-2586,1760,Woubrugge
-2587,1762,Rijnsburg
-2588,1762,Rynsburch
-2589,1764,"Krimpen a/d IJssel"
-2590,1764,"Krimpen a/d Yssel"
-2591,1764,"Krimpen aan de Yssel"
-2592,1764,"Krimpen aan den IJssel"
-2593,1764,"Krimpen aan den Yssel"
-2594,1765,Ammerstol
-2595,1766,Bergambacht
-2596,1767,Berkenwoude
-2597,1768,Gouderak
-2598,1769,Haastrecht
-2599,1770,"Krimpen aan de Lek"
-2600,1770,Krimpen
-2601,1770,"Krimpen a/d Lek"
-2602,1770,"Krimpen aan den Lek"
-2603,1771,Lekkerkerk
-2604,1772,Ouderkerk
-2605,1772,"Ouderkerk a/d IJssel"
-2606,1772,"Ouderkerk a/d Yssel"
-2607,1772,"Ouderkerk aan de IJssel"
-2608,1772,"Ouderkerk aan de Yssel"
-2609,1772,"Ouderkerk aan den IJssel"
-2610,1772,"Ouderkerk aan den Yssel"
-2611,1772,Ouderkerk-aan-den-IJsel
-2612,1773,Schoonhoven
-2613,1773,Sconhouen
-2614,1774,Stolwijk
-2615,1775,Vlist
-2616,1776,Bergschenhoek
-2617,1777,"Berkel en Rodenrijs"
-2618,1778,Bleiswijk
-2619,1779,Leiden
-2620,1779,Leien
-2621,1779,Leyden
-2622,1780,Leiderdorp
-2623,1781,Leidschendam
-2624,1782,Voorburg
-2625,1783,Lisse
-2626,1784,Maassluis
-2627,1785,"Den Hoorn"
-2628,1785,Hoorn
-2629,1786,Maasland
-2630,1787,Schipluiden
-2631,1788,Arkel
-2632,1789,"Bleskensgraaf ca"
-2633,1790,Brandwijk
-2634,1791,Giessenburg
-2635,1791,"Giesen Nieuwkerk"
-2636,1791,"Giessen Nieuwkerk"
-2637,1792,Goudriaan
-2638,1793,Groot-Ammers
-2639,1794,Hoogblokland
-2640,1795,Hoornaar
-2641,1796,Kinderdijk
-2642,1797,Langerak
-2643,1798,Molenaarsgraaf
-2644,1799,Nieuw-Lekkerland
-2645,1800,Nieuwpoort
-2646,1801,Noordeloos
-2647,1802,Ottoland
-2648,1803,Oud-Alblas
-2649,1804,Schelluinen
-2650,1805,Streefkerk
-2651,1806,Waal
-2652,1807,Wijngaarden
-2653,1808,Nieuwkoop
-2654,1809,Nieuwveen
-2655,1810,Noorden
-2656,1811,"Ter Aar"
-2657,1812,Vrouwenakker
-2658,1812,Vrouweakker
-2659,1813,"Woerdense Verlaat"
-2660,1813,Woerdenscheverlaat
-2661,1813,Woerdenschverlaat
-2662,1813,"Woerdsche Verlaat"
-2663,1814,Zevenhoven
-2664,1815,Abbenbroek
-2665,1816,Geervliet
-2666,1817,Heenvliet
-2667,1818,Hekelingen
-2668,1819,Simonshaven
-2669,1820,Spijkenisse
-2670,1821,Zuidland
-2671,1822,"De Zilk"
-2672,1822,"Groote Zilk"
-2673,1822,Zilk
-2674,1823,Noordwijk
-2675,1824,Noordwijkerhout
-2676,1825,Oegstgeest
-2677,1825,Oestgeest
-2678,1826,Papendrecht
-2679,1827,Delfgauw
-2680,1828,Nootdorp
-2681,1829,Pijnacker
-2682,1829,Pynakker
-2683,1830,Ridderkerk
-2684,1831,Rijswijk
-2685,1832,"Botlek Rotterdam"
-2686,1833,Eurapoort
-2687,1833,Europoort
-2688,1833,"Europoort Rotterdam"
-2689,1833,Rotterdam-Europoort
-2690,1834,"Hoek van Holland"
-2691,1834,"Hook of Holland"
-2692,1835,"Hoogvliet Rotterdam"
-2693,1836,"Maasvlakte Rotterdam"
-2694,1836,"De Maasvlakte"
-2695,1836,Maasvlakte
-2696,1837,"Pernis Rotterdam"
-2697,1838,Rotterdam
-2698,1839,Rozenburg
-2699,1840,"Vondelingenplaat Rotterdam"
-2700,1841,Schiedam
-2701,1841,Skiedam
-2702,1842,Sliedrecht
-2703,1843,Sassenheim
-2704,1844,Voorhout
-2705,1845,Warmond
-2706,1846,Vlaardingen
-2707,1847,Voorschoten
-2708,1848,Waddinxveen
-2709,1849,Wassenaar
-2710,1850,'s-Gravenzande
-2711,1851,"De Lier"
-2712,1851,Lier
-2713,1852,Honselersdijk
-2714,1852,Hondshorledijk
-2715,1852,Honselerdijk
-2716,1853,Kwintsheul
-2717,1854,Maasdijk
-2718,1855,Monster
-2719,1856,Naaldwijk
-2720,1857,Poeldijk
-2721,1858,"Ter Heijde"
-2722,1858,"Ter Heide"
-2723,1858,Terhei
-2724,1859,Wateringen
-2725,1860,Oostvoorne
-2726,1861,Rockanje
-2727,1861,Rokanje
-2728,1861,Rokkanje
-2729,1862,Tinte
-2730,1862,"De Tinte"
-2731,1863,Zoetermeer
-2732,1864,Gelderswoude
-2733,1864,Gelderwoude
-2734,1865,Zoeterwoude
-2735,1866,Moerkapelle
-2736,1867,Moordrecht
-2737,1868,"Nieuwerkerk aan den IJssel"
-2738,1868,"Nieuwerkerk a/d IJssel"
-2739,1868,"Nieuwerkerk a/d Yssel"
-2740,1868,"Nieuwerkerk aan de IJssel"
-2741,1868,"Nieuwerkerk aan de Yssel"
-2742,1868,"Nieuwerkerk aan den Yssel"
-2743,1869,Zevenhuizen
-2744,1870,Heerjansdam
-2745,1871,Zwijndrecht
-2746,1872,'s-Gravenpolder
-2747,1872,"'s Gravenpolder"
-2748,1873,"'s-Heer Abtskerke"
-2749,1873,"'s Heer Abtskerke"
-2750,1874,'s-Heerenhoek
-2751,1874,"'s Heerenhoek"
-2752,1875,Baarland
-2753,1876,Borsele
-2754,1876,Borssele
-2755,1876,Borsselen
-2756,1877,Driewegen
-2757,1878,Ellewoutsdijk
-2758,1878,Ellewoudsdijk
-2759,1879,Heinkenszand
-2760,1880,Hoedekenskerke
-2761,1881,Kwadendamme
-2762,1881,Kwadendanne
-2763,1882,Lewedorp
-2764,1883,Nieuwdorp
-2765,1883,Nieuwedorp
-2766,1884,Nisse
-2767,1885,Oudelande
-2768,1886,Ovezande
-2769,1887,"'s-Heer Arendskerke"
-2770,1887,"'s Heer Arendskerke"
-2771,1888,"'s-Heer Hendrikskinderen"
-2772,1888,"'s Heer Hendrikskinderen"
-2773,1889,Goes
-2774,1890,Kattendijke
-2775,1891,Wilhelminadorp
-2776,1892,Oostkerk
-2777,1892,Oostkerke
-2778,1892,Wolphaartsdijk
-2779,1893,Clinge
-2780,1893,Klinge
-2781,1894,Graauw
-2782,1894,Grauw
-2783,1895,Heikant
-2784,1896,Hengstdijk
-2785,1896,Hengsdijk
-2786,1896,Hengstdyk
-2787,1897,Hulst
-2788,1898,Kapellebrug
-2789,1898,Kapelbrug
-2790,1898,Kappellebrug
-2791,1899,Kloosterzande
-2792,1899,Kleastersân
-2793,1900,Kuitaart
-2794,1901,Lamswaarde
-2795,1902,Nieuw-Namen
-2796,1902,"Nieuw Naman"
-2797,1903,Ossenisse
-2798,1904,"Sint Jansteen"
-2799,1904,Sint-Janssteen
-2800,1905,Terhole
-2801,1906,Vogelwaarde
-2802,1906,Fûgelwearde
-2803,1907,Walsoorden
-2804,1907,Walsoorde
-2805,1908,Kapelle
-2806,1908,Capelle
-2807,1909,Kloetinge
-2808,1910,Schore
-2809,1911,Wemeldinge
-2810,1912,Arnemuiden
-2811,1913,Middelburch
-2812,1913,Middelburg
-2813,1914,"Nieuw- en Sint Joosland"
-2814,1914,"Nieuw-en Sint Joosland"
-2815,1915,Colijnsplaat
-2816,1916,Geersdijk
-2817,1916,Geersdijke
-2818,1917,Kamperland
-2819,1917,Camperland
-2820,1918,Kats
-2821,1919,Kortgene
-2822,1919,Kotgene
-2823,1920,Wissenkerke
-2824,1920,Wissekerke
-2825,1921,Hansweert
-2826,1921,Hansweerd
-2827,1922,Krabbendijke
-2828,1922,Krabbendyke
-2829,1923,Kruiningen
-2830,1923,Kruninge
-2831,1924,Oostdijk
-2832,1925,Rilland
-2833,1925,Rilland-Bath
-2834,1926,Waarde
-2835,1927,Yerseke
-2836,1927,IJerseka
-2837,1927,Iersake
-2838,1927,Ierseke
-2839,1927,Yrseke
-2840,1928,Brouwershaven
-2841,1929,Bruinisse
-2842,1930,Burgh-Haamstede
-2843,1931,Dreischor
-2844,1931,Drijschor
-2845,1932,Ellemeet
-2846,1933,Kerkwerve
-2847,1934,Nieuwerkerk
-2848,1935,Noordgouwe
-2849,1936,Noordwelle
-2850,1937,Oosterland
-2851,1938,Ouwerkerk
-2852,1939,Renesse
-2853,1940,Scharendijke
-2854,1941,Sirjansland
-2855,1941,S-Heerjansland
-2856,1941,Sirsjansland
-2857,1942,Zierikzee
-2858,1942,Zieriksee
-2859,1943,Zonnemaire
-2860,1944,Aardenburg
-2861,1945,Breskens
-2862,1946,Cadzand
-2863,1946,Casant
-2864,1946,Kadzand
-2865,1947,Eede
-2866,1948,Groede
-2867,1949,Hoofdplaat
-2868,1950,IJzendijke
-2869,1951,Nieuwvliet
-2870,1952,Oostburg
-2871,1953,Retranchement
-2872,1954,Schoondijke
-2873,1955,"Sint Kruis"
-2874,1956,Sluis
-2875,1957,Waterlandkerkje
-2876,1958,Zuidzande
-2877,1959,Axel
-2878,1959,Aksel
-2879,1960,Biervliet
-2880,1960,Bierfliet
-2881,1961,Hoek
-2882,1962,Koewacht
-2883,1963,Overslag
-2884,1964,Philippine
-2885,1964,Filippine
-2886,1965,"Sas van Gent"
-2887,1965,"Sas fan Gent"
-2888,1966,Sluiskil
-2889,1967,Spui
-2890,1967,Zoutespui
-2891,1968,Neuzen
-2892,1968,Terneuzen
-2893,1969,Westdorpe
-2894,1970,Zaamslag
-2895,1971,Zuiddorpe
-2896,1972,Oud-Vossemeer
-2897,1972,"Oud Vosmeer"
-2898,1973,Poortvliet
-2899,1974,Scherpenisse
-2900,1975,"Anna Land"
-2901,1975,Sint-Annaland
-2902,1976,Sint-Maartensdijk
-2903,1977,"Sint Philipsland"
-2904,1977,"Sint Filipsland"
-2905,1978,Stavenisse
-2906,1979,Tholen
-2907,1979,Tolen
-2908,1980,Aagtekerke
-2909,1981,Biggekerke
-2910,1982,Domburg
-2911,1983,Gapinge
-2912,1984,Grijpskerke
-2913,1985,Koudekerke
-2914,1986,Meliskerke
-2915,1987,Oostkapelle
-2916,1988,Serooskerke
-2917,1989,Veere
-2918,1989,Vere
-2919,1990,Vrouwenpolder
-2920,1991,Westkapelle
-2921,1992,Zoutelande
-2922,1993,Oost-Souburg
-2923,1993,Oostsoeburg
-2924,1993,Souberg
-2925,1994,Ritthem
-2926,1994,Rittem
-2927,1995,Flissingen
-2928,1995,Vlissingen
-2929,1997,'s-Hertogenbosch
-2930,1997,"'s Hertogenbosch"
-2931,1997,"De Bosk"
-2932,1997,"Den Bosch"
-2933,1997,Hertogenbosch
-2934,1998,Nuland
-2935,1999,Rosmalen
-2936,2000,Alphen
-2937,2000,Alfen
-2938,2001,"Bavel AC"
-2939,2002,Chaam
-2940,2003,Galder
-2941,2004,Strijbeek
-2942,2005,"Ulvenhout AC"
-2943,2006,Almkerk
-2944,2007,Andel
-2945,2008,Babyloniënbroek
-2946,2008,Babiloniënbroek
-2947,2009,Drongelen
-2948,2010,Dussen
-2949,2011,Eethen
-2950,2011,Eeten
-2951,2011,Eten
-2952,2012,Genderen
-2953,2013,Giessen
-2954,2013,Giesen
-2955,2014,Hank
-2956,2015,Meeuwen
-2957,2016,Nieuwendijk
-2958,2016,Nieuwedijk
-2959,2017,"Rijswijk (NB)"
-2960,2018,Sleeuwijk
-2961,2018,Sleewijk
-2962,2019,Uitwijk
-2963,2021,Waardhuizen
-2964,2022,Werkendam
-2965,2023,Aalburg
-2966,2023,"Wijk en Aalburg"
-2967,2024,Woudrichem
-2968,2025,Asten
-2969,2026,Ommel
-2970,2027,Baarle-Nassau
-2971,2028,Castelre
-2972,2028,Kastelree
-2973,2029,Ulicoten
-2974,2029,Ulekoten
-2975,2030,Bergeijk
-2976,2030,Bergeik
-2977,2031,Luyksgestel
-2978,2031,Luijksgestel
-2979,2031,Luiksgestel
-2980,2032,Riethoven
-2981,2033,Westerhoven
-2982,2034,"Bergen op Zoom"
-2983,2035,Halsteren
-2984,2036,Lepelstraat
-2985,2037,Heesch
-2986,2038,Heeswijk-Dinther
-2987,2039,Loosbroek
-2988,2040,Nistelrode
-2989,2041,Vinkel
-2990,2042,Vorstenbosch
-2991,2043,Best
-2992,2044,Bladel
-2993,2045,Casteren
-2994,2045,Kasteren
-2995,2046,Hapert
-2996,2047,Hoogeloon
-2997,2048,Netersel
-2998,2049,Boekel
-2999,2050,Venhorst
-3000,2051,Beugen
-3001,2052,Boksmeer
-3002,2052,Boxmeer
-3003,2053,Groeningen
-3004,2054,Holthees
-3005,2055,Maashees
-3006,2055,Muszès
-3007,2056,Oefelt
-3008,2056,Oeffelt
-3009,2057,Overloon
-3010,2058,Rijkevoort
-3011,2059,Sambeek
-3012,2060,Vierlingsbeek
-3013,2061,Mullem
-3014,2061,Mullum
-3015,2061,Vortum
-3016,2061,Vortum-Mullem
-3017,2062,Bokstel
-3018,2062,Boxtel
-3019,2063,Liempde
-3020,2064,Bavel
-3021,2065,Breda
-3022,2066,Prinsenbeek
-3023,2067,Teteringen
-3024,2068,Ulvenhout
-3025,2069,Budel
-3026,2070,Budel-Dorplein
-3027,2070,Dorplein
-3028,2070,Dorpplein
-3029,2071,Budel-Schoot
-3030,2071,"Groot Schoot"
-3031,2071,"Groote Schoot"
-3032,2072,Gastel
-3033,2073,Maarheeze
-3034,2073,Haarheeze
-3035,2073,Maarheze
-3036,2074,Soerendonk
-3037,2075,Beers
-3038,2075,"Beers NB"
-3039,2075,Bèèrs
-3040,2076,Cuijk
-3041,2076,Cuyk
-3042,2076,Kuuk
-3043,2076,Kuyk
-3044,2077,Haps
-3045,2078,Katwijk
-3046,2078,"Katwijk NB"
-3047,2078,"Katwijk aan de Maas"
-3048,2079,Linden
-3049,2080,"Sint Agatha"
-3050,2081,Vianen
-3051,2081,"Vianen NB"
-3052,2082,Deurne
-3053,2083,Helenaveen
-3054,2084,Liessel
-3055,2084,Liesel
-3056,2084,Liezel
-3057,2085,Neerkant
-3058,2086,Vlierden
-3059,2087,"'s Gravenmoer"
-3060,2087,"'s Gravemoer"
-3061,2088,Dongen
-3062,2089,Drimmelen
-3063,2090,"Hooge Zwaluwe"
-3064,2091,"Lage Zwaluwe"
-3065,2091,Zwaluwe
-3066,2092,Made
-3067,2093,Terheijden
-3068,2093,Terheden
-3069,2093,Terheide
-3070,2093,Terheiden
-3071,2094,Wagenberg
-3072,2095,Duizel
-3073,2096,Eersel
-3074,2097,Knegsel
-3075,2098,Steensel
-3076,2099,Vessem
-3077,2100,Wintelre
-3078,2101,Eindhoven
-3079,2102,Etten-Leur
-3080,2103,Geertruidenberg
-3081,2104,Raamsdonk
-3082,2105,Raamsdonksveer
-3083,2105,Raamsdonkveer
-3084,2106,Geldrop
-3085,2107,Mierlo
-3086,2107,Mierloo
-3087,2108,Bakel
-3088,2109,"De Mortel"
-3089,2109,Mortel
-3090,2110,"De Rips"
-3091,2111,Elsendorp
-3092,2112,Gemert
-3093,2113,Handel
-3094,2114,Milheeze
-3095,2115,Gilze
-3096,2116,Hulten
-3097,2117,Molenschot
-3098,2118,Rijen
-3099,2118,Reijen
-3100,2119,Goirle
-3101,2119,Goorle
-3102,2120,Riel
-3103,2121,Escharen
-3104,2121,Esteren
-3105,2122,Gassel
-3106,2123,Grave
-3107,2124,Velp
-3108,2125,Biezenmortel
-3109,2126,Esch
-3110,2127,Haaren
-3111,2128,Helvoirt
-3112,2128,Helvoort
-3113,2129,Bosschenhoofd
-3114,2130,Hoeven
-3115,2130,"De Hoeven"
-3116,2131,"Oud Gastel"
-3117,2132,Oudenbosch
-3118,2133,Stampersgat
-3119,2134,Heeze
-3120,2135,Leende
-3121,2136,Sterksel
-3122,2137,Helmond
-3123,2138,Doeveren
-3124,2139,Drunen
-3125,2140,Elshout
-3126,2141,Haarsteeg
-3127,2142,Hedikhuizen
-3128,2143,Heesbeen
-3129,2144,Herpt
-3130,2145,Heusden
-3131,2145,Housden
-3132,2146,Nieuwkuijk
-3133,2146,Nieuwkuik
-3134,2147,Oudheusden
-3135,2148,Vlijmen
-3136,2149,Biest-Houtakker
-3137,2150,Diessen
-3138,2150,Diesen
-3139,2151,Esbeek
-3140,2152,Haghorst
-3141,2153,Hilvarenbeek
-3142,2154,Aarle-Rixtel
-3143,2155,"Beek en Donk"
-3144,2156,Lieshout
-3145,2157,Mariahout
-3146,2158,Reek
-3147,2159,Schaijk
-3148,2159,Schaaik
-3149,2159,Schaik
-3150,2159,Schayk
-3151,2160,Zeeland
-3152,2161,"De Moer"
-3153,2161,Sint-Joachimsmoer
-3154,2162,Kaatsheuvel
-3155,2163,"Loon op Zand"
-3156,2164,Erp
-3157,2165,Schijndel
-3158,2166,Sint-Oedenrode
-3159,2167,Vechel
-3160,2167,Veghel
-3161,2168,Langenboom
-3162,2169,Mill
-3163,2170,"Sint Hubert"
-3164,2171,Wilbertoord
-3165,2172,Fijnaart
-3166,2173,Heijningen
-3167,2173,Heiningen
-3168,2174,Klundert
-3169,2175,Langeweg
-3170,2176,Moerdijk
-3171,2177,Noordhoek
-3172,2178,Oudemolen
-3173,2179,Standdaarbuiten
-3174,2180,Willemstad
-3175,2181,Zevenbergen
-3176,2182,"Zevenbergschen Hoek"
-3177,2182,Zevenbergschehoek
-3178,2183,Nuenen
-3179,2184,Oirschot
-3180,2184,Oorschot
-3181,2185,"Oost West en Middelbeers"
-3182,2186,Heukelom
-3183,2186,Heukelum
-3184,2186,"Hoog Heukelom"
-3185,2186,"Hoog Heukelum"
-3186,2187,Moergestel
-3187,2188,Oisterwijk
-3188,2188,Oosterwijk
-3189,2189,"Den Hout"
-3190,2189,Hout
-3191,2190,Dorst
-3192,2191,Oosteind
-3193,2192,Oosterhout
-3194,2193,Berghem
-3195,2193,Berchem
-3196,2194,Demen
-3197,2195,Deursen-Dennenburg
-3198,2196,Dieden
-3199,2197,Geffen
-3200,2198,Haren
-3201,2199,Herpen
-3202,2200,Huisseling
-3203,2200,Huiseling
-3204,2201,Keent
-3205,2202,Koolwijk
-3206,2203,Lit
-3207,2203,Lith
-3208,2204,Lithoijen
-3209,2204,Lithooien
-3210,2204,Lithoyen
-3211,2204,Litooien
-3212,2205,Macharen
-3213,2206,Maren-Kessel
-3214,2207,Megen
-3215,2208,Neerlangel
-3216,2209,Neerloon
-3217,2210,Oijen
-3218,2210,Ooien
-3219,2211,Os
-3220,2211,Oss
-3221,2212,Overlangel
-3222,2213,Ravenstein
-3223,2213,Ravestein
-3224,2214,Teeffelen
-3225,2214,Tefelen
-3226,2214,Teffelen
-3227,2215,"Hooge Mierde"
-3228,2216,Hulsel
-3229,2217,"Lage Mierde"
-3230,2218,Reusel
-3231,2218,Reuzel
-3232,2219,Heerle
-3233,2220,Moerstraten
-3234,2221,Nispen
-3235,2222,Roosendaal
-3236,2223,Wouw
-3237,2224,"Wouwse Plantage"
-3238,2224,Wouwse-Plantage
-3239,2225,Rucphen
-3240,2225,Rukfen
-3241,2226,Schijf
-3242,2227,Sprundel
-3243,2228,Heike
-3244,2228,"St. Willebrord"
-3245,2228,Willebrord
-3246,2229,Zegge
-3247,2230,Landhorst
-3248,2231,Ledeacker
-3249,2231,Ledeakker
-3250,2232,Oploo
-3251,2232,Oplo
-3252,2233,"Rijkevoort-De Walsert"
-3253,2234,Antonis
-3254,2234,"Sint Anthonis"
-3255,2234,"Sint Antonis"
-3256,2235,Stevensbeek
-3257,2236,Wanroij
-3258,2236,Wanrooi
-3259,2236,Wanrooy
-3260,2236,Wanroy
-3261,2237,Westerbeek
-3262,2238,Berlicum
-3263,2238,Berlikum
-3264,2239,"Den Dungen"
-3265,2239,Dungen
-3266,2240,Gemonde
-3267,2241,Sint-Michielsgestel
-3268,2242,Lierop
-3269,2243,Someren
-3270,2244,"Son en Breugel"
-3271,2245,"De Heen"
-3272,2245,Heen
-3273,2245,Hoogedorp
-3274,2246,Dinteloord
-3275,2247,Kruisland
-3276,2248,Nieuw-Vossemeer
-3277,2248,Nieuw-Vosmeer
-3278,2249,Steenbergen
-3279,2250,Berkel-Enschot
-3280,2251,Tilburch
-3281,2251,Tilburg
-3282,2252,Udenhout
-3283,2253,Odiliapeel
-3284,2254,Uden
-3285,2255,Volkel
-3286,2256,Valkenswaard
-3287,2257,Veldhoven
-3288,2258,Cromvoirt
-3289,2258,Crummert
-3290,2259,Vught
-3291,2260,Waalre
-3292,2261,Sprang-Capelle
-3293,2262,Waalwijk
-3294,2263,Waspik
-3295,2264,Hoogerheide
-3296,2265,Huijbergen
-3297,2265,Huibergen
-3298,2266,Ossendrecht
-3299,2267,Putte
-3300,2267,Putten
-3301,2268,Woensdrecht
-3302,2269,Achtmaal
-3303,2270,"Klein Zundert"
-3304,2271,Rijsbergen
-3305,2272,Wernhout
-3306,2273,Zundert
-3307,2273,"Groot Zundert"
-3308,2274,Beek
-3309,2275,Maastricht-Airport
-3310,2276,Spanbeek
-3311,2276,Spaubeek
-3312,2277,Amstenrade
-3313,2278,Bingelrade
-3314,2279,Doenrade
-3315,2279,"Groot Doenrade"
-3316,2280,Hulsberg
-3317,2281,Jabeek
-3318,2282,Merkelbeek
-3319,2283,Nut
-3320,2283,Nuth
-3321,2284,Oirsbeek
-3322,2284,Oorsbeek
-3323,2285,Puth
-3324,2286,Schimmert
-3325,2287,Schinnen
-3326,2288,Schinveld
-3327,2289,Sweikhuizen
-3328,2290,Wijnandsrade
-3329,2291,Beesel
-3330,2291,Besel
-3331,2292,Reuver
-3332,2293,Afferden
-3333,2293,"Afferden L"
-3334,2294,Bergen
-3335,2295,Siebengewald
-3336,2296,Well
-3337,2296,"Well L"
-3338,2297,Wellerlooi
-3339,2298,Brunssum
-3340,2298,Brunsum
-3341,2299,Echt
-3342,2300,Koningsbosch
-3343,2301,"Maria Hoop"
-3344,2302,Nieuwstadt
-3345,2302,Nieuwstad
-3346,2303,Roosteren
-3347,2304,"Sint Joost"
-3348,2305,Susteren
-3349,2306,Banholt
-3350,2307,Bemelen
-3351,2308,"Cadier en Keer"
-3352,2308,Cadier
-3353,2308,Kadier
-3354,2308,"Kadier en Keer"
-3355,2309,Eckelrade
-3356,2309,Ekkelrade
-3357,2310,Eijsden
-3358,2310,Eisden
-3359,2310,Eysden
-3360,2311,Gronsveld
-3361,2312,Margraten
-3362,2313,Mheer
-3363,2313,Meehr
-3364,2313,Meer
-3365,2314,Noorbeek
-3366,2314,Noordbeek
-3367,2315,Scheulder
-3368,2315,Schulde
-3369,2315,Schulder
-3370,2316,"Sint Geertruid"
-3371,2316,Geertruid
-3372,2316,"Sint Geertruide"
-3373,2317,Asnapium
-3374,2317,Gennep
-3375,2317,"Gennep an der Maas"
-3376,2318,Heijen
-3377,2318,Heien
-3378,2319,Milsbeek
-3379,2319,"Milsbeek bij Gennep"
-3380,2320,Ottersum
-3381,2321,Ven-Zelderheide
-3382,2321,Veen
-3383,2321,Ven
-3384,2322,Beutenaken
-3385,2323,Elkenrade
-3386,2323,Elkenraad
-3387,2324,Epen
-3388,2325,Eys
-3389,2325,Eijs
-3390,2325,Eis
-3391,2326,Gulpen
-3392,2327,Heijenrath
-3393,2327,Heienrade
-3394,2327,Heijenraat
-3395,2328,Ingber
-3396,2329,Mechelen
-3397,2330,Reijmerstok
-3398,2330,Reimerstok
-3399,2331,Slenaken
-3400,2331,Slenken
-3401,2332,Wijlre
-3402,2333,Wittem
-3403,2334,Heerlen
-3404,2335,Hoensbroek
-3405,2335,Hoensbrock
-3406,2336,America
-3407,2336,Amerika
-3408,2337,Broekhuizen
-3409,2338,Broekhuizenvorst
-3410,2338,Broekhuizervorst
-3411,2339,Evertsoord
-3412,2340,Griendtsveen
-3413,2341,Grubbenvorst
-3414,2342,Hegelsom
-3415,2343,Horst
-3416,2344,Kronenberg
-3417,2345,Lottum
-3418,2346,Meerlo
-3419,2346,Meerloo
-3420,2347,Melderslo
-3421,2348,Meterik
-3422,2349,Sevenum
-3423,2350,Swolgen
-3424,2351,Tienraai
-3425,2351,Tienray
-3426,2352,Eygelshoven
-3427,2352,Eggelshoven
-3428,2352,Eigelshoven
-3429,2352,Eijgelshoven
-3430,2352,Eygelshovenerneg
-3431,2353,Kerkrade
-3432,2354,Landgraaf
-3433,2355,Baexem
-3434,2355,Baaksem
-3435,2356,Buggenum
-3436,2356,Bruggenum
-3437,2356,Buggenem
-3438,2357,Ell
-3439,2357,El
-3440,2358,Grathem
-3441,2358,Gratem
-3442,2359,Haelen
-3443,2359,Halen
-3444,2360,Haler
-3445,2360,Haeler
-3446,2361,Heibloem
-3447,2362,Heijthuizen
-3448,2362,Heithuizen
-3449,2362,Heythuizen
-3450,2362,Heythuysen
-3451,2363,Horn
-3452,2364,Hunsel
-3453,2365,Ittervoort
-3454,2366,Kelpen-Oler
-3455,2367,Neer
-3456,2368,Neeritter
-3457,2369,Nunhem
-3458,2370,Roggel
-3459,2371,Beegden
-3460,2372,Heel
-3461,2373,Linne
-3462,2374,Maasbracht
-3463,2375,Ohee
-3464,2375,"Ohé en Laak"
-3465,2376,Stevensweert
-3466,2377,Thorn
-3467,2377,Torn
-3468,2378,Wessem
-3469,2379,Maastricht
-3470,2380,Bunde
-3471,2381,Geulle
-3472,2381,Geul
-3473,2381,Guelle
-3474,2382,Meersen
-3475,2382,Meerssen
-3476,2383,Moorveld
-3477,2383,Mwórveld
-3478,2384,Ulestraten
-3479,2385,Middelaar
-3480,2386,Molenhoek
-3481,2387,Mook
-3482,2388,Plasmolen
-3483,2389,Leverooi
-3484,2389,Leveroy
-3485,2390,Nederweert
-3486,2391,Nederweert-Eind
-3487,2392,Ospel
-3488,2393,Baarlo
-3489,2393,Baarloo
-3490,2394,Beringe
-3491,2394,Beringen
-3492,2395,Egchel
-3493,2395,Echel
-3494,2396,Grashoek
-3495,2397,Helden
-3496,2398,Kessel
-3497,2399,Koningslust
-3498,2400,Maasbree
-3499,2401,Meijel
-3500,2401,Meiel
-3501,2402,Panningen
-3502,2403,Herkenbosch
-3503,2404,Melick
-3504,2404,Melik
-3505,2405,Montfort
-3506,2406,Posterholt
-3507,2407,"Sint Odiliënberg"
-3508,2408,Vlodrop
-3509,2409,Herten
-3510,2410,Roermond
-3511,2411,Swalmen
-3512,2412,Baneheide
-3513,2413,Bocholtz
-3514,2413,Bocholz
-3515,2414,Simpelveld
-3516,2415,Born
-3517,2416,Buchten
-3518,2417,Einighausen
-3519,2418,Geleen
-3520,2419,Grevenbicht
-3521,2420,Guttecoven
-3522,2420,Guttekoven
-3523,2421,Holtum
-3524,2422,Limbricht
-3525,2423,Munstergeleen
-3526,2424,Obbicht
-3527,2425,Papenhoven
-3528,2426,Sittard
-3529,2427,Windraak
-3530,2428,Elsloo
-3531,2428,Elslo
-3532,2429,Stein
-3533,2430,Urmond
-3534,2431,Lemiers
-3535,2431,Lemier
-3536,2432,Vaals
-3537,2433,Vijlen
-3538,2434,"Berg en Terblijt"
-3539,2435,"Schin op Geul"
-3540,2435,"Schin op Geule"
-3541,2436,Valkenburg
-3542,2437,Walem
-3543,2438,Arcen
-3544,2438,Arsen
-3545,2439,Belfeld
-3546,2440,Lomm
-3547,2440,Lom
-3548,2441,Steijl
-3549,2441,Steil
-3550,2441,Steyl
-3551,2442,Tegelen
-3552,2443,Velden
-3553,2444,Fenlo
-3554,2444,Venlo
-3555,2444,Venloo
-3556,2445,Blitterswijck
-3557,2445,Blitterswijk
-3558,2446,Castenray
-3559,2446,Castenraai
-3560,2446,Castenraij
-3561,2446,Kastenraai
-3562,2447,Geijsteren
-3563,2447,Geisteren
-3564,2448,Heide
-3565,2449,Leunen
-3566,2450,Merselo
-3567,2450,Meerselo
-3568,2451,Oirlo
-3569,2451,Oorlo
-3570,2451,Oorloo
-3571,2452,Oostrum
-3572,2453,Smakt
-3573,2454,Venray
-3574,2454,Venraai
-3575,2454,Venraij
-3576,2455,Veulen
-3577,2456,Vredepeel
-3578,2457,Wanssum
-3579,2457,Wansum
-3580,2458,IJsselstein
-3581,2458,Ysselsteyn
-3582,2459,Klimmen
-3583,2460,Ransdaal
-3584,2461,Voerendaal
-3585,2462,Stramproy
-3586,2462,Stamprooi
-3587,2462,Stamproy
-3588,2462,Stramproij
-3589,2463,Weerd
-3590,2463,Weert
+14,11,Spijk
+15,11,"Spijk Gn"
+16,12,Termunten
+17,13,Termunterzijl
+18,14,Wagenborgen
+19,15,Woldendorp
+20,16,Garmerwolde
+21,16,Garnerwolde
+22,17,Glimmen
+23,18,Grins
+24,18,Groningen
+25,19,Haren
+26,19,"Haren Gn"
+27,20,Lellens
+28,21,Meerstad
+29,22,Noordlaren
+30,23,Onnen
+31,24,"Sint Annen"
+32,25,"Ten Boer"
+33,26,"Ten Post"
+34,27,Thesinge
+35,27,Tezinge
+36,27,Thezinge
+37,28,Winneweer
+38,29,Woltersum
+39,30,Adorp
+40,31,Baflo
+41,32,Bedum
+42,33,"Den Andel"
+43,33,Andel
+44,34,Eemshaven
+45,35,Eenrum
+46,36,Eppenhuizen
+47,37,Hornhuizen
+48,38,Houwerzijl
+49,38,Houwerxijl
+50,39,Kantens
+51,40,Kloosterburen
+52,40,Kleasterbuorren
+53,41,Lauwersoog
+54,42,Leens
+55,42,Liens
+56,43,Mensingeweer
+57,44,Noordwolde
+58,45,Oldenzijl
+59,45,Oldenxijl
+60,46,Onderdendam
+61,47,Oosternieland
+62,48,Oudeschip
+63,49,Pieterburen
+64,50,Rasquert
+65,50,Raskwerd
+66,51,Roodeschool
+67,51,Roodeschooi
+68,52,Rottum
+69,53,Saaxumhuizen
+70,53,Saaksumhuizen
+71,54,Sauwerd
+72,55,Schouwerzijl
+73,56,Stitswerd
+74,56,Stitswert
+75,57,Tinallinge
+76,58,Uithuizen
+77,59,Uithuizermeeden
+78,59,Uithuizermeden
+79,59,Uithuizermeedum
+80,60,Ulrum
+81,61,Usquert
+82,61,Uskwerd
+83,61,Uskwert
+84,62,Vierhuizen
+85,63,Warffum
+86,63,Warfum
+87,64,Warfhuizen
+88,64,Warfhuzen
+89,65,"Wehe-den Hoorn"
+90,65,"Den Hoorn"
+91,65,Hoorn
+92,65,Wehe
+93,65,Weë
+94,66,Westernieland
+95,67,Wetsinge
+96,68,Winsum
+97,69,Zandeweer
+98,70,Zoutkamp
+99,70,Sâltkamp
+100,71,Zuidwolde
+101,72,Zuurdijk
+102,73,"'t Zandt"
+103,74,Eenum
+104,74,Enum
+105,75,Garrelsweer
+106,76,Garsthuizen
+107,76,Garshuizen
+108,77,Huizinge
+109,78,Leermens
+110,79,Loppersum
+111,80,Middelstum
+112,81,Oosterwijtwerd
+113,81,Oosterwijdwerd
+114,82,Startenhuizen
+115,83,Stedum
+116,84,Toornwerd
+117,84,Torenwerd
+118,85,Westeremden
+119,85,Westerenden
+120,86,Westerwijtwerd
+121,86,Westerwijdwerd
+122,87,Wirdum
+123,87,"Wirdum Gn"
+124,88,Zeerijp
+125,89,Zijldijk
+126,90,Foxhol
+127,90,Fokshol
+128,91,Froombosch
+129,92,Harkstede
+130,93,Hellum
+131,94,Hoogezand
+132,94,Hegesân
+133,95,Kiel-Windeweer
+134,95,"Kiel Windeweer"
+135,96,Kolham
+136,97,Kropswolde
+137,98,Lageland
+138,99,Luddeweer
+139,100,Meeden
+140,101,Muntendam
+141,102,Noordbroek
+142,103,Overschild
+143,103,Graauwedijk
+144,104,Sappemeer
+145,105,Scharmer
+146,106,Schildwolde
+147,107,Siddeburen
+148,108,Slochteren
+149,109,Steendam
+150,110,Tjuchem
+151,111,Tripscompagnie
+152,112,Waterhuizen
+153,113,Westerbroek
+154,114,Woudbloem
+155,115,Zuidbroek
+156,115,Zuidbreek
+157,115,Zuidbrock
+158,115,Zuidbruek
+159,116,"'t Waar"
+160,116,"Het Waar"
+161,116,Waar
+162,117,"Bad Nieuweschans"
+163,117,Langakker
+164,117,Nijeskâns
+165,118,Beerta
+166,119,Blauwestad
+167,120,Drieborg
+168,120,Drieburg
+169,121,Finsterwolde
+170,122,Heiligerlee
+171,123,Midwolda
+172,124,"Nieuw Beerta"
+173,125,"Nieuw Scheemda"
+174,126,Nieuwolda
+175,127,Oudezijl
+176,128,Scheemda
+177,129,Westerlee
+178,130,Winschoten
+179,130,Wynskoat
+180,131,"Nieuwe Pekela"
+181,132,"Oude Pekela"
+182,133,Alteveer
+183,134,Mussel
+184,135,Musselkanaal
+185,136,Onstwedde
+186,137,Afraai
+187,137,Stadskanaal
+188,138,Vledderveen
+189,139,Borgercompagnie
+190,140,Veendam
+191,141,Wildervank
+192,142,Aduard
+193,142,Adeward
+194,142,Adewardervoorwerk
+195,143,Boerakker
+196,144,Briltil
+197,144,"De Bril"
+198,145,"De Wilp"
+199,145,Wilp
+200,146,"Den Ham"
+201,146,Ham
+202,147,"Den Horn"
+203,147,Horn
+204,148,Doezum
+205,149,Enumatil
+206,150,Ezinge
+207,151,Feerwerd
+208,152,Garnwerd
+209,153,Grijpskerk
+210,153,Gryptsjerk
+211,154,Grootegast
+212,155,Jonkersvaart
+213,156,Kommerzijl
+214,157,Kornhorn
+215,157,Koornhorn
+216,157,Kornhorne
+217,158,Lauwerzijl
+218,159,"De Leek"
+219,159,"De Like"
+220,159,Leek
+221,160,Lettelbert
+222,161,Lucaswolde
+223,162,Lutjegast
+224,163,Marum
+225,164,Midwolde
+226,165,Niebert
+227,165,Nieberd
+228,166,Niehove
+229,167,Niekerk
+230,168,Niezijl
+231,169,Noordhorn
+232,170,Noordwijk
+233,171,Nuis
+234,172,Oldehove
+235,172,Oldenhove
+236,173,Oldekerk
+237,174,Oostwold
+238,174,Oostwolde
+239,175,Opende
+240,175,"De Grinzer Pein"
+241,175,Opende-West
+242,176,Pieterzijl
+243,177,Saaksum
+244,177,Saaxum
+245,178,Sebaldeburen
+246,179,Tolbert
+247,179,Tolberd
+248,180,Visvliet
+249,181,Zevenhuizen
+250,182,Zuidhorn
+251,183,Bellingwolde
+252,184,Blijham
+253,185,Bourtange
+254,185,Boertang
+255,185,Boertange
+256,186,Oudeschans
+257,187,Sellingen
+258,188,"Ter Apel"
+259,189,"Ter Apelkanaal"
+260,190,Veelerveen
+261,191,Vlachtwedde
+262,191,Vlagtwedde
+263,192,Vriescheloo
+264,192,Friescheloo
+265,193,Wedde
+266,194,Augustinusga
+267,194,Stynsgea
+268,195,Boelenslaan
+269,195,Boelensloane
+270,195,Surhuisterveensterheide
+271,196,Buitenpost
+272,196,Bûtenpost
+273,197,Droegeham
+274,197,Drogeham
+275,197,Droogeham
+276,198,Gerkeskleaster
+277,198,Gerkesklooster
+278,199,"De Harkema"
+279,199,Harkema
+280,199,Harkema-Opeinde
+281,200,Koatstertille
+282,200,Kootstertille
+283,201,Strobos
+284,201,Stroobos
+285,202,Surhuisterveen
+286,202,Surhústerfean
+287,203,Surhuizum
+288,203,Surhuzum
+289,204,Twijzel
+290,204,Twizel
+291,205,Twijzelerheide
+292,205,Twizelerheide
+293,206,Ballum
+294,207,Bueren
+295,207,Buren
+296,208,Hollum
+297,209,Broek
+298,209,Broeksterwoude
+299,209,Broeksterwâld
+300,209,"De Broek"
+301,210,Damwoude
+302,210,Damwâld
+303,210,Moarrewâld
+304,210,Murmerwoude
+305,211,"De Falom"
+306,211,"De Valom"
+307,211,Valom
+308,212,"De Westereen"
+309,212,"De Westerein"
+310,213,Driesum
+311,213,Driezum
+312,214,Feanwâlden
+313,214,Veenwouden
+314,215,Readtsjerk
+315,215,Roodkerk
+316,216,Rinsumageast
+317,216,Rinsumageest
+318,217,Sibrandahuis
+319,217,Sibrandahûs
+320,217,Sijbrandahuis
+321,217,Sybrandahuis
+322,218,Wouterswoud
+323,218,Wouterswoude
+324,218,Wâlterswâld
+325,219,Akmarijp
+326,219,Eagmaryp
+327,220,Oudemirdum
+328,220,Aldemardum
+329,221,Bakhuizen
+330,222,Balk
+331,223,Bantega
+332,224,Boarnsweach
+333,224,Boornzwaag
+334,225,Broek
+335,225,Broeksterwoude
+336,225,Broeksterwâld
+337,225,"De Broek"
+338,226,Delfstrahuizen
+339,227,Dijken
+340,227,Diken
+341,228,Doniaga
+342,228,Dunegea
+343,229,Elahuizen
+344,230,Echten
+345,231,Echtenerbrug
+346,231,Echterbrug
+347,232,Eesterga
+348,233,Follega
+349,234,Goaiïngaryp
+350,234,Goengarijp
+351,234,Goingarijp
+352,234,Goëngaryp
+353,234,Goïngarijp
+354,235,Harich
+355,236,Haskerhoarne
+356,236,Haskerhorne
+357,237,Idskenhuizen
+358,237,Jiskenhuzen
+359,237,Taskenhuizen
+360,238,"De Jouwer"
+361,238,Joure
+362,239,Kolderwolde
+363,240,Langwar
+364,240,Langweer
+365,241,Legemar
+366,241,Legemeer
+367,242,"De Lemmer"
+368,242,Lemmer
+369,243,Mirns
+370,244,Nieuwehaske
+371,244,Nijehaske
+372,244,Nijhaske
+373,245,Nijemardum
+374,245,Nijemirdum
+375,246,"Alde Ouwer"
+376,246,Oldeouwer
+377,247,Oosterzee
+378,248,Aldehaske
+379,248,Oldehaske
+380,248,Oudehaske
+381,249,Nijega
+382,249,Ooster-Nijega
+383,249,Ousternijega
+384,249,Ousternijegea
+385,249,Ouwster-Nijega
+386,250,Oosterhaule
+387,250,Ousterhaule
+388,250,Ouwsterhaule
+389,251,Rijs
+390,252,Reahel
+391,252,Rohel
+392,253,Gaast
+393,253,Rotstergaast
+394,254,Rotsterhaule
+395,255,Rottum
+396,256,Ruigahuizen
+397,257,Scharsterbrug
+398,257,Skarsterbrêge
+399,258,"Sint Nicolaasga"
+400,258,"Sint Nikelsgea"
+401,258,"Sint Nikolaasga"
+402,258,"Sint Nyk"
+403,259,"Sint Johannisga"
+404,259,"Sint Jânsgea"
+405,259,Sintjohannesga
+406,260,Sleat
+407,260,Sloten
+408,261,Sniksweach
+409,261,Snikzwaag
+410,262,Sondel
+411,263,Terherne
+412,263,Terhorne
+413,264,Terkaple
+414,265,Teroele
+415,266,Tjerkgaast
+416,266,Tsjerkgaast
+417,267,Stobbega
+418,267,Stobbegat
+419,267,Stobbegea
+420,267,Vegelinsoard
+421,267,Vegelinsoord
+422,268,Wijckel
+423,268,Wijkel
+424,268,Wikel
+425,269,Harlingen
+426,269,Harns
+427,270,Midlum
+428,271,Wijnaldum
+429,271,Winaam
+430,271,Winaem
+431,271,Winaldum
+432,272,Akkrum
+433,272,Ankrum
+434,273,Aldeboarn
+435,273,Oldeboorn
+436,274,Bontebok
+437,275,"De Knijpe"
+438,275,"De Knipe"
+439,275,"De Knype"
+440,275,"Nieuw Brongerga"
+441,276,Gersloot
+442,276,Gershot
+443,277,Haskerdijken
+444,277,Haskerdiken
+445,278,Heerenveen
+446,278,"It Hearrenfean"
+447,279,Hoarnstersweach
+448,279,Hoornsterzwaag
+449,279,Hornsterzwaag
+450,280,Hoarnstersweach
+451,280,Hoornsterzwaag
+452,280,Hornsterzwaag
+453,281,Jubbega
+454,281,Schurega
+455,282,Katlijk
+456,282,Ketlik
+457,283,Luinjeberd
+458,283,Luniabird
+459,283,Luunjeberd
+460,283,Luunjebert
+461,284,Mildam
+462,284,Mildaam
+463,285,Nieuwebrug
+464,286,Nieuwehorne
+465,286,Nijehorne
+466,286,Nijhoarne
+467,287,Nieuweschoot
+468,287,Nijeschoot
+469,287,Nijskoat
+470,288,Oranjewoud
+471,288,"It Oranjewâld"
+472,289,Oudehorne
+473,289,Aldhoarne
+474,289,Oldehorne
+475,290,Oudeschoot
+476,290,Aldskoat
+477,291,Terband
+478,292,Tjalleberd
+479,292,Tjallebert
+480,292,Tjallebird
+481,293,"Alde Leie"
+482,293,"De Leije"
+483,293,Leie
+484,293,Leije
+485,293,"Oude Leie"
+486,293,"Oude Leije"
+487,293,"Oude Leye"
+488,294,Baard
+489,295,Bears
+490,296,Britsum
+491,297,Aegum
+492,297,Eagum
+493,297,Egum
+494,298,Easterlittens
+495,299,Feinsum
+496,299,Finkum
+497,300,Friens
+498,301,Goutum
+499,302,Grou
+500,302,Grouw
+501,303,Hempens
+502,304,Hijum
+503,305,Hilaard
+504,305,Hijlaard
+505,306,Húns
+506,306,Huins
+507,307,Idaard
+508,307,Idaerd
+509,308,Jellum
+510,309,Jelsum
+511,310,Irnsum
+512,310,Jirnsum
+513,311,Jorwert
+514,312,Cornjum
+515,312,Koarnjum
+516,313,Leeuwarden
+517,313,Leewarden
+518,313,Lieuwarden
+519,313,Ljouwert
+520,314,Lekkum
+521,315,Leons
+522,316,Mantgum
+523,317,Miedum
+524,318,Reduzum
+525,318,Roardahuzum
+526,318,Roordahuizum
+527,319,Snakkerburen
+528,319,Snakkeburen
+529,320,Stiens
+530,321,Swichum
+531,321,Zwichem
+532,321,Zwichum
+533,322,Teerns
+534,323,Warstiens
+535,324,Warten
+536,324,Wartena
+537,325,Weidum
+538,326,Warga
+539,326,Wergea
+540,327,Wirdum
+541,328,Witgaard
+542,328,Wytgaard
+543,329,Aalsum
+544,329,Aalzum
+545,329,Ealsum
+546,330,Anjum
+547,330,Eanjum
+548,331,Augsbuur
+549,331,Augsbuurt
+550,331,Augsbuurt-Lutjewoude
+551,331,Augstbuurt
+552,331,Lutjewoude
+553,331,Lytsewâld
+554,332,Blije
+555,332,Blija
+556,333,Boarnwert
+557,333,Bornwerd
+558,333,Bornwird
+559,334,Brantgum
+560,335,Birdaard
+561,335,Burdaard
+562,336,Burum
+563,337,Dokkum
+564,338,Ee
+565,338,Ie
+566,339,Engwierum
+567,339,Ingwierrum
+568,340,Ferwert
+569,340,Ferwerd
+570,341,Foudgum
+571,342,Genum
+572,342,Ginnum
+573,343,Hallum
+574,344,Hantum
+575,345,Hantumeruitburen
+576,345,Hantumerútbuorren
+577,346,Hantumhuizen
+578,346,Hantumhuzen
+579,347,Hegebeintum
+580,347,Hogebeintum
+581,348,"De Lytse Jouwer"
+582,348,Hiaure
+583,349,Holwerd
+584,349,Holwert
+585,350,Jannum
+586,350,Janum
+587,351,Jeslum
+588,351,Jislum
+589,352,Jouswier
+590,352,Jouwswier
+591,353,Kollum
+592,354,Kollumerpomp
+593,355,Kollumerland
+594,355,Kollumerlân
+595,355,Kollumersweach
+596,355,Kollumerzwaag
+597,356,Lichtaard
+598,357,Lioesens
+599,357,Lioessens
+600,357,Ljussens
+601,358,Marrum
+602,359,Metslawier
+603,359,Mitselwier
+604,360,Moddergat
+605,361,Moarre
+606,361,Morra
+607,362,Munnekezijl
+608,362,Munnikenzijl
+609,363,Nes
+610,364,Niawier
+611,364,Nijewier
+612,364,Nyawier
+613,365,Easternijtsjerk
+614,365,Nijkerk
+615,365,Oosternijkerk
+616,366,Eastrum
+617,366,Oostrum
+618,367,Oudwoude
+619,368,Paesens
+620,368,Paezens
+621,368,Peasens
+622,368,Peazens
+623,368,Pezens
+624,369,Raard
+625,370,Reitsum
+626,371,Ternaard
+627,372,Triemen
+628,372,Trimen
+629,373,Veenklooster
+630,373,Veenkloster
+631,374,Waaksens
+632,374,Waaxens
+633,375,Wanswerd
+634,375,Wânswert
+635,376,Warfstermolen
+636,377,Westergeest
+637,378,Wetsens
+638,378,Wetzens
+639,379,Wierum
+640,380,Zwagerbosch
+641,381,Appelscha
+642,381,Appelsga
+643,381,Appelskea
+644,381,"Nieuw Appelsga"
+645,382,Donkerbroek
+646,383,Elslo
+647,383,Elsloo
+648,384,"De Fochtel"
+649,384,Fochtelo
+650,384,Fochteloo
+651,385,"De Haule"
+652,385,Haule
+653,386,Haulerwijk
+654,386,Haulerwyk
+655,387,Langedijk
+656,387,Langedijke
+657,387,Langedike
+658,388,Makkinga
+659,388,Makkingea
+660,389,Nijeberkeap
+661,389,Nijeberkoop
+662,390,Aldeberkeap
+663,390,Berkeap
+664,390,Oldeberkoop
+665,391,Easterwâlde
+666,391,Oosterwolde
+667,392,Ravenswoud
+668,392,Ravenswâld
+669,393,Waskemar
+670,393,Waskemeer
+671,394,Bakkefean
+672,394,Bakkeveen
+673,395,Beetstersweach
+674,395,Beetsterzwaag
+675,396,Drachten-Azeven
+676,397,Frieschepalen
+677,397,"Fryske Peallen"
+678,398,"De Gordyk"
+679,398,Gordyk
+680,398,Gorredijk
+681,399,"De Himrik"
+682,399,Hemrik
+683,400,Jonkersland
+684,400,Jonkerslân
+685,401,Langezwaag
+686,401,Langsweagen
+687,402,Lippenhuizen
+688,402,Lippenhuzen
+689,403,Lukswolde
+690,403,Lukswoude
+691,403,Luxwolde
+692,403,Luxwoude
+693,403,Lúkswâld
+694,403,Lúkswâlde
+695,404,Beets
+696,404,"Nieuw Beets"
+697,404,"Nij Beets"
+698,405,Olterterp
+699,406,Kleasterbuorren
+700,406,Kloosterburen
+701,406,Siegerswolde
+702,406,Siegerswoude
+703,406,Sigerswoude
+704,406,Sigerswâld
+705,407,Terwispel
+706,408,"De Tynje"
+707,408,Tijnje
+708,408,Tynje
+709,409,Oerterp
+710,409,Ureterp
+711,410,Duurswoude
+712,410,Wijnjeterp
+713,410,Wijnjeterp-Duurswoude
+714,410,Wijnjewoude
+715,410,Wynjeterp
+716,410,Wynjewâld
+717,411,Oosterburen
+718,411,Schiermonnikoog
+719,411,Skiermûntseach
+720,412,Boarnburgum
+721,412,Boornbergum
+722,413,"De Tike"
+723,413,Tike
+724,414,"De Feanhoop"
+725,414,"De Veenhoop"
+726,415,"De Wilgen"
+727,415,"De Wylgen"
+728,415,Wilgen
+729,416,Drachten
+730,417,"De Compagnie"
+731,417,"Drachster Compaghnie"
+732,417,"Drachtster Kompenije"
+733,417,Drachtstercompagnie
+734,418,Goëngahuizen
+735,418,Goaiïngahuzen
+736,418,Goingahuizen
+737,419,"De Houtigehage"
+738,419,Houtigehage
+739,420,Koartehimmen
+740,420,Kortehemmen
+741,421,Nijega
+742,421,Ooster-Nijega
+743,421,Ousternijega
+744,421,Ousternijegea
+745,421,Ouwster-Nijega
+746,422,"De Pein"
+747,422,Opeinde
+748,423,Rottefalle
+749,423,Rottevalle
+750,424,"Smalle Ee"
+751,424,"Smelle Ie"
+752,425,Abbega
+753,426,Aldegea
+754,426,Oudega
+755,427,Allingawier
+756,427,Allingaweer
+757,428,Arum
+758,429,Blauwhuis
+759,430,Boazum
+760,430,Bozum
+761,431,Boalsert
+762,431,Bolsward
+763,432,Breezanddijk
+764,433,Britswert
+765,434,Burgwerd
+766,435,Cornwerd
+767,435,Koarnwert
+768,436,"De Hommerts"
+769,436,Hommerts
+770,437,Dearsum
+771,437,Deersum
+772,438,Dedgum
+773,438,Dedgom
+774,439,Drylts
+775,439,IJlst
+776,440,Easterein
+777,440,Oosterend
+778,441,Easterwierrum
+779,442,Exmorra
+780,442,Eksmoarre
+781,442,Eksmorra
+782,443,Ferwoude
+783,444,Folsgare
+784,444,Folsgara
+785,445,Gaast
+786,445,Rotstergaast
+787,446,Gaastmeer
+788,447,Gauw
+789,448,Goënga
+790,448,Goinga
+791,449,Greonterp
+792,450,Hartwerd
+793,451,Heeg
+794,452,Hichtum
+795,453,Hidaard
+796,453,Hydaard
+797,454,Hieslum
+798,455,Hemelum
+799,455,Himmelum
+800,456,Hennaard
+801,456,Hinnaard
+802,457,Hindeloopen
+803,457,Hylpen
+804,457,"Hylpen / Hynljippen"
+805,458,Idsegahuizum
+806,458,Idsegahuizen
+807,459,Idzega
+808,459,Idsega
+809,460,Iens
+810,461,"It Heidenskip"
+811,461,Heidenschap
+812,462,Itens
+813,463,Jutrijp
+814,464,Kimswerd
+815,465,Kornwerderzand
+816,465,"Kornwerderzand Sluizen"
+817,466,Koudum
+818,467,Koufurderrige
+819,467,Kûfurderrige
+820,468,Kubaard
+821,468,Kûbaard
+822,469,Loënga
+823,470,Lollum
+824,470,Ruigelollum
+825,471,Longerhouw
+826,471,Longerhou
+827,472,Lytsewierrum
+828,473,Makkum
+829,474,Molkwar
+830,474,Molkwerum
+831,475,Nijhuixum
+832,475,Nijhuizum
+833,476,Nijland
+834,477,Offingawier
+835,478,Oosthem
+836,479,Parrega
+837,480,Piaam
+838,481,Pingjum
+839,482,Poppenwier
+840,482,Poppingawier
+841,483,Raerd
+842,484,Reahûs
+843,484,Roodhuis
+844,485,Rien
+845,486,Sandfird
+846,486,Sandfirden
+847,486,Sânfirde
+848,486,Sânfurd
+849,487,Schettens
+850,488,Schraard
+851,489,Sibrandabuorren
+852,489,Sibrandaburen
+853,489,Sijbrandaburen
+854,489,Sybrandaburen
+855,490,Scharnegoutum
+856,491,Smallebragge
+857,491,Smallebrugge
+858,492,Sneek
+859,492,Snits
+860,493,Starum
+861,493,Staveren
+862,493,Stavoren
+863,494,Tersoal
+864,494,Terzool
+865,495,Tjerkwerd
+866,496,Oppenhuizen
+867,497,Tjalhuizum
+868,498,Tirns
+869,499,Uitwellingerga
+870,500,Waaksens
+871,500,Waaxens
+872,501,Woudsend
+873,501,Wâldsein
+874,502,Warkum
+875,502,Workum
+876,503,Warns
+877,504,Westhem
+878,505,Witmarsum
+879,505,Wytmarsum
+880,506,Wiewerd
+881,506,Wiuwert
+882,507,Wolsum
+883,508,Wommels
+884,509,Wons
+885,509,Wûns
+886,510,Indijk
+887,510,Yndyk
+888,511,IJpecolsga
+889,511,Ypecolsga
+890,511,Ypekolsgea
+891,512,IJsbrechtum
+892,512,Ysbrechtum
+893,513,Zurich
+894,513,Surig
+895,514,Baaiduinen
+896,514,Baaidunen
+897,515,Formerum
+898,515,Formearum
+899,516,Hee
+900,516,"De Hee"
+901,517,Hoorn
+902,517,"De Hoorn"
+903,517,"Den Hoorn"
+904,518,Kaard
+905,519,Kinnum
+906,520,Landerum
+907,521,Lies
+908,522,Midsland
+909,522,Midslân
+910,523,Oosterend
+911,523,Aasterein
+912,523,Oostereind
+913,524,Seerijp
+914,524,Seeryp
+915,524,Striep
+916,524,Stryp
+917,524,Zeerijp
+918,525,West-Terschelling
+919,525,West-Skylge
+920,525,Westerschelling
+921,526,Aldtsjerk
+922,526,Oudkerk
+923,527,Bergum
+924,527,Burgum
+925,528,Earnewâld
+926,528,Eernewoude
+927,529,Eastermar
+928,529,Oostermeer
+929,530,Garijp
+930,530,Garyp
+931,531,Giekerk
+932,531,Gytsjerk
+933,532,Hardegarijp
+934,532,Hurdegaryp
+935,533,Eestrum
+936,533,Jistrum
+937,534,Moleneind
+938,534,Molenend
+939,534,Mûnein
+940,535,Noardburgum
+941,535,Noordbergum
+942,536,Oenkerk
+943,536,Oentsjerk
+944,537,Rijperkerk
+945,537,Riperkerk
+946,537,Ryptsjerk
+947,538,Suameer
+948,538,Sumar
+949,539,Suawoude
+950,539,Suwâld
+951,540,Tietjerk
+952,540,Tytsjerk
+953,541,Wijns
+954,541,Wyns
+955,542,Vlieland
+956,542,"East Flylân"
+957,543,Achlum
+958,544,Baaijum
+959,544,Baaium
+960,544,Baium
+961,544,Bajum
+962,545,Berlikum
+963,545,Berltsum
+964,546,Beetgum
+965,546,Bitgum
+966,547,Beetgumermolden
+967,547,Beetgumermolen
+968,547,Bitgummole
+969,548,Blessum
+970,549,Boer
+971,550,Boksum
+972,551,Deinum
+973,552,Doanjum
+974,552,Dongjum
+975,553,Dronrijp
+976,553,Dronryp
+977,554,Firdgum
+978,554,Furdgum
+979,555,Franeker
+980,555,Frjentsjer
+981,556,Herbaijum
+982,556,Hjerbeam
+983,557,Hitsum
+984,557,Hitzum
+985,558,Engelum
+986,558,Ingelum
+987,559,"Klooster Lidlum"
+988,559,Kleaster-Lidlum
+989,559,Klooster-Lidlum
+990,559,Lidlum
+991,560,Marssum
+992,560,Marsum
+993,561,Menaam
+994,561,Menaldum
+995,562,Minnertsga
+996,562,Minnertsgea
+997,563,"Nij Altoenae"
+998,564,Easterbierrum
+999,564,Oosterbierum
+1000,565,Oudebildtzijl
+1001,565,"Alde Biltsyl"
+1002,565,"Oude Bildtzijl"
+1003,565,"Oude Biltzijl"
+1004,566,Peins
+1005,567,Pietersbierum
+1006,567,Pitersbierrum
+1007,568,Rie
+1008,568,Ried
+1009,569,Schaalsum
+1010,569,Schalsum
+1011,569,Skalsum
+1012,570,Seisbierrum
+1013,570,Sexbierum
+1014,570,Sixbierum
+1015,571,Schingen
+1016,571,Skingen
+1017,572,Slappeterp
+1018,573,Spannum
+1019,574,St.-Annaparochie
+1020,574,Annaparochie
+1021,574,"Sint Annaparochie"
+1022,574,"Sint Anne"
+1023,574,"St. Annaparochie"
+1024,575,St.-Jacobiparochie
+1025,576,Tjum
+1026,576,Tsjom
+1027,576,Tzum
+1028,577,Tjummarum
+1029,577,Tsjummearum
+1030,577,Tzummarum
+1031,578,Froubuorren
+1032,578,"Lieve Vrouwe Parochie"
+1033,578,"Lieve Vrouwenparochie"
+1034,578,Vrouwenparochie
+1035,579,Westhoek
+1036,580,Wier
+1037,581,Winseem
+1038,581,Winsum
+1039,582,Wjelsryp
+1040,582,Welsrijp
+1041,583,Swyns
+1042,583,Zweins
+1043,584,Blesdijke
+1044,584,Blesdijk
+1045,585,Beuil
+1046,585,Beul
+1047,585,Boijl
+1048,585,Boil
+1049,585,Boyl
+1050,585,Boyle
+1051,586,"De Blesse"
+1052,586,Blesse
+1053,587,"De Hoeve"
+1054,588,Langelille
+1055,589,Monnikeburen
+1056,589,Monnikenburen
+1057,589,Munnekeburen
+1058,589,Munnikeburen
+1059,590,Nijeholtpade
+1060,591,Nijeholtwolde
+1061,591,Nijeholtwoude
+1062,592,Nijelamer
+1063,592,Nijelemmer
+1064,593,Nijetrijne
+1065,593,Nijetrine
+1066,594,Noardwâlde
+1067,594,Noordwolde
+1068,595,Oldeholtpade
+1069,596,Oldeholtwolde
+1070,596,Oldeholtwoude
+1071,597,Oldelamer
+1072,597,Oldelemmer
+1073,598,Oldetrijne
+1074,598,Oldetrine
+1075,599,Oosterstreek
+1076,600,Peperga
+1077,601,Scherpenzeel
+1078,602,Slijkenburg
+1079,603,Sonnega
+1080,604,Spanga
+1081,605,Steggerda
+1082,605,Steggerden
+1083,606,"Ter Idzard"
+1084,606,"Ter Idzardt"
+1085,606,"Ter Idzart"
+1086,606,"Ter Idzerd"
+1087,607,Vinkega
+1088,607,Finkega
+1089,608,Wolvega
+1090,608,Wolvegea
+1091,609,Zandhuizen
+1092,610,Amen
+1093,611,Anderen
+1094,612,Anloo
+1095,612,Anlo
+1096,613,Annen
+1097,614,Annerveenschekanaal
+1098,614,"Annerveensch Kanaal"
+1099,615,Balloërveld
+1100,616,Balloo
+1101,616,Ballo
+1102,617,Deurze
+1103,617,Duurse
+1104,618,Eext
+1105,618,Eekst
+1106,619,Eexterveen
+1107,619,Eeksterveen
+1108,619,"Noord Eexterveen"
+1109,620,Eexterveenschekanaal
+1110,621,Eexterzandvoort
+1111,622,Ekehaar
+1112,623,Eldersloo
+1113,624,Eleveld
+1114,625,Gasselte
+1115,626,Gasselternijveen
+1116,626,Gasselternijeveen
+1117,627,Gasselternijveenschemond
+1118,627,Gasselternijeveenschemond
+1119,628,Gasteren
+1120,629,Geelbroek
+1121,630,Gieten
+1122,631,Gieterveen
+1123,632,Grolloo
+1124,632,Grollo
+1125,633,Marwijksoord
+1126,634,"Nieuw Annerveen"
+1127,634,Annerveen
+1128,635,Nieuwediep
+1129,636,Nijlande
+1130,637,Nooitgedacht
+1131,638,"Oud Annerveen"
+1132,638,Oud-Annerveen
+1133,639,Papenvoort
+1134,640,Rolde
+1135,641,Schipborg
+1136,641,Schipbork
+1137,642,Schoonloo
+1138,643,Spijkerboor
+1139,644,Vredenheim
+1140,645,Assen
+1141,646,Loon
+1142,647,Rhee
+1143,648,"Ter Aard"
+1144,648,Ter-Aart
+1145,649,Ubbena
+1146,650,Zeijerveen
+1147,651,Zeijerveld
+1148,652,"1e Exloërmond"
+1149,652,"Eerste Ekslooërmond"
+1150,652,"Eerste Exsloërmond"
+1151,653,"2e Exloërmond"
+1152,653,"Tweede Ekslooërmond"
+1153,654,"2e Valthermond"
+1154,654,Valterveen
+1155,655,Borger
+1156,656,Bronneger
+1157,657,Bronnegerveen
+1158,658,Buinen
+1159,659,Buinerveen
+1160,660,Drouwen
+1161,661,Drouwenermond
+1162,662,Drouwenerveen
+1163,663,Ees
+1164,664,Eesergroen
+1165,665,Eeserveen
+1166,666,Ellertshaar
+1167,667,Exloërveen
+1168,667,Ekslooërveen
+1169,668,Exloo
+1170,668,Eksloo
+1171,668,Exlo
+1172,669,Klijndijk
+1173,670,Nieuw-Buinen
+1174,671,Odoorn
+1175,672,Odoornerveen
+1176,673,Valthe
+1177,673,Valte
+1178,674,Valthermond
+1179,674,"Eerste Valthermond"
+1180,674,Eerste-Valtermond
+1181,675,Westdorp
+1182,676,Zandberg
+1183,677,"'t Haantje"
+1184,678,Aalden
+1185,679,Benneveld
+1186,680,Coevorden
+1187,680,Koevorden
+1188,681,Dalen
+1189,682,Dalerpeel
+1190,683,Dalerveen
+1191,684,"De Kiel"
+1192,685,Diphoorn
+1193,686,Erm
+1194,687,Gees
+1195,688,Geesbrug
+1196,689,Holsloot
+1197,690,Meppen
+1198,691,"Nieuwlande Coevorden"
+1199,692,Noord-Sleen
+1200,693,Oosterhesselen
+1201,694,Schoonoord
+1202,695,Sleen
+1203,696,Stieltjeskanaal
+1204,697,Wachtum
+1205,698,Wezup
+1206,698,Wesup
+1207,699,Wezuperbrug
+1208,700,Zweeloo
+1209,700,Zweelo
+1210,701,Zwinderen
+1211,702,"de Wijk"
+1212,702,"De Wyk"
+1213,702,Wijk
+1214,703,Drogteropslagen
+1215,703,Drochteropslagen
+1216,704,Echten
+1217,705,Kerkenveld
+1218,706,Koekange
+1219,707,Linde
+1220,708,Ruinerwold
+1221,709,Veeningen
+1222,709,Veeninger
+1223,709,Veningen
+1224,710,Zuidwolde
+1225,711,Barger-Compascuum
+1226,712,Emmen
+1227,713,Emmer-Compascuum
+1228,714,Erica
+1229,715,Klazienaveen
+1230,716,Klazienaveen-Noord
+1231,717,Nieuw-Amsterdam
+1232,718,Nieuw-Dordrecht
+1233,719,Nieuw-Schoonebeek
+1234,719,Nieuw-Schoonebekerveld
+1235,720,Nieuw-Weerdinge
+1236,721,Roswinkel
+1237,722,Schoonebeek
+1238,722,"Oud Schoonebeek"
+1239,723,Veenoord
+1240,724,Weiteveen
+1241,725,Zandpol
+1242,726,Zwartemeer
+1243,727,"Alteveer gem Hoogeveen"
+1244,728,Elim
+1245,729,Fluitenberg
+1246,730,Hollandscheveld
+1247,730,"Het Hollandsche Veld"
+1248,731,Hoogeveen
+1249,732,Nieuwlande
+1250,733,Noordscheschut
+1251,734,Broekhuizen
+1252,735,"De Schiphorst"
+1253,736,Meppel
+1254,737,Nijeveen
+1255,738,Rogat
+1256,739,Balinge
+1257,740,Beilen
+1258,741,Bovensmilde
+1259,742,Bruntinge
+1260,743,Drijber
+1261,744,Elp
+1262,745,Eursinge
+1263,746,Garminge
+1264,747,Hijken
+1265,748,Hooghalen
+1266,749,Mantinge
+1267,750,Nieuw-Balinge
+1268,751,Nieuweroord
+1269,752,Oranje
+1270,753,Orvelte
+1271,754,Smilde
+1272,754,Hilde
+1273,754,Schilde
+1274,755,Stuifzand
+1275,756,Tiendeveen
+1276,757,Westerbork
+1277,758,Wijster
+1278,759,Witteveen
+1279,760,Zuidveld
+1280,761,Zwiggelte
+1281,762,Alteveer
+1282,763,Een
+1283,764,Een-West
+1284,765,Foxwolde
+1285,765,Fokswolde
+1286,765,Wolde
+1287,766,"Huis ter Heide"
+1288,767,Langelo
+1289,767,Langeloo
+1290,768,Leutingewolde
+1291,769,Lieveren
+1292,770,Matsloot
+1293,770,Westpoort
+1294,771,Nietap
+1295,772,Nieuw-Roden
+1296,773,Norg
+1297,774,Peest
+1298,775,Peize
+1299,776,Roden
+1300,776,Roan
+1301,777,Roderesch
+1302,778,Roderwolde
+1303,778,Roderol
+1304,779,Steenbergen
+1305,780,Veenhuizen
+1306,780,Feanhuzen
+1307,781,Westervelde
+1308,782,Zuidvelde
+1309,783,Bunne
+1310,784,"De Groeve"
+1311,784,"De Groeze"
+1312,784,Groeve
+1313,785,"De Punt"
+1314,785,Punt
+1315,786,Donderen
+1316,787,Eelde
+1317,787,Paterswolde
+1318,788,Eelderwolde
+1319,788,Eeldenerwolde
+1320,789,Midlaren
+1321,790,Oudemolen
+1322,791,Paterswolde
+1323,792,Taarlo
+1324,792,Taarloo
+1325,793,Tinaarlo
+1326,793,Tinaarloo
+1327,793,Tynaarlo
+1328,794,Vries
+1329,795,Winde
+1330,796,Yde
+1331,796,Ide
+1332,797,Zeegse
+1333,798,Zeien
+1334,798,Zeijen
+1335,798,Zeyen
+1336,799,Zuidlaarderveen
+1337,800,Súdlaren
+1338,800,Zuidlaren
+1339,801,Ansen
+1340,802,Boschoord
+1341,803,Darp
+1342,803,Derp
+1343,804,Diever
+1344,805,Dieverbrug
+1345,806,Doldersum
+1346,807,Dwingeloo
+1347,807,Dwingelo
+1348,808,Frederiksoord
+1349,809,Geeuwenbrug
+1350,810,Havelte
+1351,811,Havelterberg
+1352,812,Hoogersmilde
+1353,813,Nijensleek
+1354,814,"Oude Willem"
+1355,815,Pesse
+1356,816,Ruinen
+1357,817,Spier
+1358,818,Uffelte
+1359,819,Vledder
+1360,820,Vledderveen
+1361,821,Wapse
+1362,822,Wapserveen
+1363,823,Wateren
+1364,824,Wilhelminaoord
+1365,824,"Wilhelmina Soord"
+1366,825,Wittelte
+1367,826,Zorgvlied
+1368,826,Zorgvliet
+1369,827,Aadorp
+1370,828,Almelo
+1371,828,Almeloo
+1372,829,Bornerbroek
+1373,829,Bornebroek
+1374,830,Borne
+1375,831,Hertme
+1376,831,Hertmen
+1377,832,Zenderen
+1378,833,Dalfsen
+1379,834,Lemelerveld
+1380,835,Nieuwleusen
+1381,836,Bathmen
+1382,836,Batmen
+1383,837,Colmschate
+1384,837,Kolmschate
+1385,838,Deventer
+1386,838,Dimter
+1387,839,Diepenveen
+1388,840,Lettele
+1389,841,Okkenbroek
+1390,842,Schalkhaar
+1391,842,Schalkhaap
+1392,843,Agelo
+1393,843,Groot-Ageloo
+1394,844,Denekamp
+1395,845,Lattrop-Breklenkamp
+1396,846,Nutter
+1397,847,Ootmarsum
+1398,848,"Oud Ootmarsum"
+1399,849,Rossum
+1400,850,Saasveld
+1401,851,Tilligte
+1402,851,Tilhgte
+1403,852,Weerselo
+1404,852,Weerseloo
+1405,853,Enschede
+1406,853,Enskede
+1407,853,Ynskedee
+1408,854,Haaksbergen
+1409,855,Ane
+1410,856,Anerveen
+1411,857,Anevelde
+1412,858,Balkbrug
+1413,859,Bergentheim
+1414,860,Brucht
+1415,861,Bruchterveld
+1416,862,Collendoorn
+1417,862,Kollendoorn
+1418,863,"De Krim"
+1419,863,"De Kruin"
+1420,863,Krim
+1421,864,Dedemsvaart
+1422,864,Dedemsfeart
+1423,865,"Den Velde"
+1424,865,Velde
+1425,866,Diffelen
+1426,867,Gramsbergen
+1427,868,Hardenberg
+1428,868,Stad-Hardenberg
+1429,869,Heemserveen
+1430,870,Holtheme
+1431,871,Holthone
+1432,872,Hoogenweg
+1433,873,Loozen
+1434,874,Lutten
+1435,874,"Lutten aan de Dedemsvaart"
+1436,875,Mariënberg
+1437,876,Radewijk
+1438,876,Baalde-Radewijk
+1439,877,Rheeze
+1440,878,Rheezerveen
+1441,878,Reezerveen
+1442,879,Schuinesloot
+1443,880,Slagharen
+1444,881,Venebrugge
+1445,881,Veenebrugge
+1446,882,Daarle
+1447,883,Daarlerveen
+1448,884,Hellendoorn
+1449,885,Nijverdal
+1450,886,Hemgelo
+1451,886,Hengelo
+1452,886,Hengeloo
+1453,887,"Ambt Delden"
+1454,888,Bentelo
+1455,888,Benteloo
+1456,889,Delden
+1457,890,Diepenheim
+1458,891,Goor
+1459,892,Hengevelde
+1460,892,Hengeveld
+1461,893,Markelo
+1462,893,Markeloo
+1463,894,'s-Heerenbroek
+1464,894,"'s Heerenbroek"
+1465,895,Grafhorst
+1466,896,IJsselmuiden
+1467,896,IJselmuiden
+1468,897,Kampen
+1469,898,Kamperveen
+1470,898,"De Roskam"
+1471,899,Wilsum
+1472,900,Zalk
+1473,901,Beuningen
+1474,902,"de Lutte"
+1475,902,Lutte
+1476,903,Glane
+1477,904,Losser
+1478,905,Overdinkel
+1479,906,Deurningen
+1480,906,Deuringen
+1481,906,Deurninge
+1482,907,Oldenzaal
+1483,908,Marle
+1484,909,Olst
+1485,910,Welsum
+1486,911,Wesepe
+1487,911,Wezepe
+1488,912,Wijhe
+1489,912,Wije
+1490,913,Arriën
+1491,913,Ariën
+1492,914,Beerze
+1493,914,Beerse
+1494,915,Beerzerveld
+1495,915,Beerserveen
+1496,916,Dalmsholte
+1497,916,Dalmsholt
+1498,917,Giethmen
+1499,917,Gietmen
+1500,918,Lemele
+1501,919,Ommen
+1502,920,Stegeren
+1503,921,Vilsteren
+1504,922,Vinkenbuurt
+1505,923,Witharen
+1506,924,Broekland
+1507,925,Heeten
+1508,925,Heten
+1509,926,Heino
+1510,927,"Laag Zuthem"
+1511,927,Laag-Zutem
+1512,927,Zutem
+1513,927,Zuthem
+1514,928,Lierderholthuis
+1515,929,Luttenberg
+1516,930,Mariënheem
+1517,931,Nieuw-Heeten
+1518,931,"Nieuw Heeten"
+1519,932,Raalte
+1520,933,Holten
+1521,934,Rijssen
+1522,935,IJhorst
+1523,936,Punthorst
+1524,937,Rouveen
+1525,938,Staphorst
+1526,939,Baarlo
+1527,939,Baarloo
+1528,939,"Kuinderdijk en Baarlo"
+1529,939,"Kuinderdijk en Baarloo"
+1530,940,Baars
+1531,941,Basse
+1532,942,Belt-Schutsloot
+1533,943,Blankenham
+1534,944,Blokzijl
+1535,945,"De Bult"
+1536,946,"De Pol"
+1537,946,"De Polle"
+1538,946,Pol
+1539,947,Eesveen
+1540,948,Giethoorn
+1541,948,Zuid
+1542,948,Zuideinde
+1543,949,IJsselham
+1544,949,IJselham
+1545,950,Kalenberg
+1546,951,Kallenkote
+1547,952,Kuinre
+1548,952,"De Kúnder"
+1549,953,Marijenkampen
+1550,954,Nederland
+1551,955,Oldemarkt
+1552,956,Onna
+1553,957,Ossenzijl
+1554,958,Paasloo
+1555,958,Paaslo
+1556,959,Scheerwolde
+1557,959,Scherwold
+1558,959,Scherwolde
+1559,960,"Sint Jansklooster"
+1560,961,Steenwijk
+1561,961,Stienwyk
+1562,962,Steenwijkerwold
+1563,962,Kerkbuurt
+1564,963,Tuk
+1565,964,Vollenhove
+1566,965,Wanneperveen
+1567,965,Wenneperveen
+1568,966,Wetering
+1569,966,"De Wetering"
+1570,967,Willemsoord
+1571,968,"Witte Paarden"
+1572,969,Zuidveen
+1573,970,Albergen
+1574,971,Fleringen
+1575,972,Geesteren
+1576,973,Haarle
+1577,974,Harbrinkhoek
+1578,974,Harbrinkhoef
+1579,975,Hezingen
+1580,975,Hesingen
+1581,975,Hezinge
+1582,976,Langeveen
+1583,976,Landeveen
+1584,977,Mander
+1585,977,Mande
+1586,978,Manderveen
+1587,979,Mariaparochie
+1588,980,Reutum
+1589,981,Tubbergen
+1590,982,Vasse
+1591,983,Bruinehaar
+1592,984,"Den Ham"
+1593,984,Ham
+1594,985,Geerdijk
+1595,986,Kloosterhaar
+1596,987,Sibculo
+1597,987,Sibenlo
+1598,988,Vriezenveen
+1599,988,Uriezenveen
+1600,989,Vroomshoop
+1601,990,Westerhaar-Vriezenveensewijk
+1602,990,Westerhaar
+1603,991,Enter
+1604,992,"Hoge Hexel"
+1605,992,"'t Hooge Heksel"
+1606,992,"Hooge Heksel"
+1607,993,Notter
+1608,994,Wierden
+1609,995,Zuna
+1610,996,Genemuiden
+1611,997,Hasselt
+1612,998,Mastenbroek
+1613,999,Zwartsluis
+1614,1000,Swol
+1615,1000,Zwolle
+1616,1001,Almere
+1617,1002,Biddinghuizen
+1618,1003,Dronten
+1619,1004,Swifterbant
+1620,1005,"Haven van Lelystad"
+1621,1005,Lelystad
+1622,1006,Bant
+1623,1007,Creil
+1624,1008,Emmeloord
+1625,1008,Emmeloard
+1626,1009,Ens
+1627,1010,Espel
+1628,1010,Espele
+1629,1011,Kraggenburg
+1630,1012,Luttelgeest
+1631,1013,Marknesse
+1632,1014,Nagele
+1633,1015,Rutten
+1634,1016,Schokland
+1635,1017,Tollebeek
+1636,1018,Urk
+1637,1019,Zeewolde
+1638,1020,Aalten
+1639,1021,Bredevoort
+1640,1022,"De Heurne"
+1641,1023,Dinxperlo
+1642,1023,Dingsperloo
+1643,1024,Apeldoarn
+1644,1024,Apeldoorn
+1645,1025,Beekbergen
+1646,1026,"Beemte Broekland"
+1647,1027,"Hoog Soeren"
+1648,1028,Lieren
+1649,1029,Loenen
+1650,1030,"Radio Kootwijk"
+1651,1031,Uddel
+1652,1032,Uchelen
+1653,1032,Ugchelen
+1654,1033,"Wenum Wiesel"
+1655,1033,Wenum-Wiesel
+1656,1034,Arnheim
+1657,1034,Arnhem
+1658,1034,Arnhim
+1659,1035,Achterveld
+1660,1036,Barneveld
+1661,1037,"De Glind"
+1662,1037,Glind
+1663,1037,Glinde
+1664,1037,Glinder
+1665,1038,Garderen
+1666,1039,Kootwijk
+1667,1040,Kootwijkerbroek
+1668,1041,Stroe
+1669,1042,Terschuur
+1670,1043,Voorthuizen
+1671,1044,Zwartebroek
+1672,1045,"Berg en Dal"
+1673,1046,Erlecom
+1674,1046,Erlekom
+1675,1047,Groesbeek
+1676,1048,"Heilig Landstichting"
+1677,1048,"Heilige Land"
+1678,1048,Heiligland
+1679,1049,Kekerdom
+1680,1050,Leuth
+1681,1050,Leut
+1682,1051,"Millingen aan de Rijn"
+1683,1051,Millingen
+1684,1052,Ooij
+1685,1052,Ooi
+1686,1052,Ooy
+1687,1053,Persingen
+1688,1054,Ubbergen
+1689,1055,Beltrum
+1690,1056,Borculo
+1691,1056,Borkulo
+1692,1057,Eibergen
+1693,1058,Geesteren
+1694,1059,Gelselaar
+1695,1060,Haarlo
+1696,1061,Neede
+1697,1061,Nede
+1698,1062,Rekken
+1699,1063,Rietmolen
+1700,1063,Rietmole
+1701,1064,Ruurlo
+1702,1065,Beuningen
+1703,1065,"Beuningen Gld"
+1704,1066,Ewijk
+1705,1067,Weurt
+1706,1067,Weurd
+1707,1068,Winssen
+1708,1068,Winsen
+1709,1069,Baak
+1710,1070,Bronkhorst
+1711,1071,Drempt
+1712,1071,Dremt
+1713,1072,Halle
+1714,1073,"Hengelo (Gld)"
+1715,1073,Hengeloo
+1716,1074,Hoog-Keppel
+1717,1075,Hummelo
+1718,1075,"Hummelo en Keppel"
+1719,1076,Keijenborg
+1720,1076,Keienborg
+1721,1076,Keienburg
+1722,1076,Keyenborg
+1723,1077,Laag-Keppel
+1724,1078,Olburgen
+1725,1078,Olbergen
+1726,1079,Rha
+1727,1080,Steenderen
+1728,1081,Toldijk
+1729,1082,Vierakker
+1730,1083,Vorden
+1731,1084,Wichmond
+1732,1085,Zelhem
+1733,1086,Brummen
+1734,1087,Eerbeek
+1735,1087,Erbeke
+1736,1088,Empe
+1737,1089,Hall
+1738,1089,Hal
+1739,1090,Leuvenheim
+1740,1091,Tonden
+1741,1092,Asch
+1742,1093,Beusichem
+1743,1094,Buren
+1744,1095,"Eck en Wiel"
+1745,1095,Eck
+1746,1095,"Ek en Wiel"
+1747,1095,Wiel
+1748,1096,Erichem
+1749,1097,Ingen
+1750,1098,Kapel-Avezaath
+1751,1098,Avezaath
+1752,1098,"Kapel Avezaath"
+1753,1099,Kerk-Avezaath
+1754,1099,"Kerk Avezaath"
+1755,1100,Lienden
+1756,1101,Maurik
+1757,1102,Ommeren
+1758,1103,Ravenswaaij
+1759,1103,Ravenswaai
+1760,1103,Ravenswaay
+1761,1104,"Rijswijk (GLD)"
+1762,1105,Zoelen
+1763,1106,Zoelmond
+1764,1107,Culemborg
+1765,1108,Doesburg
+1766,1109,Doetinchem
+1767,1110,Gaanderen
+1768,1111,Wehl
+1769,1112,Afferden
+1770,1113,Deest
+1771,1114,Druten
+1772,1115,Horssen
+1773,1115,Horsen
+1774,1116,Puiflijk
+1775,1117,Duiven
+1776,1118,Groessen
+1777,1118,Groesen
+1778,1119,Bennekom
+1779,1120,"De Klomp"
+1780,1121,Deelen
+1781,1122,Ede
+1782,1123,Ederveen
+1783,1124,Harskamp
+1784,1124,Hartenkamp
+1785,1124,Hartskamp
+1786,1125,Hoenderloo
+1787,1125,Hoenderlo
+1788,1126,Lunteren
+1789,1127,Otterlo
+1790,1127,Otterloo
+1791,1128,Wekerom
+1792,1129,"'t Harde"
+1793,1129,Harde
+1794,1129,"Het Harde"
+1795,1130,Doornspijk
+1796,1130,Doornspyk
+1797,1131,Elburg
+1798,1132,Emst
+1799,1133,Epe
+1800,1134,Oene
+1801,1135,Vaassen
+1802,1135,Vasen
+1803,1136,Ermelo
+1804,1137,Harderwijk
+1805,1138,Hierden
+1806,1139,Hattem
+1807,1140,Heerde
+1808,1141,Veessen
+1809,1141,Vesen
+1810,1142,Vorchten
+1811,1143,Wapenveld
+1812,1143,Wapenvelde
+1813,1144,Heumen
+1814,1145,Malden
+1815,1146,Nederasselt
+1816,1147,Overasselt
+1817,1148,Angeren
+1818,1149,Bemmel
+1819,1150,Doornenburg
+1820,1151,Gendt
+1821,1151,Gent
+1822,1152,Haalderen
+1823,1153,Huissen
+1824,1153,Huisen
+1825,1154,"'t Loo Oldebroek"
+1826,1154,"Het Loo"
+1827,1154,Loo
+1828,1155,Ressen
+1829,1156,Almen
+1830,1157,Barchem
+1831,1158,Eefde
+1832,1159,Epse
+1833,1160,Gorssel
+1834,1160,Gorsel
+1835,1161,Harfsen
+1836,1162,Joppe
+1837,1163,"Kring van Dorth"
+1838,1164,Laren
+1839,1165,Lochem
+1840,1166,Alem
+1841,1167,Ammerzoden
+1842,1168,Hedel
+1843,1169,Heerewaarden
+1844,1169,Heriwarda
+1845,1170,Hoenzadriel
+1846,1171,Hurwenen
+1847,1172,Kerkdriel
+1848,1173,Rossum
+1849,1174,Velddriel
+1850,1175,Well
+1851,1176,'s-Heerenberg
+1852,1177,Azewijn
+1853,1177,"Groot Azewijn"
+1854,1178,Beek
+1855,1179,Braamt
+1856,1180,Didam
+1857,1181,Kilder
+1858,1182,Lengel
+1859,1183,Loerbeek
+1860,1184,Stokkum
+1861,1185,Vethuizen
+1862,1186,Wijnbergen
+1863,1187,Zeddam
+1864,1188,Dodewaard
+1865,1188,Doodeward
+1866,1189,Echteld
+1867,1190,IJzendoorn
+1868,1191,Kesteren
+1869,1192,Ochten
+1870,1193,Opheusden
+1871,1194,Hoevelaken
+1872,1195,Nijkerk
+1873,1196,Nijkerkerveen
+1874,1197,Lent
+1875,1197,Tent
+1876,1198,Nijmegen
+1877,1198,Nijmeyen
+1878,1198,Nimwegen
+1879,1198,Nimègue
+1880,1198,Nymegen
+1881,1198,Nymwegen
+1882,1199,Elspeet
+1883,1200,Hulshorst
+1884,1201,Nunspeet
+1885,1202,Vierhouten
+1886,1203,"'t Loo"
+1887,1203,"'t Loo Oldebroek"
+1888,1203,"Het Loo"
+1889,1203,Loo
+1890,1204,Hattemerbroek
+1891,1205,Noordeinde
+1892,1205,"Noordeinde Gld"
+1893,1206,Oldebroek
+1894,1206,Olderbroek
+1895,1207,Oosterwolde
+1896,1207,"Oosterwolde Gld"
+1897,1208,Wezep
+1898,1209,Grenlo
+1899,1209,Groenlo
+1900,1210,Harreveld
+1901,1211,Lichtenvoorde
+1902,1212,Lievelde
+1903,1213,Mariënvelde
+1904,1214,Vragender
+1905,1215,Zieuwent
+1906,1216,Breedenbroek
+1907,1217,Etten
+1908,1218,Gendringen
+1909,1219,Heelweg
+1910,1220,Megchelen
+1911,1220,Mechelen
+1912,1221,Netterden
+1913,1222,Silven
+1914,1222,Silvolde
+1915,1223,Sinderen
+1916,1224,Terborg
+1917,1224,Terborch
+1918,1225,Ulft
+1919,1226,Varsselder
+1920,1226,Varselder
+1921,1227,Varsseveld
+1922,1227,Varseveld
+1923,1228,Westendorp
+1924,1229,Andelst
+1925,1230,Driel
+1926,1231,Elst
+1927,1232,Hemmen
+1928,1233,Herveld
+1929,1234,Heteren
+1930,1235,Homoet
+1931,1236,Oosterhout
+1932,1237,Randwijk
+1933,1238,Slijk-Ewijk
+1934,1238,"Slijk Ewijki"
+1935,1238,Slikewijk
+1936,1238,"Sliuk Ewijk"
+1937,1239,Valburg
+1938,1240,Zetten
+1939,1241,Putten
+1940,1242,Doorwerth
+1941,1243,Heelsum
+1942,1244,Heveadorp
+1943,1245,Oosterbeek
+1944,1246,Renkum
+1945,1247,Wolfheze
+1946,1247,Wolfheeze
+1947,1248,"De Steeg"
+1948,1248,Steeg
+1949,1249,Dieren
+1950,1250,Ellecom
+1951,1250,Ellekom
+1952,1251,Laag-Soeren
+1953,1252,Rheden
+1954,1253,Spankeren
+1955,1254,Velp
+1956,1254,Felp
+1957,1255,Rozendaal
+1958,1255,Roosendaal
+1959,1255,Rosendaal
+1960,1256,Scherpenzeel
+1961,1256,Skerpenseel
+1962,1257,Avezaath
+1963,1257,"Kapel Avezaath"
+1964,1258,"Kerk Avezaath"
+1965,1259,Tiel
+1966,1260,Wadenoijen
+1967,1260,Wadenooien
+1968,1260,Wadenooijen
+1969,1260,Wadenoyen
+1970,1261,Klarenbeek
+1971,1262,Nijbroek
+1972,1263,Steenenkamer
+1973,1264,Terwolde
+1974,1264,Terwolte
+1975,1265,Teuge
+1976,1265,"De Teuge"
+1977,1266,Twello
+1978,1267,Voorst
+1979,1268,Wilp
+1980,1268,Welp
+1981,1269,Wageningen
+1982,1270,Acquoy
+1983,1270,Ackooi
+1984,1270,Ackooy
+1985,1270,Acquoij
+1986,1270,Akkooi
+1987,1271,Asperen
+1988,1272,Beesd
+1989,1272,Beest
+1990,1273,Buurmalsen
+1991,1274,Deil
+1992,1275,Enspijk
+1993,1275,Enspik
+1994,1276,Est
+1995,1277,Geldermalsen
+1996,1278,Gellicum
+1997,1278,Gellekom
+1998,1278,Gellekum
+1999,1278,Gellikum
+2000,1279,Haaften
+2001,1280,Heesselt
+2002,1280,Heeselt
+2003,1281,Hellouw
+2004,1282,Herwijnen
+2005,1283,Heukelum
+2006,1283,Heukelom
+2007,1284,Meteren
+2008,1285,Neerijnen
+2009,1286,Ophemert
+2010,1287,Opijnen
+2011,1287,Opitnen
+2012,1288,Rhenoy
+2013,1288,Renooi
+2014,1288,Rhenoij
+2015,1288,Rhenooi
+2016,1289,Rumpt
+2017,1289,Remt
+2018,1289,Rumt
+2019,1290,Tricht
+2020,1291,Tuil
+2021,1292,Varik
+2022,1293,Vuren
+2023,1294,Waardenburg
+2024,1295,Zennewijnen
+2025,1296,Alphen
+2026,1296,Alfen
+2027,1296,"Alphen aan de Maas"
+2028,1297,Altforst
+2029,1298,Appeltern
+2030,1299,Beneden-Leeuwen
+2031,1299,Leeuwenbeneden
+2032,1300,Boven-Leeuwen
+2033,1300,Leeuwen
+2034,1301,Dreumel
+2035,1302,Maasbommel
+2036,1303,Wamel
+2037,1304,Westervoort
+2038,1305,Balgoij
+2039,1305,Balgoy
+2040,1306,Batenburg
+2041,1307,Bergharen
+2042,1308,Hernen
+2043,1309,Leur
+2044,1310,Niftrik
+2045,1311,Wijchen
+2046,1312,Winterswijk
+2047,1313,"Winterswijk Brinkheurne"
+2048,1314,"Winterswijk Corle"
+2049,1315,"Winterswijk Henxel"
+2050,1315,Hengsel
+2051,1315,Henzel
+2052,1316,"Winterswijk Huppel"
+2053,1317,"Winterswijk Kotten"
+2054,1318,Meddeho
+2055,1318,Meddeo
+2056,1318,Meddoo
+2057,1318,"Winterswijk Meddo"
+2058,1319,"Winterswijk Miste"
+2059,1320,Batum
+2060,1320,"Winterswijk Ratum"
+2061,1321,"Het Woold"
+2062,1321,"Winterswijk Woold"
+2063,1322,Aalst
+2064,1323,Bern
+2065,1324,Brakel
+2066,1325,Bruchem
+2067,1326,Delwijnen
+2068,1326,"Beneden Delwijnen"
+2069,1327,Gameren
+2070,1328,Kerkwijk
+2071,1329,Nederhemert
+2072,1330,Nieuwaal
+2073,1331,Poederoijen
+2074,1331,Poederoien
+2075,1331,Poederooien
+2076,1331,Poederoyen
+2077,1332,Zaltbommel
+2078,1333,Zuilichem
+2079,1333,Zuelichem
+2080,1334,Aerdt
+2081,1334,Aard
+2082,1334,Aardt
+2083,1335,Angerlo
+2084,1336,Babberich
+2085,1337,Giesbeek
+2086,1338,Herwen
+2087,1339,Lathum
+2088,1339,Latum
+2089,1340,Lobith
+2090,1340,Lebith
+2091,1340,Lobit
+2092,1341,Pannerden
+2093,1341,Rannereen
+2094,1342,Spijk
+2095,1343,Tolkamer
+2096,1343,Tokalmar
+2097,1343,Tolkmar
+2098,1344,Zevenaar
+2099,1345,Warnsveld
+2100,1346,Zutfen
+2101,1346,Zutphen
+2102,1347,Amersfoort
+2103,1348,Hoogland
+2104,1349,Hooglanderveen
+2105,1350,"Stoutenburg Noord"
+2106,1351,Baarn
+2107,1352,"Lage Vuursche"
+2108,1352,"De Lage Vuursche"
+2109,1352,"De Vuursche"
+2110,1353,Bunnik
+2111,1354,Odijk
+2112,1355,Werkhoven
+2113,1356,Bunschoten-Spakenburg
+2114,1356,Spakenburch
+2115,1356,Spakenburg
+2116,1357,Eemdijk
+2117,1358,Bilthoven
+2118,1359,"De Bilt"
+2119,1360,Groenekan
+2120,1361,"Hollandsche Rading"
+2121,1362,Maartensdijk
+2122,1362,Maartensdyk
+2123,1363,Westbroek
+2124,1364,Abcoude
+2125,1364,Abkoude
+2126,1365,Amstelhoek
+2127,1366,Baambrugge
+2128,1367,"de Hoef"
+2129,1367,"Den Hoef"
+2130,1367,Hoef
+2131,1368,Mijdrecht
+2132,1368,Müdrecht
+2133,1369,Vinkeveen
+2134,1370,Waverveen
+2135,1371,Wilnis
+2136,1372,Eemnes
+2137,1372,Iemnes
+2138,1373,"'t Gooi"
+2139,1373,"'t Goy"
+2140,1373,Gooi
+2141,1373,"Gooi en vechtstreek"
+2142,1374,Houten
+2143,1375,Schalkwijk
+2144,1376,"Tull en 't Waal"
+2145,1376,Waal
+2146,1377,IJsselstein
+2147,1377,IJselstein
+2148,1378,Achterveld
+2149,1379,Leusbroek
+2150,1379,Leusden
+2151,1379,"Nieuw Leusden"
+2152,1380,Stoutenburg
+2153,1381,Benschop
+2154,1382,Jaarsveld
+2155,1383,Lopik
+2156,1384,Lopikerkapel
+2157,1385,Polsbroek
+2158,1386,Linschoten
+2159,1387,Montfoort
+2160,1388,Nieuwegein
+2161,1388,Nieuwegen
+2162,1389,Hekendorp
+2163,1390,Oudewater
+2164,1391,Papekop
+2165,1392,Snelrewaard
+2166,1393,Renswoude
+2167,1394,Elst
+2168,1394,"Elst Ut"
+2169,1395,Renen
+2170,1395,Rhenen
+2171,1396,Soest
+2172,1397,Soesterberg
+2173,1398,Breukelen
+2174,1399,Kockengen
+2175,1400,"Loenen aan de Vecht"
+2176,1400,Loenen
+2177,1401,Loenersloot
+2178,1402,Maarssen
+2179,1402,Maarsen
+2180,1403,"Nieuwer Ter Aa"
+2181,1403,Nieuwertera
+2182,1403,"Ter Aa"
+2183,1404,Nieuwersluis
+2184,1405,Nigtevecht
+2185,1405,Nichtevecht
+2186,1406,"Oud Zuilen"
+2187,1406,Zuilen
+2188,1407,Tienhoven
+2189,1408,"Tienhoven (Everdingen)"
+2190,1409,Vreeland
+2191,1410,"De Meern"
+2192,1410,Meern
+2193,1411,Haarzuilens
+2194,1411,Haarxuilens
+2195,1411,Haarzuilen
+2196,1412,Utert
+2197,1412,Utrecht
+2198,1413,Vleuten
+2199,1414,Amerongen
+2200,1415,Doorn
+2201,1416,Driebergen-Rijsenburg
+2202,1417,Leersum
+2203,1418,Maarn
+2204,1419,Maarsbergen
+2205,1420,Overberg
+2206,1421,Veenendaal
+2207,1421,Venendaal
+2208,1422,Ameide
+2209,1423,Everdingen
+2210,1424,Hagestein
+2211,1425,"Hei- en Boeicop"
+2212,1426,"Hoef en Haag"
+2213,1427,Kedichem
+2214,1428,Leerbroek
+2215,1429,Leerdam
+2216,1430,Lexmond
+2217,1430,Leksmond
+2218,1431,Meerkerk
+2219,1432,Nieuwland
+2220,1433,Oosterwijk
+2221,1434,Ossenwaard
+2222,1435,Schoonrewoerd
+2223,1435,Schoonerwoerd
+2224,1436,"Tienhoven aan de Lek"
+2225,1437,Vianen
+2226,1438,Zijderveld
+2227,1439,Cothen
+2228,1439,Koten
+2229,1440,Langbroek
+2230,1440,Neerlangbroek
+2231,1441,"Wijk bij Duurstede"
+2232,1441,"Wyk by Duerstede"
+2233,1442,Harmelen
+2234,1443,Kamerik
+2235,1444,Woerden
+2236,1445,Zegveld
+2237,1446,Woudenberg
+2238,1447,Austerlitz
+2239,1448,"Bosch en Duin"
+2240,1449,"Den Dolder"
+2241,1449,Dolder
+2242,1450,"Huis ter Heide"
+2243,1451,Seist
+2244,1451,Zeist
+2245,1452,Aalsmeer
+2246,1453,Kudelstaart
+2247,1454,Alkmaar
+2248,1454,Alkmar
+2249,1455,"De Rijp"
+2250,1455,Rijp
+2251,1456,Driehuizen
+2252,1457,Graft
+2253,1458,Grootschermer
+2254,1459,Markenbinnen
+2255,1459,Marken
+2256,1460,Noordeinde
+2257,1461,Oost-Graftdijk
+2258,1461,Graftdijk
+2259,1462,Oterleek
+2260,1463,Oudorp
+2261,1464,Schermerhorn
+2262,1465,Starnmeer
+2263,1466,Stompetoren
+2264,1467,"Ursem gem. S"
+2265,1468,West-Graftdijk
+2266,1468,"West Grastdijk"
+2267,1469,Zuidschermer
+2268,1470,Amstelveen
+2269,1470,"Nieuwer Amstel"
+2270,1471,Amsterdam
+2271,1472,Middenbeemster
+2272,1473,Noordbeemster
+2273,1474,Westbeemster
+2274,1475,Zuidoostbeemster
+2275,1476,"Bergen (NH)"
+2276,1476,Bergen-Binnen
+2277,1477,"Bergen aan Zee"
+2278,1478,"Egmond aan den Hoef"
+2279,1478,"Egmond a/d Hoef"
+2280,1478,"Egmond aan de Hoef"
+2281,1478,"Egmond op den Hoef"
+2282,1479,"Egmond aan Zee"
+2283,1480,Egmond-Binnen
+2284,1481,Groet
+2285,1482,Schoorl
+2286,1483,Berverwyk
+2287,1483,Beverwijk
+2288,1483,Beverwyk
+2289,1484,"Wijk aan Zee"
+2290,1485,Blaricum
+2291,1485,Blarikum
+2292,1486,Aerdenhout
+2293,1486,Aardenhout
+2294,1487,Bennebroek
+2295,1488,Bloemendaal
+2296,1489,Overveen
+2297,1490,Vogelenzang
+2298,1491,Akersloot
+2299,1492,Castricum
+2300,1492,Kastrikum
+2301,1493,"de Woude"
+2302,1494,Limmen
+2303,1495,"De Helder"
+2304,1495,"Den Helder"
+2305,1495,"Der Helder"
+2306,1495,Helder
+2307,1496,Huisduinen
+2308,1497,Julianadorp
+2309,1498,Diemen
+2310,1498,Diemerbrug
+2311,1499,Hem
+2312,1500,Hoogkarspel
+2313,1501,Oosterblokker
+2314,1502,Oosterleek
+2315,1503,Schellinkhout
+2316,1504,Venhuizen
+2317,1505,Westwoud
+2318,1506,Wijdenes
+2319,1507,Beets
+2320,1508,Edam
+2321,1509,Hobrede
+2322,1509,Hobreede
+2323,1510,Kwadijk
+2324,1511,Middelie
+2325,1512,Oosthuizen
+2326,1513,Schardam
+2327,1514,Volendam
+2328,1515,Warder
+2329,1515,Warden
+2330,1516,Enkhuizen
+2331,1516,Inkhuzen
+2332,1517,Bussum
+2333,1518,Muiden
+2334,1519,Muiderberg
+2335,1520,Naarden
+2336,1521,Haarlem
+2337,1521,Haarlim
+2338,1522,"Spaarndam gem. Haarlem"
+2339,1523,Aalsmeerderbrug
+2340,1524,Abbenes
+2341,1525,Badhoevedorp
+2342,1526,Beinsdorp
+2343,1527,Boesingheliede
+2344,1528,Buitenkaag
+2345,1529,Burgerveen
+2346,1530,Cruquius
+2347,1531,Haarlemmerliede
+2348,1532,Halfweg
+2349,1533,Hoofddorp
+2350,1534,Leimuiderbrug
+2351,1535,Lijnden
+2352,1536,Lisserbroek
+2353,1537,Nieuw-Vennep
+2354,1538,"Oude Meer"
+2355,1539,Rijsenhout
+2356,1540,Rozenburg
+2357,1541,Schiphol
+2358,1541,Schiphol-Rijk
+2359,1542,Schiphol-Rijk
+2360,1543,Spaarndam
+2361,1544,Vijfhuizen
+2362,1545,Weteringbrug
+2363,1546,Zwaanshoek
+2364,1547,Zwanenburg
+2365,1548,Heemskerk
+2366,1549,Heemstede
+2367,1549,Hiemstee
+2368,1550,Heerhugowaard
+2369,1551,Heilo
+2370,1551,Heiloo
+2371,1552,Hilfertsom
+2372,1552,Hilversum
+2373,1552,Hilvertsheim
+2374,1553,"'t Veld"
+2375,1553,Veld
+2376,1554,"Anna Paulowna"
+2377,1554,"Anna Paulowne"
+2378,1555,Barsingerhorn
+2379,1556,Breezand
+2380,1557,"Den Oever"
+2381,1557,"De Oever"
+2382,1557,Oever
+2383,1558,Haringhuizen
+2384,1559,Hippolytushoef
+2385,1559,Hypolitushoef
+2386,1560,Kolhorn
+2387,1561,Kreileroord
+2388,1562,Lutjewinkel
+2389,1563,Middenmeer
+2390,1564,"Nieuwe Niedorp"
+2391,1565,"Oude Niedorp"
+2392,1566,Slootdorp
+2393,1567,Westerland
+2394,1568,Wieringerwaard
+2395,1569,Wieringerwerf
+2396,1569,Wieringerdorf
+2397,1570,Winkel
+2398,1571,Zijdewind
+2399,1571,Zijdewinne
+2400,1572,Blokker
+2401,1573,Hoarn
+2402,1573,Hoorn
+2403,1574,Zwaag
+2404,1575,Huizen
+2405,1576,Avenhorn
+2406,1577,Berkhout
+2407,1578,"De Goorn"
+2408,1578,Goorn
+2409,1579,Hensbroek
+2410,1580,Obdam
+2411,1581,Oudendijk
+2412,1582,Scharwoude
+2413,1583,Spierdijk
+2414,1584,Ursem
+2415,1585,Zuidermeer
+2416,1586,"Den Ilp"
+2417,1586,Ilp
+2418,1587,Landsmeer
+2419,1587,Lânsmar
+2420,1588,Purmerland
+2421,1589,"Broek op Langedijk"
+2422,1589,"Broek op Langendijk"
+2423,1590,Koedijk
+2424,1591,Noord-Scharwoude
+2425,1592,"Sint Pancras"
+2426,1592,Pankras
+2427,1592,"Sint Pankras"
+2428,1593,Zuid-Scharwoude
+2429,1594,Laren
+2430,1595,Abbekerk
+2431,1596,Andijk
+2432,1596,"Andijk Oost"
+2433,1597,Benningbroek
+2434,1598,Hauwert
+2435,1599,Lambertschaag
+2436,1600,Medemblik
+2437,1601,Midwoud
+2438,1602,Nibbixwoud
+2439,1602,Nibbikswoud
+2440,1603,Oostwoud
+2441,1604,Opperdoes
+2442,1605,Sijbekarspel
+2443,1606,Twisk
+2444,1606,Twist
+2445,1607,Wervershoof
+2446,1608,Wognum
+2447,1609,Zwaagdijk-Oost
+2448,1609,Zwaagdijk
+2449,1610,Zwaagdijk-West
+2450,1611,Eastsaan
+2451,1611,Oostzaan
+2452,1612,Aartswoud
+2453,1612,Aardswoud
+2454,1612,Aartwoud
+2455,1613,"De Weere"
+2456,1613,Weere
+2457,1614,Hoogwoud
+2458,1615,Opmar
+2459,1615,Opmeer
+2460,1616,Spanbroek
+2461,1617,Amsterdam-Duivendrecht
+2462,1618,Duivendrecht
+2463,1618,Amsterdam-Duivendrecht
+2464,1619,"Ouder Amstel"
+2465,1619,Ouderkerk
+2466,1619,"Ouderkerk Aan Den Amstel"
+2467,1619,"Ouderkerk a/d Amstel"
+2468,1619,"Ouderkerk aan de Amstel"
+2469,1620,Purmerein
+2470,1620,Purmerend
+2471,1621,"'t Zand"
+2472,1621,Zand
+2473,1622,Burgerbrug
+2474,1623,Callantsoog
+2475,1623,Kallensoog
+2476,1624,Dirkshorn
+2477,1624,Dirckshorn
+2478,1625,Oudesluis
+2479,1626,Oudkarspel
+2480,1627,Petten
+2481,1628,Schagen
+2482,1628,Skagen
+2483,1629,Schagerbrug
+2484,1630,"Sint Maarten"
+2485,1631,"Sint Maartensbrug"
+2486,1632,"Sint Maartensvlotbrug"
+2487,1633,Tuitjenhorn
+2488,1633,Tuitjehorn
+2489,1634,Waarland
+2490,1635,Warmenhuizen
+2491,1636,Bovenkarspel
+2492,1637,Grootebroek
+2493,1638,Lutjebroek
+2494,1639,"De Cocksdorp"
+2495,1639,Cocksdorp
+2496,1640,"De Koog"
+2497,1640,Koog
+2498,1641,"De Waal"
+2499,1641,Waal
+2500,1642,"Den Burg"
+2501,1642,Burg
+2502,1642,"De Burg"
+2503,1643,"Den Hoorn"
+2504,1643,"De Hoorn"
+2505,1643,Hoorn
+2506,1644,Oosterend
+2507,1644,Oostereind
+2508,1645,Oudeschild
+2509,1646,Uitgeest
+2510,1646,Utgeast
+2511,1647,"De Kwakel"
+2512,1647,Kwake
+2513,1647,Kwakel
+2514,1648,Uithoorn
+2515,1648,Uthoarn
+2516,1649,Driehuis
+2517,1649,"Driehuis NH"
+2518,1650,IJmuiden
+2519,1650,IJmond
+2520,1650,Ymuiden
+2521,1651,Santpoort-Noord
+2522,1651,Santpoort
+2523,1652,Santpoort-Zuid
+2524,1653,Velsen-Noord
+2525,1653,Velseroord
+2526,1653,Velzeroord
+2527,1654,Velsen-Zuid
+2528,1654,Velsen
+2529,1654,Velzen
+2530,1655,Velserbroek
+2531,1656,"Broek in Waterland"
+2532,1656,Broek
+2533,1657,Ilpendam
+2534,1658,Katwoude
+2535,1659,Marken
+2536,1660,Monnickendam
+2537,1660,Monnikendam
+2538,1661,"De Purmer"
+2539,1661,Purmer
+2540,1662,Uitdam
+2541,1663,Watergang
+2542,1664,Zuiderwoude
+2543,1665,Weesp
+2544,1666,"'s Gravenland"
+2545,1666,'s-Graveland
+2546,1666,"'s Graveland"
+2547,1666,s-Gravelân
+2548,1667,Ankeveen
+2549,1668,Breukeleveen
+2550,1668,Breukelerveen
+2551,1669,Kortenhoef
+2552,1670,Loosdrecht
+2553,1670,Oud-Over
+2554,1670,Oudover
+2555,1671,"Nederhorst den Berg"
+2556,1672,Jisp
+2557,1673,Knollendam
+2558,1673,Oostknollendam
+2559,1674,Spijkerboor
+2560,1675,Wijdewormer
+2561,1676,Wormer
+2562,1677,Assendelft
+2563,1678,"Koog aan de Zaan"
+2564,1678,Koog
+2565,1679,Krommenie
+2566,1680,Knollendam
+2567,1680,Westknollendam
+2568,1681,Westzaan
+2569,1682,Wormerveer
+2570,1682,Wormereer
+2571,1683,Zaandam
+2572,1684,Zaandijk
+2573,1685,Bentveld
+2574,1686,Landvoort
+2575,1686,Zandvoort
+2576,1687,Alblasserdam
+2577,1688,Poortugaal
+2578,1689,Rhoon
+2579,1689,Roon
+2580,1690,Rotterdam-Albrandswaard
+2581,1691,Aarlanderveen
+2582,1692,Alfen
+2583,1692,Alphen
+2584,1692,"Alphen a/d Rijn"
+2585,1692,"Alphen aan de Rijn"
+2586,1692,"Alphen aan den Rijn"
+2587,1692,"Alphen aan der Rijn"
+2588,1693,Benthuizen
+2589,1694,Boskoop
+2590,1695,Hazerswoude-Dorp
+2591,1695,Hazerswoude
+2592,1696,Hazerswoude-Rijndijk
+2593,1696,Hazerswoude-Rijndijke
+2594,1697,"Koudekerk aan den Rijn"
+2595,1697,Koudekerk
+2596,1697,"Koudekerk a/d Rijn"
+2597,1697,"Koudekerk aan de Rijn"
+2598,1697,"Koudekerk an der Rijn"
+2599,1698,Zwammerdam
+2600,1699,Barendrecht
+2601,1700,Bodegraven
+2602,1701,Driebruggen
+2603,1702,"Nieuwerbrug aan den Rijn"
+2604,1703,Reeuwijk
+2605,1704,Waarder
+2606,1705,Brielle
+2607,1705,"Den Briel"
+2608,1706,Vierpolders
+2609,1707,Zwartewaal
+2610,1708,Capelle
+2611,1708,"Capelle a/d IJssel"
+2612,1708,"Capelle a/d Yssel"
+2613,1708,"Capelle aan de IJssel"
+2614,1708,"Capelle aan de Yssel"
+2615,1708,"Capelle aan den IJssel"
+2616,1708,"Capelle aan den Yssel"
+2617,1708,Kapelle
+2618,1709,Delft
+2619,1710,'s-Gravenhage
+2620,1710,"De Haach"
+2621,1710,"Den Haag"
+2622,1710,Haag
+2623,1711,"De Haach"
+2624,1711,"Den Haag"
+2625,1711,Haag
+2626,1712,Doardt
+2627,1712,Dordrecht
+2628,1712,Dordt
+2629,1712,Dort
+2630,1713,Achthuizen
+2631,1714,"Den Bommel"
+2632,1714,Bommel
+2633,1715,Dirksland
+2634,1716,Goedereede
+2635,1716,Goederee
+2636,1716,Goeree
+2637,1717,Herkingen
+2638,1718,Melissant
+2639,1718,Melissand
+2640,1719,Middelharnis
+2641,1720,Nieuwe-Tonge
+2642,1721,Ooltgensplaat
+2643,1722,Ouddorp
+2644,1722,Alddoarp
+2645,1723,Oude-Tonge
+2646,1724,Sommelsdijk
+2647,1725,"Stad aan 't Haringvliet"
+2648,1725,"Stad aan het Haringvliet"
+2649,1726,Stellendam
+2650,1727,Dalem
+2651,1728,Gorinchem
+2652,1728,Garkum
+2653,1729,Gouda
+2654,1729,Guda
+2655,1730,Hardinxveld-Giessendam
+2656,1731,Hellevoetsluis
+2657,1732,Oudenhoorn
+2658,1733,Hendrik-Ido-Ambacht
+2659,1734,Hillegom
+2660,1735,'s-Gravendeel
+2661,1735,"'s Gravendeel"
+2662,1736,Goudswaard
+2663,1736,Korendijk
+2664,1737,Heinenoord
+2665,1738,Klaaswaal
+2666,1739,Maasdam
+2667,1740,Mijnsheerenland
+2668,1741,Mookhoek
+2669,1742,Nieuw-Beijerland
+2670,1742,Nieuw-Beierland
+2671,1743,Numansdorp
+2672,1743,Buitensluis
+2673,1743,Niemansdorp
+2674,1744,Oud-Beijerland
+2675,1744,"Oud Beierland"
+2676,1745,Piershil
+2677,1746,Puttershoek
+2678,1747,Strijen
+2679,1748,Strijensas
+2680,1748,"Strijensche Sas"
+2681,1749,Westmaas
+2682,1750,Zuid-Beijerland
+2683,1750,Zuidbeierland
+2684,1751,Hoogmade
+2685,1751,Hoogmaden
+2686,1752,Kaag
+2687,1752,"De Kaag"
+2688,1753,Leimuiden
+2689,1753,Leymuiden
+2690,1754,"Nieuwe Wetering"
+2691,1755,"Oud Ade"
+2692,1756,"Oude Wetering"
+2693,1757,Rijnsaterwoude
+2694,1757,Rijnxaterwoude
+2695,1758,Rijpwetering
+2696,1759,Roelofarendsveen
+2697,1760,Woubrugge
+2698,1761,Katwijk
+2699,1762,Rijnsburg
+2700,1762,Rynsburch
+2701,1763,Valkenburg
+2702,1764,Krimpen
+2703,1764,"Krimpen a/d IJssel"
+2704,1764,"Krimpen a/d Yssel"
+2705,1764,"Krimpen aan de Yssel"
+2706,1764,"Krimpen aan den IJssel"
+2707,1764,"Krimpen aan den Yssel"
+2708,1765,Ammerstol
+2709,1766,Bergambacht
+2710,1767,Berkenwoude
+2711,1768,Gouderak
+2712,1769,Haastrecht
+2713,1770,"Krimpen aan de Lek"
+2714,1770,Krimpen
+2715,1770,"Krimpen a/d Lek"
+2716,1770,"Krimpen aan den Lek"
+2717,1771,Lekkerkerk
+2718,1772,Ouderkerk
+2719,1772,"Ouderkerk a/d IJssel"
+2720,1772,"Ouderkerk a/d Yssel"
+2721,1772,"Ouderkerk aan de IJssel"
+2722,1772,"Ouderkerk aan de Yssel"
+2723,1772,"Ouderkerk aan den IJssel"
+2724,1772,"Ouderkerk aan den Yssel"
+2725,1772,Ouderkerk-aan-den-IJsel
+2726,1773,Schoonhoven
+2727,1773,Sconhouen
+2728,1774,Stolwijk
+2729,1775,Vlist
+2730,1776,Bergschenhoek
+2731,1777,"Berkel en Rodenrijs"
+2732,1778,Bleiswijk
+2733,1779,Leiden
+2734,1779,Leien
+2735,1779,Leyden
+2736,1780,Leiderdorp
+2737,1781,Leidschendam
+2738,1782,Voorburg
+2739,1783,Lisse
+2740,1784,Maassluis
+2741,1785,"Den Hoorn"
+2742,1785,Hoorn
+2743,1786,Maasland
+2744,1787,Schipluiden
+2745,1788,Arkel
+2746,1789,"Bleskensgraaf ca"
+2747,1790,Brandwijk
+2748,1791,Giessenburg
+2749,1791,"Giesen Nieuwkerk"
+2750,1791,"Giessen Nieuwkerk"
+2751,1792,Goudriaan
+2752,1793,Groot-Ammers
+2753,1794,Hoogblokland
+2754,1795,Hoornaar
+2755,1796,Kinderdijk
+2756,1797,Langerak
+2757,1798,Molenaarsgraaf
+2758,1799,Nieuw-Lekkerland
+2759,1800,Nieuwpoort
+2760,1801,Noordeloos
+2761,1802,Ottoland
+2762,1803,Oud-Alblas
+2763,1804,Schelluinen
+2764,1805,Streefkerk
+2765,1806,Waal
+2766,1807,Wijngaarden
+2767,1808,Nieuwkoop
+2768,1809,Nieuwveen
+2769,1810,Noorden
+2770,1811,"Ter Aar"
+2771,1812,Vrouwenakker
+2772,1812,Vrouweakker
+2773,1813,"Woerdense Verlaat"
+2774,1813,Woerdenscheverlaat
+2775,1813,Woerdenschverlaat
+2776,1813,"Woerdsche Verlaat"
+2777,1814,Zevenhoven
+2778,1815,Abbenbroek
+2779,1816,Geervliet
+2780,1817,Heenvliet
+2781,1818,Hekelingen
+2782,1819,Simonshaven
+2783,1820,Spijkenisse
+2784,1821,Zuidland
+2785,1822,"De Zilk"
+2786,1822,"Groote Zilk"
+2787,1822,Zilk
+2788,1823,Noordwijk
+2789,1824,Noordwijkerhout
+2790,1825,Oegstgeest
+2791,1825,Oestgeest
+2792,1826,Papendrecht
+2793,1827,Delfgauw
+2794,1828,Nootdorp
+2795,1829,Pijnacker
+2796,1829,Pynakker
+2797,1830,Ridderkerk
+2798,1831,Rijswijk
+2799,1832,"Botlek Rotterdam"
+2800,1833,Eurapoort
+2801,1833,Europoort
+2802,1833,"Europoort Rotterdam"
+2803,1833,Rotterdam-Europoort
+2804,1834,"Hoek van Holland"
+2805,1834,"Hook of Holland"
+2806,1835,"Hoogvliet Rotterdam"
+2807,1836,"Maasvlakte Rotterdam"
+2808,1836,"De Maasvlakte"
+2809,1836,Maasvlakte
+2810,1837,"Pernis Rotterdam"
+2811,1838,Rotterdam
+2812,1839,Rozenburg
+2813,1840,"Vondelingenplaat Rotterdam"
+2814,1841,Schiedam
+2815,1841,Skiedam
+2816,1842,Sliedrecht
+2817,1843,Sassenheim
+2818,1844,Voorhout
+2819,1845,Warmond
+2820,1846,Vlaardingen
+2821,1847,Voorschoten
+2822,1848,Waddinxveen
+2823,1849,Wassenaar
+2824,1850,'s-Gravenzande
+2825,1851,"De Lier"
+2826,1851,Lier
+2827,1852,Honselersdijk
+2828,1852,Hondshorledijk
+2829,1852,Honselerdijk
+2830,1853,Kwintsheul
+2831,1854,Maasdijk
+2832,1855,Monster
+2833,1856,Naaldwijk
+2834,1857,Poeldijk
+2835,1858,"Ter Heijde"
+2836,1858,"Ter Heide"
+2837,1858,Terhei
+2838,1858,Terheiden
+2839,1859,Wateringen
+2840,1860,Oostvoorne
+2841,1861,Rockanje
+2842,1861,Rokanje
+2843,1861,Rokkanje
+2844,1862,Tinte
+2845,1862,"De Tinte"
+2846,1863,Zoetermeer
+2847,1864,Gelderswoude
+2848,1864,Gelderwoude
+2849,1865,Zoeterwoude
+2850,1866,Moerkapelle
+2851,1867,Moordrecht
+2852,1868,"Nieuwerkerk aan den IJssel"
+2853,1868,Nieuwerkerk
+2854,1868,"Nieuwerkerk a/d IJssel"
+2855,1868,"Nieuwerkerk a/d Yssel"
+2856,1868,"Nieuwerkerk aan de IJssel"
+2857,1868,"Nieuwerkerk aan de Yssel"
+2858,1868,"Nieuwerkerk aan den Yssel"
+2859,1869,Zevenhuizen
+2860,1870,Heerjansdam
+2861,1871,Zwijndrecht
+2862,1872,'s-Gravenpolder
+2863,1872,"'s Gravenpolder"
+2864,1873,"'s-Heer Abtskerke"
+2865,1873,"'s Heer Abtskerke"
+2866,1874,'s-Heerenhoek
+2867,1874,"'s Heerenhoek"
+2868,1875,Baarland
+2869,1876,Borsele
+2870,1876,Borssele
+2871,1876,Borsselen
+2872,1877,Driewegen
+2873,1878,Ellewoutsdijk
+2874,1878,Ellewoudsdijk
+2875,1879,Heinkenszand
+2876,1880,Hoedekenskerke
+2877,1881,Kwadendamme
+2878,1881,Kwadendanne
+2879,1882,Lewedorp
+2880,1883,Nieuwdorp
+2881,1883,Nieuwedorp
+2882,1884,Nisse
+2883,1885,Oudelande
+2884,1886,Ovezande
+2885,1887,"'s-Heer Arendskerke"
+2886,1887,"'s Heer Arendskerke"
+2887,1888,"'s-Heer Hendrikskinderen"
+2888,1888,"'s Heer Hendrikskinderen"
+2889,1889,Goes
+2890,1890,Kattendijke
+2891,1891,Wilhelminadorp
+2892,1892,Oostkerk
+2893,1892,Oostkerke
+2894,1892,Wolphaartsdijk
+2895,1893,Clinge
+2896,1893,Klinge
+2897,1894,Graauw
+2898,1894,Grauw
+2899,1895,Heikant
+2900,1896,Hengstdijk
+2901,1896,Hengsdijk
+2902,1896,Hengstdyk
+2903,1897,Hulst
+2904,1898,Kapellebrug
+2905,1898,Kapelbrug
+2906,1898,Kappellebrug
+2907,1899,Kloosterzande
+2908,1899,Kleastersân
+2909,1900,Kuitaart
+2910,1901,Lamswaarde
+2911,1902,Nieuw-Namen
+2912,1902,"Nieuw Naman"
+2913,1903,Ossenisse
+2914,1904,"Sint Jansteen"
+2915,1904,Sint-Janssteen
+2916,1905,Terhole
+2917,1906,Vogelwaarde
+2918,1906,Fûgelwearde
+2919,1907,Walsoorden
+2920,1907,Walsoorde
+2921,1908,Kapelle
+2922,1908,Capelle
+2923,1909,Kloetinge
+2924,1910,Schore
+2925,1911,Wemeldinge
+2926,1912,Arnemuiden
+2927,1913,Middelburch
+2928,1913,Middelburg
+2929,1914,"Nieuw- en Sint Joosland"
+2930,1914,"Nieuw-en Sint Joosland"
+2931,1915,Colijnsplaat
+2932,1916,Geersdijk
+2933,1916,Geersdijke
+2934,1917,Kamperland
+2935,1917,Camperland
+2936,1918,Kats
+2937,1919,Kortgene
+2938,1919,Kotgene
+2939,1920,Wissenkerke
+2940,1920,Wissekerke
+2941,1921,Hansweert
+2942,1921,Hansweerd
+2943,1922,Krabbendijke
+2944,1922,Krabbendyke
+2945,1923,Kruiningen
+2946,1923,Kruninge
+2947,1924,Oostdijk
+2948,1925,Rilland
+2949,1925,Rilland-Bath
+2950,1926,Waarde
+2951,1927,Yerseke
+2952,1927,IJerseka
+2953,1927,Iersake
+2954,1927,Ierseke
+2955,1927,Yrseke
+2956,1928,Brouwershaven
+2957,1929,Bruinisse
+2958,1930,Burgh-Haamstede
+2959,1931,Dreischor
+2960,1931,Drijschor
+2961,1932,Ellemeet
+2962,1933,Kerkwerve
+2963,1934,Nieuwerkerk
+2964,1935,Noordgouwe
+2965,1936,Noordwelle
+2966,1937,Oosterland
+2967,1938,Ouwerkerk
+2968,1939,Renesse
+2969,1940,Scharendijke
+2970,1941,Sirjansland
+2971,1941,S-Heerjansland
+2972,1941,Sirsjansland
+2973,1942,Zierikzee
+2974,1942,Zieriksee
+2975,1943,Zonnemaire
+2976,1944,Aardenburg
+2977,1945,Breskens
+2978,1946,Cadzand
+2979,1946,Casant
+2980,1946,Kadzand
+2981,1947,Eede
+2982,1948,Groede
+2983,1949,Hoofdplaat
+2984,1950,IJzendijke
+2985,1951,Nieuwvliet
+2986,1952,Oostburg
+2987,1953,Retranchement
+2988,1954,Schoondijke
+2989,1955,"Sint Kruis"
+2990,1956,Sluis
+2991,1957,Waterlandkerkje
+2992,1958,Zuidzande
+2993,1959,Axel
+2994,1959,Aksel
+2995,1960,Biervliet
+2996,1960,Bierfliet
+2997,1961,Hoek
+2998,1962,Koewacht
+2999,1963,Overslag
+3000,1964,Philippine
+3001,1964,Filippine
+3002,1965,"Sas van Gent"
+3003,1965,"Sas fan Gent"
+3004,1966,Sluiskil
+3005,1967,Spui
+3006,1967,Zoutespui
+3007,1968,Neuzen
+3008,1968,Terneuzen
+3009,1969,Westdorpe
+3010,1970,Zaamslag
+3011,1971,Zuiddorpe
+3012,1972,Oud-Vossemeer
+3013,1972,"Oud Vosmeer"
+3014,1973,Poortvliet
+3015,1974,Scherpenisse
+3016,1975,"Anna Land"
+3017,1975,Sint-Annaland
+3018,1976,Sint-Maartensdijk
+3019,1977,"Sint Philipsland"
+3020,1977,"Sint Filipsland"
+3021,1978,Stavenisse
+3022,1979,Tholen
+3023,1979,Tolen
+3024,1980,Aagtekerke
+3025,1981,Biggekerke
+3026,1982,Domburg
+3027,1983,Gapinge
+3028,1984,Grijpskerke
+3029,1985,Koudekerke
+3030,1986,Meliskerke
+3031,1987,Oostkapelle
+3032,1988,Serooskerke
+3033,1989,Veere
+3034,1989,Vere
+3035,1990,Vrouwenpolder
+3036,1991,Westkapelle
+3037,1992,Zoutelande
+3038,1993,Oost-Souburg
+3039,1993,Oostsoeburg
+3040,1993,Souberg
+3041,1994,Ritthem
+3042,1994,Rittem
+3043,1995,Flissingen
+3044,1995,Vlissingen
+3045,1996,'s-Hertogenbosch
+3046,1996,"'s Hertogenbosch"
+3047,1996,"De Bosk"
+3048,1996,"Den Bosch"
+3049,1996,Hertogenbosch
+3050,1997,'s-Hertogenbosch
+3051,1997,"'s Hertogenbosch"
+3052,1997,"De Bosk"
+3053,1997,"Den Bosch"
+3054,1997,Hertogenbosch
+3055,1998,Nuland
+3056,1999,Rosmalen
+3057,2000,Alphen
+3058,2000,Alfen
+3059,2001,"Bavel AC"
+3060,2002,Chaam
+3061,2003,Galder
+3062,2004,Strijbeek
+3063,2005,"Ulvenhout AC"
+3064,2006,Almkerk
+3065,2007,Andel
+3066,2008,Babyloniënbroek
+3067,2008,Babiloniënbroek
+3068,2009,Drongelen
+3069,2010,Dussen
+3070,2011,Eethen
+3071,2011,Eeten
+3072,2011,Eten
+3073,2012,Genderen
+3074,2013,Giessen
+3075,2013,Giesen
+3076,2014,Hank
+3077,2015,Meeuwen
+3078,2016,Nieuwendijk
+3079,2016,Nieuwedijk
+3080,2017,"Rijswijk (NB)"
+3081,2018,Sleeuwijk
+3082,2018,Sleewijk
+3083,2019,Uitwijk
+3084,2020,Veen
+3085,2021,Waardhuizen
+3086,2022,Werkendam
+3087,2023,Aalburg
+3088,2023,"Wijk en Aalburg"
+3089,2024,Woudrichem
+3090,2025,Asten
+3091,2026,Ommel
+3092,2027,Baarle-Nassau
+3093,2028,Castelre
+3094,2028,Kastelree
+3095,2029,Ulicoten
+3096,2029,Ulekoten
+3097,2030,Bergeijk
+3098,2030,Bergeik
+3099,2031,Luyksgestel
+3100,2031,Luijksgestel
+3101,2031,Luiksgestel
+3102,2032,Riethoven
+3103,2033,Westerhoven
+3104,2034,"Bergen op Zoom"
+3105,2035,Halsteren
+3106,2036,Lepelstraat
+3107,2037,Heesch
+3108,2038,Heeswijk-Dinther
+3109,2039,Loosbroek
+3110,2040,Nistelrode
+3111,2041,Vinkel
+3112,2042,Vorstenbosch
+3113,2043,Best
+3114,2044,Bladel
+3115,2045,Casteren
+3116,2045,Kasteren
+3117,2046,Hapert
+3118,2047,Hoogeloon
+3119,2048,Netersel
+3120,2049,Boekel
+3121,2050,Venhorst
+3122,2051,Beugen
+3123,2052,Boksmeer
+3124,2052,Boxmeer
+3125,2053,Groeningen
+3126,2054,Holthees
+3127,2055,Maashees
+3128,2055,Muszès
+3129,2056,Oefelt
+3130,2056,Oeffelt
+3131,2057,Overloon
+3132,2058,Rijkevoort
+3133,2059,Sambeek
+3134,2060,Vierlingsbeek
+3135,2061,Mullem
+3136,2061,Mullum
+3137,2061,Vortum
+3138,2061,Vortum-Mullem
+3139,2062,Bokstel
+3140,2062,Boxtel
+3141,2063,Liempde
+3142,2064,Bavel
+3143,2065,Breda
+3144,2066,Prinsenbeek
+3145,2067,Teteringen
+3146,2068,Ulvenhout
+3147,2069,Budel
+3148,2070,Budel-Dorplein
+3149,2070,Dorplein
+3150,2070,Dorpplein
+3151,2071,Budel-Schoot
+3152,2071,"Groot Schoot"
+3153,2071,"Groote Schoot"
+3154,2072,Gastel
+3155,2073,Maarheeze
+3156,2073,Haarheeze
+3157,2073,Maarheze
+3158,2074,Soerendonk
+3159,2075,Beers
+3160,2075,"Beers NB"
+3161,2075,Bèèrs
+3162,2076,Cuijk
+3163,2076,Cuyk
+3164,2076,Kuuk
+3165,2076,Kuyk
+3166,2077,Haps
+3167,2078,Katwijk
+3168,2078,"Katwijk NB"
+3169,2078,"Katwijk aan de Maas"
+3170,2079,Linden
+3171,2080,"Sint Agatha"
+3172,2081,Vianen
+3173,2081,"Vianen NB"
+3174,2082,Deurne
+3175,2083,Helenaveen
+3176,2084,Liessel
+3177,2084,Liesel
+3178,2084,Liezel
+3179,2085,Neerkant
+3180,2086,Vlierden
+3181,2087,"'s Gravenmoer"
+3182,2087,"'s Gravemoer"
+3183,2088,Dongen
+3184,2089,Drimmelen
+3185,2090,"Hooge Zwaluwe"
+3186,2091,"Lage Zwaluwe"
+3187,2091,Zwaluwe
+3188,2092,Made
+3189,2093,Terheijden
+3190,2093,Terheden
+3191,2093,Terheide
+3192,2093,Terheiden
+3193,2094,Wagenberg
+3194,2095,Duizel
+3195,2096,Eersel
+3196,2097,Knegsel
+3197,2098,Steensel
+3198,2099,Vessem
+3199,2100,Wintelre
+3200,2101,Eindhoven
+3201,2102,Etten-Leur
+3202,2103,Geertruidenberg
+3203,2104,Raamsdonk
+3204,2105,Raamsdonksveer
+3205,2105,Raamsdonkveer
+3206,2106,Geldrop
+3207,2107,Mierlo
+3208,2107,Mierloo
+3209,2108,Bakel
+3210,2109,"De Mortel"
+3211,2109,Mortel
+3212,2110,"De Rips"
+3213,2111,Elsendorp
+3214,2112,Gemert
+3215,2113,Handel
+3216,2114,Milheeze
+3217,2115,Gilze
+3218,2116,Hulten
+3219,2117,Molenschot
+3220,2118,Rijen
+3221,2118,Reijen
+3222,2119,Goirle
+3223,2119,Goorle
+3224,2120,Riel
+3225,2121,Escharen
+3226,2121,Esteren
+3227,2122,Gassel
+3228,2123,Grave
+3229,2124,Velp
+3230,2125,Biezenmortel
+3231,2126,Esch
+3232,2127,Haaren
+3233,2128,Helvoirt
+3234,2128,Helvoort
+3235,2129,Bosschenhoofd
+3236,2130,Hoeven
+3237,2130,"De Hoeven"
+3238,2131,"Oud Gastel"
+3239,2132,Oudenbosch
+3240,2133,Stampersgat
+3241,2134,Heeze
+3242,2135,Leende
+3243,2136,Sterksel
+3244,2137,Helmond
+3245,2138,Doeveren
+3246,2139,Drunen
+3247,2140,Elshout
+3248,2141,Haarsteeg
+3249,2142,Hedikhuizen
+3250,2143,Heesbeen
+3251,2144,Herpt
+3252,2145,Heusden
+3253,2145,Housden
+3254,2146,Nieuwkuijk
+3255,2146,Nieuwkuik
+3256,2147,Oudheusden
+3257,2148,Vlijmen
+3258,2149,Biest-Houtakker
+3259,2150,Diessen
+3260,2150,Diesen
+3261,2151,Esbeek
+3262,2152,Haghorst
+3263,2153,Hilvarenbeek
+3264,2154,Aarle-Rixtel
+3265,2155,"Beek en Donk"
+3266,2156,Lieshout
+3267,2157,Mariahout
+3268,2158,Reek
+3269,2159,Schaijk
+3270,2159,Schaaik
+3271,2159,Schaik
+3272,2159,Schayk
+3273,2160,Zeeland
+3274,2161,"De Moer"
+3275,2161,Sint-Joachimsmoer
+3276,2162,Kaatsheuvel
+3277,2163,"Loon op Zand"
+3278,2164,Erp
+3279,2165,Schijndel
+3280,2166,Sint-Oedenrode
+3281,2167,Vechel
+3282,2167,Veghel
+3283,2168,Langenboom
+3284,2169,Mill
+3285,2170,"Sint Hubert"
+3286,2171,Wilbertoord
+3287,2172,Fijnaart
+3288,2173,Heijningen
+3289,2173,Heiningen
+3290,2174,Klundert
+3291,2175,Langeweg
+3292,2176,Moerdijk
+3293,2177,Noordhoek
+3294,2178,Oudemolen
+3295,2179,Standdaarbuiten
+3296,2180,Willemstad
+3297,2181,Zevenbergen
+3298,2182,"Zevenbergschen Hoek"
+3299,2182,Zevenbergschehoek
+3300,2183,Nuenen
+3301,2184,Oirschot
+3302,2184,Oorschot
+3303,2185,"Oost West en Middelbeers"
+3304,2186,Heukelom
+3305,2186,Heukelum
+3306,2186,"Hoog Heukelom"
+3307,2186,"Hoog Heukelum"
+3308,2187,Moergestel
+3309,2188,Oisterwijk
+3310,2188,Oosterwijk
+3311,2189,"Den Hout"
+3312,2189,Hout
+3313,2190,Dorst
+3314,2191,Oosteind
+3315,2192,Oosterhout
+3316,2193,Berghem
+3317,2193,Berchem
+3318,2194,Demen
+3319,2195,Deursen-Dennenburg
+3320,2196,Dieden
+3321,2197,Geffen
+3322,2198,Haren
+3323,2199,Herpen
+3324,2200,Huisseling
+3325,2200,Huiseling
+3326,2201,Keent
+3327,2202,Koolwijk
+3328,2203,Lit
+3329,2203,Lith
+3330,2204,Lithoijen
+3331,2204,Lithooien
+3332,2204,Lithoyen
+3333,2204,Litooien
+3334,2205,Macharen
+3335,2206,Maren-Kessel
+3336,2207,Megen
+3337,2208,Neerlangel
+3338,2209,Neerloon
+3339,2210,Oijen
+3340,2210,Ooien
+3341,2211,Os
+3342,2211,Oss
+3343,2212,Overlangel
+3344,2213,Ravenstein
+3345,2213,Ravestein
+3346,2214,Teeffelen
+3347,2214,Tefelen
+3348,2214,Teffelen
+3349,2215,"Hooge Mierde"
+3350,2216,Hulsel
+3351,2217,"Lage Mierde"
+3352,2218,Reusel
+3353,2218,Reuzel
+3354,2219,Heerle
+3355,2220,Moerstraten
+3356,2221,Nispen
+3357,2222,Roosendaal
+3358,2223,Wouw
+3359,2224,"Wouwse Plantage"
+3360,2224,Wouwse-Plantage
+3361,2225,Rucphen
+3362,2225,Rukfen
+3363,2226,Schijf
+3364,2227,Sprundel
+3365,2228,Heike
+3366,2228,"St. Willebrord"
+3367,2228,Willebrord
+3368,2229,Zegge
+3369,2230,Landhorst
+3370,2231,Ledeacker
+3371,2231,Ledeakker
+3372,2232,Oploo
+3373,2232,Oplo
+3374,2233,"Rijkevoort-De Walsert"
+3375,2234,Antonis
+3376,2234,"Sint Anthonis"
+3377,2234,"Sint Antonis"
+3378,2235,Stevensbeek
+3379,2236,Wanroij
+3380,2236,Wanrooi
+3381,2236,Wanrooy
+3382,2236,Wanroy
+3383,2237,Westerbeek
+3384,2238,Berlicum
+3385,2238,Berlikum
+3386,2239,"Den Dungen"
+3387,2239,Dungen
+3388,2240,Gemonde
+3389,2241,Sint-Michielsgestel
+3390,2242,Lierop
+3391,2243,Someren
+3392,2244,"Son en Breugel"
+3393,2245,"De Heen"
+3394,2245,Heen
+3395,2245,Hoogedorp
+3396,2246,Dinteloord
+3397,2247,Kruisland
+3398,2248,Nieuw-Vossemeer
+3399,2248,Nieuw-Vosmeer
+3400,2249,Steenbergen
+3401,2250,Berkel-Enschot
+3402,2251,Tilburch
+3403,2251,Tilburg
+3404,2252,Udenhout
+3405,2253,Odiliapeel
+3406,2254,Uden
+3407,2255,Volkel
+3408,2256,Valkenswaard
+3409,2257,Veldhoven
+3410,2258,Cromvoirt
+3411,2258,Crummert
+3412,2259,Vught
+3413,2260,Waalre
+3414,2261,Sprang-Capelle
+3415,2262,Waalwijk
+3416,2263,Waspik
+3417,2264,Hoogerheide
+3418,2265,Huijbergen
+3419,2265,Huibergen
+3420,2266,Ossendrecht
+3421,2267,Putte
+3422,2267,Putten
+3423,2268,Woensdrecht
+3424,2269,Achtmaal
+3425,2270,"Klein Zundert"
+3426,2271,Rijsbergen
+3427,2272,Wernhout
+3428,2273,Zundert
+3429,2273,"Groot Zundert"
+3430,2274,Beek
+3431,2275,Maastricht-Airport
+3432,2276,Spanbeek
+3433,2276,Spaubeek
+3434,2277,Amstenrade
+3435,2278,Bingelrade
+3436,2279,Doenrade
+3437,2279,"Groot Doenrade"
+3438,2280,Hulsberg
+3439,2281,Jabeek
+3440,2282,Merkelbeek
+3441,2283,Nut
+3442,2283,Nuth
+3443,2284,Oirsbeek
+3444,2284,Oorsbeek
+3445,2285,Puth
+3446,2286,Schimmert
+3447,2287,Schinnen
+3448,2288,Schinveld
+3449,2289,Sweikhuizen
+3450,2290,Wijnandsrade
+3451,2291,Beesel
+3452,2291,Besel
+3453,2292,Reuver
+3454,2293,Afferden
+3455,2293,"Afferden L"
+3456,2294,Bergen
+3457,2295,Siebengewald
+3458,2296,Well
+3459,2296,"Well L"
+3460,2297,Wellerlooi
+3461,2298,Brunssum
+3462,2298,Brunsum
+3463,2299,Echt
+3464,2300,Koningsbosch
+3465,2301,"Maria Hoop"
+3466,2302,Nieuwstadt
+3467,2302,Nieuwstad
+3468,2303,Roosteren
+3469,2304,"Sint Joost"
+3470,2305,Susteren
+3471,2306,Banholt
+3472,2307,Bemelen
+3473,2308,"Cadier en Keer"
+3474,2308,Cadier
+3475,2308,Kadier
+3476,2308,"Kadier en Keer"
+3477,2309,Eckelrade
+3478,2309,Ekkelrade
+3479,2310,Eijsden
+3480,2310,Eisden
+3481,2310,Eysden
+3482,2311,Gronsveld
+3483,2312,Margraten
+3484,2313,Mheer
+3485,2313,Meehr
+3486,2313,Meer
+3487,2314,Noorbeek
+3488,2314,Noordbeek
+3489,2315,Scheulder
+3490,2315,Schulde
+3491,2315,Schulder
+3492,2316,"Sint Geertruid"
+3493,2316,Geertruid
+3494,2316,"Sint Geertruide"
+3495,2317,Asnapium
+3496,2317,Gennep
+3497,2317,"Gennep an der Maas"
+3498,2318,Heijen
+3499,2318,Heien
+3500,2319,Milsbeek
+3501,2319,"Milsbeek bij Gennep"
+3502,2320,Ottersum
+3503,2321,Ven-Zelderheide
+3504,2321,Veen
+3505,2321,Ven
+3506,2322,Beutenaken
+3507,2323,Elkenrade
+3508,2323,Elkenraad
+3509,2324,Epen
+3510,2325,Eys
+3511,2325,Eijs
+3512,2325,Eis
+3513,2326,Gulpen
+3514,2327,Heijenrath
+3515,2327,Heienrade
+3516,2327,Heijenraat
+3517,2328,Ingber
+3518,2329,Mechelen
+3519,2330,Reijmerstok
+3520,2330,Reimerstok
+3521,2331,Slenaken
+3522,2331,Slenken
+3523,2332,Wijlre
+3524,2333,Wittem
+3525,2334,Heerlen
+3526,2335,Hoensbroek
+3527,2335,Hoensbrock
+3528,2336,America
+3529,2336,Amerika
+3530,2337,Broekhuizen
+3531,2338,Broekhuizenvorst
+3532,2338,Broekhuizervorst
+3533,2339,Evertsoord
+3534,2340,Griendtsveen
+3535,2341,Grubbenvorst
+3536,2342,Hegelsom
+3537,2343,Horst
+3538,2344,Kronenberg
+3539,2345,Lottum
+3540,2346,Meerlo
+3541,2346,Meerloo
+3542,2347,Melderslo
+3543,2348,Meterik
+3544,2349,Sevenum
+3545,2350,Swolgen
+3546,2351,Tienraai
+3547,2351,Tienray
+3548,2352,Eygelshoven
+3549,2352,Eggelshoven
+3550,2352,Eigelshoven
+3551,2352,Eijgelshoven
+3552,2352,Eygelshovenerneg
+3553,2353,Kerkrade
+3554,2354,Landgraaf
+3555,2355,Baexem
+3556,2355,Baaksem
+3557,2356,Buggenum
+3558,2356,Bruggenum
+3559,2356,Buggenem
+3560,2357,Ell
+3561,2357,El
+3562,2358,Grathem
+3563,2358,Gratem
+3564,2359,Haelen
+3565,2359,Halen
+3566,2360,Haler
+3567,2360,Haeler
+3568,2361,Heibloem
+3569,2362,Heijthuizen
+3570,2362,Heithuizen
+3571,2362,Heythuizen
+3572,2362,Heythuysen
+3573,2363,Horn
+3574,2364,Hunsel
+3575,2365,Ittervoort
+3576,2366,Kelpen-Oler
+3577,2367,Neer
+3578,2368,Neeritter
+3579,2369,Nunhem
+3580,2370,Roggel
+3581,2371,Beegden
+3582,2372,Heel
+3583,2373,Linne
+3584,2374,Maasbracht
+3585,2375,Ohee
+3586,2375,"Ohé en Laak"
+3587,2376,Stevensweert
+3588,2377,Thorn
+3589,2377,Torn
+3590,2378,Wessem
+3591,2379,Maastricht
+3592,2380,Bunde
+3593,2381,Geulle
+3594,2381,Geul
+3595,2381,Guelle
+3596,2382,Meersen
+3597,2382,Meerssen
+3598,2383,Moorveld
+3599,2383,Mwórveld
+3600,2384,Ulestraten
+3601,2385,Middelaar
+3602,2386,Molenhoek
+3603,2387,Mook
+3604,2388,Plasmolen
+3605,2389,Leverooi
+3606,2389,Leveroy
+3607,2390,Nederweert
+3608,2391,Nederweert-Eind
+3609,2392,Ospel
+3610,2393,Baarlo
+3611,2393,Baarloo
+3612,2394,Beringe
+3613,2394,Beringen
+3614,2395,Egchel
+3615,2395,Echel
+3616,2396,Grashoek
+3617,2397,Helden
+3618,2398,Kessel
+3619,2399,Koningslust
+3620,2400,Maasbree
+3621,2401,Meijel
+3622,2401,Meiel
+3623,2402,Panningen
+3624,2403,Herkenbosch
+3625,2404,Melick
+3626,2404,Melik
+3627,2405,Montfort
+3628,2406,Posterholt
+3629,2407,"Sint Odiliënberg"
+3630,2408,Vlodrop
+3631,2409,Herten
+3632,2410,Roermond
+3633,2411,Swalmen
+3634,2412,Baneheide
+3635,2413,Bocholtz
+3636,2413,Bocholz
+3637,2414,Simpelveld
+3638,2415,Born
+3639,2416,Buchten
+3640,2417,Einighausen
+3641,2418,Geleen
+3642,2419,Grevenbicht
+3643,2420,Guttecoven
+3644,2420,Guttekoven
+3645,2421,Holtum
+3646,2422,Limbricht
+3647,2423,Munstergeleen
+3648,2424,Obbicht
+3649,2425,Papenhoven
+3650,2426,Sittard
+3651,2427,Windraak
+3652,2428,Elsloo
+3653,2428,Elslo
+3654,2429,Stein
+3655,2430,Urmond
+3656,2431,Lemiers
+3657,2431,Lemier
+3658,2432,Vaals
+3659,2433,Vijlen
+3660,2434,"Berg en Terblijt"
+3661,2435,"Schin op Geul"
+3662,2435,"Schin op Geule"
+3663,2436,Valkenburg
+3664,2437,Walem
+3665,2438,Arcen
+3666,2438,Arsen
+3667,2439,Belfeld
+3668,2440,Lomm
+3669,2440,Lom
+3670,2441,Steijl
+3671,2441,Steil
+3672,2441,Steyl
+3673,2442,Tegelen
+3674,2443,Velden
+3675,2444,Fenlo
+3676,2444,Venlo
+3677,2444,Venloo
+3678,2445,Blitterswijck
+3679,2445,Blitterswijk
+3680,2446,Castenray
+3681,2446,Castenraai
+3682,2446,Castenraij
+3683,2446,Kastenraai
+3684,2447,Geijsteren
+3685,2447,Geisteren
+3686,2448,Heide
+3687,2449,Leunen
+3688,2450,Merselo
+3689,2450,Meerselo
+3690,2451,Oirlo
+3691,2451,Oorlo
+3692,2451,Oorloo
+3693,2452,Oostrum
+3694,2453,Smakt
+3695,2454,Venray
+3696,2454,Venraai
+3697,2454,Venraij
+3698,2455,Veulen
+3699,2456,Vredepeel
+3700,2457,Wanssum
+3701,2457,Wansum
+3702,2458,IJsselstein
+3703,2458,Ysselsteyn
+3704,2459,Klimmen
+3705,2460,Ransdaal
+3706,2461,Voerendaal
+3707,2462,Stramproy
+3708,2462,Stamprooi
+3709,2462,Stamproy
+3710,2462,Stramproij
+3711,2463,Weerd
+3712,2463,Weert
