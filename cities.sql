@@ -6,7 +6,7 @@ CREATE TABLE cities(
   ,longitude  NUMERIC(10,7) NOT NULL
   ,population INTEGER  NOT NULL
 );
-INSERT INTO mytable(id,name,province,latitude,longitude,population) VALUES
+INSERT INTO cities(id,name,province,latitude,longitude,population) VALUES
  (1,'Appingedam','Groningen',53.32167,6.85833,11721)
 ,(2,'Bierum','Groningen',53.3825,6.85972,653)
 ,(3,'Borgsweer','Groningen',53.29833,7.0125,146)
@@ -1007,7 +1007,7 @@ INSERT INTO mytable(id,name,province,latitude,longitude,population) VALUES
 ,(998,'Mastenbroek','Overijssel',52.575,6.02361,185)
 ,(999,'Zwartsluis','Overijssel',52.64083,6.06944,4855)
 ,(1000,'Zwolle','Overijssel',52.5125,6.09444,127497);
-INSERT INTO mytable(id,name,province,latitude,longitude,population) VALUES
+INSERT INTO cities(id,name,province,latitude,longitude,population) VALUES
  (1001,'Almere','Flevoland',52.37025,5.21413,207904)
 ,(1002,'Biddinghuizen','Flevoland',52.455,5.69306,6345)
 ,(1003,'Dronten','Flevoland',52.525,5.71806,28125)
@@ -2008,7 +2008,7 @@ INSERT INTO mytable(id,name,province,latitude,longitude,population) VALUES
 ,(1998,'Nuland','Noord-Brabant',51.72583,5.43472,4490)
 ,(1999,'Rosmalen','Noord-Brabant',51.71667,5.36528,36281)
 ,(2000,'Alphen','Noord-Brabant',51.48167,4.95833,3160);
-INSERT INTO mytable(id,name,province,latitude,longitude,population) VALUES
+INSERT INTO cities(id,name,province,latitude,longitude,population) VALUES
  (2001,'Bavel AC','Noord-Brabant',51.54879,4.84712,46)
 ,(2002,'Chaam','Noord-Brabant',51.50583,4.86111,4187)
 ,(2003,'Galder','Noord-Brabant',51.515,4.77639,1064)
