@@ -3,7 +3,7 @@ CREATE TABLE city_names(
   ,city_id    INTEGER  NOT NULL
   ,name       VARCHAR(255) NOT NULL
 );
-INSERT INTO mytable(id,city_id,name) VALUES
+INSERT INTO city_names(id,city_id,name) VALUES
  (2,2,'Bierum')
 ,(3,3,'Borgsweer')
 ,(4,3,'Borgweg')
@@ -1004,7 +1004,7 @@ INSERT INTO mytable(id,city_id,name) VALUES
 ,(999,586,'Blesse')
 ,(1000,587,'De Hoeve')
 ,(1001,588,'Langelille');
-INSERT INTO mytable(id,city_id,name) VALUES
+INSERT INTO city_names(id,city_id,name) VALUES
  (1002,589,'Monnikeburen')
 ,(1003,589,'Monnikenburen')
 ,(1004,589,'Munnekeburen')
@@ -2005,7 +2005,7 @@ INSERT INTO mytable(id,city_id,name) VALUES
 ,(1999,1339,'Latum')
 ,(2000,1340,'Lobith')
 ,(2001,1340,'Lebith');
-INSERT INTO mytable(id,city_id,name) VALUES
+INSERT INTO city_names(id,city_id,name) VALUES
  (2002,1340,'Lobit')
 ,(2003,1341,'Pannerden')
 ,(2004,1341,'Rannereen')
@@ -3006,7 +3006,7 @@ INSERT INTO mytable(id,city_id,name) VALUES
 ,(2999,2050,'Venhorst')
 ,(3000,2051,'Beugen')
 ,(3001,2052,'Boksmeer');
-INSERT INTO mytable(id,city_id,name) VALUES
+INSERT INTO city_names(id,city_id,name) VALUES
  (3002,2052,'Boxmeer')
 ,(3003,2053,'Groeningen')
 ,(3004,2054,'Holthees')
